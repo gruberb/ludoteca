@@ -471,7 +471,7 @@
       },
       "platforms": {
         "windows": true,
-        "macos": false,
+        "macos": true,
         "linux": false,
         "steamdeck": "verified",
         "switch": true
@@ -3952,7 +3952,7 @@
       },
       "platforms": {
         "windows": true,
-        "macos": false,
+        "macos": true,
         "linux": false,
         "steamdeck": "verified",
         "switch": true
@@ -5004,7 +5004,7 @@
       },
       "platforms": {
         "windows": true,
-        "macos": false,
+        "macos": true,
         "linux": false,
         "steamdeck": "",
         "switch": false
@@ -5257,7 +5257,7 @@
       },
       "platforms": {
         "windows": true,
-        "macos": false,
+        "macos": true,
         "linux": false,
         "steamdeck": "verified",
         "switch": true
@@ -5396,7 +5396,7 @@
       },
       "platforms": {
         "windows": true,
-        "macos": false,
+        "macos": true,
         "linux": false,
         "steamdeck": "verified",
         "switch": true
