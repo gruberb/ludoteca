@@ -1,8 +1,12 @@
+<!-- src/views/HomeView.vue -->
 <template>
     <div>
         <AppHeader />
 
-        <main class="container mx-auto px-4">
+        <main
+            class="container mx-auto px-4 transition-all duration-300"
+            :class="{ 'mr-96': sidebarOpen }"
+        >
             <FilterBar
                 :sortBy="gamesStore.sortBy"
                 @sort="handleSort"

@@ -15,3 +15,12 @@
         @apply bg-white rounded-lg shadow-lg overflow-hidden transition-transform hover:scale-105;
     }
 }
+
+.close-sidebar {
+    z-index: 1;
+    background: white;
+}
+
+.rank-order {
+    padding-top: 25px;
+}

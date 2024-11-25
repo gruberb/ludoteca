@@ -1,7 +1,7 @@
 <template>
     <div class="bg-white shadow rounded-lg p-4 mb-6">
         <div class="flex flex-wrap gap-6 items-center">
-            <div class="flex items-center gap-4">
+            <div class="rank-order flex items-center gap-4">
                 <span class="text-sm font-medium text-gray-700">Sort by:</span>
                 <div class="flex items-center bg-gray-100 rounded-lg p-1">
                     <button

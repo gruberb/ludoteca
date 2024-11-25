@@ -1,3 +1,4 @@
+<!-- src/components/GameSidebar.vue -->
 <template>
     <Transition
         enter-active-class="transform transition ease-in-out duration-300"
@@ -9,26 +10,30 @@
     >
         <div
             v-if="isOpen"
-            class="fixed inset-y-0 right-0 w-96 bg-white shadow-xl overflow-y-auto"
+            class="fixed inset-y-0 right-0 w-96 bg-gray-50 shadow-xl overflow-y-auto border-l border-gray-200"
         >
             <div class="p-6">
                 <button
                     @click="$emit('update:isOpen', false)"
-                    class="absolute top-4 right-4 text-gray-500 hover:text-gray-700"
+                    class="close-sidebar absolute top-4 right-4 text-gray-500 hover:text-gray-700 hover:bg-gray-200 p-1 rounded-full transition-colors"
                 >
                     <XIcon size="24" />
                 </button>
 
                 <div v-if="game" class="space-y-6">
-                    <img
-                        :src="game.header_image"
-                        :alt="game.title"
-                        class="w-full h-48 object-cover rounded-lg"
-                    />
+                    <div class="relative">
+                        <img
+                            :src="game.header_image"
+                            :alt="game.title"
+                            class="w-full h-48 object-cover rounded-lg shadow-md"
+                        />
+                    </div>
 
-                    <div>
-                        <h2 class="text-2xl font-bold">{{ game.title }}</h2>
-                        <p class="text-gray-600">
+                    <div class="bg-white rounded-lg p-4 shadow-sm">
+                        <h2 class="text-2xl font-bold text-gray-900">
+                            {{ game.title }}
+                        </h2>
+                        <p class="text-gray-600 mt-1">
                             Released:
                             {{
                                 new Date(game.release_date).toLocaleDateString()
@@ -36,23 +41,14 @@
                         </p>
                     </div>
 
-                    <div v-if="game.metacritic" class="flex items-center gap-2">
-                        <span class="font-bold">Metacritic:</span>
-                        <span
-                            class="bg-green-100 text-green-800 px-2 py-1 rounded font-bold"
-                        >
-                            {{ game.metacritic }}
-                        </span>
-                    </div>
-
                     <!-- Platforms with icons -->
-                    <div>
-                        <h3 class="font-bold mb-2">Platforms</h3>
+                    <div class="bg-white rounded-lg p-4 shadow-sm">
+                        <h3 class="font-bold text-gray-900 mb-3">Platforms</h3>
                         <div class="flex flex-wrap gap-2">
                             <span
                                 v-for="(value, platform) in supportedPlatforms"
                                 :key="platform"
-                                class="flex items-center gap-1 px-2 py-1 bg-gray-100 rounded text-sm"
+                                class="flex items-center gap-1.5 px-3 py-1.5 bg-gray-100 rounded-full text-sm"
                             >
                                 <component
                                     :is="platformIcon(platform)"
@@ -65,15 +61,15 @@
                     </div>
 
                     <!-- Rankings -->
-                    <div>
-                        <h3 class="font-bold mb-2">Rankings</h3>
-                        <div class="space-y-2 bg-gray-50 rounded-lg p-3">
+                    <div class="bg-white rounded-lg p-4 shadow-sm">
+                        <h3 class="font-bold text-gray-900 mb-3">Rankings</h3>
+                        <div class="divide-y divide-gray-100">
                             <div
                                 v-for="(rank, source) in game.rankings"
                                 :key="source"
-                                class="flex justify-between items-center"
+                                class="flex justify-between items-center py-2 first:pt-0 last:pb-0"
                             >
-                                <span class="font-medium">{{ source }}</span>
+                                <span class="text-gray-600">{{ source }}</span>
                                 <span class="font-bold text-primary-600"
                                     >#{{ rank }}</span
                                 >
@@ -82,13 +78,18 @@
                     </div>
 
                     <!-- Stores -->
-                    <div v-if="game.stores && game.stores.length">
-                        <h3 class="font-bold mb-2">Available on</h3>
+                    <div
+                        v-if="game.stores?.length"
+                        class="bg-white rounded-lg p-4 shadow-sm"
+                    >
+                        <h3 class="font-bold text-gray-900 mb-3">
+                            Available on
+                        </h3>
                         <div class="flex flex-wrap gap-2">
                             <span
                                 v-for="store in game.stores"
                                 :key="store"
-                                class="px-2 py-1 bg-blue-50 text-blue-700 rounded text-sm"
+                                class="px-3 py-1.5 bg-blue-50 text-blue-700 rounded-full text-sm font-medium"
                             >
                                 {{ store }}
                             </span>
@@ -96,65 +97,70 @@
                     </div>
 
                     <!-- Links -->
-                    <div class="space-y-2">
-                        <h3 class="font-bold mb-2">Links</h3>
-
-                        <div
-                            v-if="game.steam_id"
-                            class="flex items-center gap-2"
-                        >
-                            <Store class="text-gray-600" size="16" />
+                    <div class="bg-white rounded-lg p-4 shadow-sm">
+                        <h3 class="font-bold text-gray-900 mb-3">Links</h3>
+                        <div class="space-y-3">
                             <a
+                                v-if="game.steam_id"
                                 :href="
                                     'https://store.steampowered.com/app/' +
                                     game.steam_id
                                 "
                                 target="_blank"
-                                class="text-blue-600 hover:underline"
+                                class="flex items-center gap-2 text-gray-600 hover:text-blue-600 transition-colors group"
                             >
-                                View on Steam
+                                <Store
+                                    class="group-hover:text-blue-600"
+                                    size="16"
+                                />
+                                <span class="group-hover:underline"
+                                    >View on Steam</span
+                                >
                             </a>
-                        </div>
 
-                        <div
-                            v-if="game.protondb_url"
-                            class="flex items-center gap-2"
-                        >
-                            <TestTube2 class="text-gray-600" size="16" />
                             <a
+                                v-if="game.protondb_url"
                                 :href="game.protondb_url"
                                 target="_blank"
-                                class="text-blue-600 hover:underline"
+                                class="flex items-center gap-2 text-gray-600 hover:text-blue-600 transition-colors group"
                             >
-                                ProtonDB Compatibility
+                                <TestTube2
+                                    class="group-hover:text-blue-600"
+                                    size="16"
+                                />
+                                <span class="group-hover:underline"
+                                    >ProtonDB Compatibility</span
+                                >
                             </a>
-                        </div>
 
-                        <div
-                            v-if="game.reddit_url"
-                            class="flex items-center gap-2"
-                        >
-                            <MessageSquare class="text-gray-600" size="16" />
                             <a
+                                v-if="game.reddit_url"
                                 :href="game.reddit_url"
                                 target="_blank"
-                                class="text-blue-600 hover:underline"
+                                class="flex items-center gap-2 text-gray-600 hover:text-blue-600 transition-colors group"
                             >
-                                Reddit Community
+                                <MessageCircle
+                                    class="group-hover:text-blue-600"
+                                    size="16"
+                                />
+                                <span class="group-hover:underline"
+                                    >Reddit Community</span
+                                >
                             </a>
-                        </div>
 
-                        <div
-                            v-if="game.metacritic_url"
-                            class="flex items-center gap-2"
-                        >
-                            <Star class="text-gray-600" size="16" />
                             <a
+                                v-if="game.metacritic_url"
                                 :href="game.metacritic_url"
                                 target="_blank"
-                                class="text-blue-600 hover:underline"
+                                class="flex items-center gap-2 text-gray-600 hover:text-blue-600 transition-colors group"
                             >
-                                Metacritic Reviews
+                                <Award
+                                    class="group-hover:text-blue-600"
+                                    size="16"
+                                />
+                                <span class="group-hover:underline"
+                                    >Metacritic Reviews</span
+                                >
                             </a>
                         </div>
                     </div>
@@ -174,8 +180,8 @@ import {
     Gamepad2,
     Store,
     TestTube2,
-    MessageSquare,
-    Star,
+    MessageCircle,
+    Award,
 } from "lucide-vue-next";
 
 const props = defineProps({
