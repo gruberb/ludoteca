@@ -3980,7 +3980,7 @@
       },
       "platforms": {
         "windows": true,
-        "macos": false,
+        "macos": true,
         "linux": false,
         "steamdeck": "verified",
         "switch": false
@@ -3988,9 +3988,9 @@
       "stores": [],
       "steam_id": 1145350,
       "total_reviews": 0,
-      "header_image": "https://media.rawg.io/media/screenshots/6d6/6d61e8ef67c0f27b29b4f16266dbd9bd.jpg",
+      "header_image": "https://media.rawg.io/media/resize/1920/-/screenshots/f2a/f2ad5b935bec0757defcbd1245182971.jpg",
       "release_date": "2001-01-01",
-      "reddit_url": "",
+      "reddit_url": "https://www.reddit.com/r/HadesTheGame/",
       "metacritic_url": "",
       "protondb_url": "https://www.protondb.com/app/1145350"
     },
