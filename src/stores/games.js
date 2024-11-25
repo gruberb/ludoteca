@@ -1,5 +1,6 @@
 // src/stores/games.js
 import { defineStore } from "pinia";
+import config from "../config/api";
 
 export const useGamesStore = defineStore("games", {
   state: () => ({
@@ -85,7 +86,10 @@ export const useGamesStore = defineStore("games", {
     async fetchGames() {
       this.loading = true;
       try {
-        const response = await fetch("/manifest.json");
+        const response = await fetch(config.manifestUrl);
+        if (!response.ok) {
+          throw new Error(`HTTP error! status: ${response.status}`);
+        }
         const data = await response.json();
         this.games = data.games;
       } catch (error) {
