@@ -2938,39 +2938,10 @@
       "protondb_url": "https://www.protondb.com/app/400"
     },
     {
-      "title": "star wars knights of the old republic 2",
-      "rankings": {
-        "PCGamer": 95
-      },
-      "platforms": {
-        "windows": true,
-        "macos": true,
-        "linux": false,
-        "steamdeck": "verified",
-        "switch": true
-      },
-      "stores": [
-        "App Store",
-        "GOG",
-        "Google Play",
-        "Nintendo Store",
-        "Steam",
-        "Xbox 360 Store",
-        "Xbox Store"
-      ],
-      "steam_id": 32370,
-      "total_reviews": 0,
-      "header_image": "https://media.rawg.io/media/games/6e0/6e0c19bb111bd4fa20cf0eb72a049519.jpg",
-      "metacritic": 88,
-      "release_date": "2003-07-15",
-      "reddit_url": "https://www.reddit.com/r/kotor/",
-      "metacritic_url": "https://www.metacritic.com/game/pc/star-wars-knights-of-the-old-republic",
-      "protondb_url": "https://www.protondb.com/app/32370"
-    },
-    {
       "title": "Star Wars: Knights of the Old Republic",
       "rankings": {
-        "IGN": 46
+        "IGN": 46,
+        "PCGamer": 95
       },
       "platforms": {
         "windows": true,
@@ -3537,7 +3508,7 @@
         "windows": true,
         "macos": false,
         "linux": false,
-        "steamdeck": "",
+        "steamdeck": "verified",
         "switch": false
       },
       "stores": [
@@ -3547,12 +3518,14 @@
         "Steam",
         "Xbox Store"
       ],
+      "steam_id": 870780,
       "total_reviews": 0,
       "header_image": "https://media.rawg.io/media/games/253/2534a46f3da7fa7c315f1387515ca393.jpg",
       "metacritic": 84,
       "release_date": "2019-08-27",
       "reddit_url": "https://www.reddit.com/r/controlgame/",
-      "metacritic_url": "https://www.metacritic.com/game/playstation-4/control"
+      "metacritic_url": "https://www.metacritic.com/game/playstation-4/control",
+      "protondb_url": "https://www.protondb.com/app/870780"
     },
     {
       "title": "strange horticulture",
@@ -3920,27 +3893,6 @@
       "metacritic_url": ""
     },
     {
-      "title": "counter strike 2",
-      "rankings": {
-        "PCGamer": 35
-      },
-      "platforms": {
-        "windows": true,
-        "macos": false,
-        "linux": true,
-        "steamdeck": "verified",
-        "switch": false
-      },
-      "stores": ["Steam"],
-      "steam_id": 730,
-      "total_reviews": 0,
-      "header_image": "https://media.rawg.io/media/games/ec4/ec4b02bdb3eb5c6212992c19bc05697e.jpg",
-      "release_date": "2023-09-27",
-      "reddit_url": "https://www.reddit.com/r/GlobalOffensive/",
-      "metacritic_url": "",
-      "protondb_url": "https://www.protondb.com/app/730"
-    },
-    {
       "title": "Shadow of the Colossus (2018)",
       "rankings": {
         "Eurogamer": 44
@@ -4003,7 +3955,8 @@
     {
       "title": "God of War",
       "rankings": {
-        "IGN": 25
+        "IGN": 25,
+        "RPS": 33
       },
       "platforms": {
         "windows": false,
@@ -4021,26 +3974,6 @@
       "reddit_url": "",
       "metacritic_url": "https://www.metacritic.com/game/playstation-2/god-of-war",
       "protondb_url": "https://www.protondb.com/app/1593500"
-    },
-    {
-      "title": "God of War (2018)",
-      "rankings": {
-        "RPS": 33
-      },
-      "platforms": {
-        "windows": true,
-        "macos": false,
-        "linux": false,
-        "steamdeck": "",
-        "switch": false
-      },
-      "stores": ["Epic Games", "GOG", "PlayStation Store", "Steam"],
-      "total_reviews": 0,
-      "header_image": "https://media.rawg.io/media/games/4be/4be6a6ad0364751a96229c56bf69be59.jpg",
-      "metacritic": 94,
-      "release_date": "2018-04-20",
-      "reddit_url": "https://www.reddit.com/r/GodofWar/",
-      "metacritic_url": "https://www.metacritic.com/game/playstation-4/god-of-war"
     },
     {
       "title": "Helldivers 2",
@@ -4215,7 +4148,8 @@
       "title": "Counter-Strike 2",
       "rankings": {
         "Eurogamer": 38,
-        "RPS": 84
+        "RPS": 84,
+        "PCGamer": 35
       },
       "platforms": {
         "windows": true,

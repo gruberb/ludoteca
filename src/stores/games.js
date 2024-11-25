@@ -1,3 +1,4 @@
+// src/stores/games.js
 import { defineStore } from "pinia";
 
 export const useGamesStore = defineStore("games", {
@@ -6,6 +7,7 @@ export const useGamesStore = defineStore("games", {
     selectedPlatform: "all",
     selectedSource: "all",
     sortBy: "rank",
+    searchQuery: "",
     loading: false,
     error: null,
     selectedGame: null,
@@ -23,8 +25,15 @@ export const useGamesStore = defineStore("games", {
     },
 
     filteredGames() {
-      // Filter games based on source only
-      let filtered = this.games.filter((game) => {
+      // First, filter games based on search query
+      let filtered = this.searchQuery
+        ? this.games.filter((game) =>
+            game.title.toLowerCase().includes(this.searchQuery.toLowerCase()),
+          )
+        : this.games;
+
+      // Then filter by source
+      filtered = filtered.filter((game) => {
         return (
           this.selectedSource === "all" ||
           (game.rankings && game.rankings[this.selectedSource] !== undefined)
@@ -61,10 +70,9 @@ export const useGamesStore = defineStore("games", {
     },
 
     totalGamesCount() {
-      return this.filteredGames.length;
+      return this.games.length;
     },
 
-    // Helper to check if a game should be opaque
     shouldBeOpaque() {
       return (game) => {
         if (this.selectedPlatform === "all") return false;
@@ -102,6 +110,10 @@ export const useGamesStore = defineStore("games", {
 
     setSelectedGame(game) {
       this.selectedGame = game;
+    },
+
+    setSearchQuery(query) {
+      this.searchQuery = query;
     },
   },
 });

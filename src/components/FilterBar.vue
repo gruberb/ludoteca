@@ -1,7 +1,25 @@
 <template>
     <div class="bg-white shadow rounded-lg p-4 mb-6">
+        <!-- Search Bar -->
+        <div class="mb-4">
+            <div class="relative">
+                <input
+                    type="text"
+                    v-model="searchQuery"
+                    placeholder="Search games..."
+                    class="w-full px-4 py-2 pr-10 rounded-lg border border-gray-300 focus:border-primary-500 focus:ring-1 focus:ring-primary-500 outline-none"
+                    @input="handleSearch"
+                />
+                <Search
+                    class="absolute right-3 top-1/2 -translate-y-1/2 text-gray-400"
+                    size="20"
+                />
+            </div>
+        </div>
+
+        <!-- Existing Filters -->
         <div class="flex flex-wrap gap-6 items-center">
-            <div class="rank-order flex items-center gap-4">
+            <div class="flex items-center gap-4">
                 <span class="text-sm font-medium text-gray-700">Sort by:</span>
                 <div class="flex items-center bg-gray-100 rounded-lg p-1">
                     <button
@@ -71,9 +89,12 @@
 </template>
 
 <script setup>
+import { ref } from "vue";
+import { Search } from "lucide-vue-next";
 import { useGamesStore } from "../stores/games";
 
 const store = useGamesStore();
+const searchQuery = ref("");
 
 defineProps({
     sortBy: {
@@ -83,4 +104,8 @@ defineProps({
 });
 
 defineEmits(["sort", "sourceFilter", "platformFilter"]);
+
+const handleSearch = () => {
+    store.setSearchQuery(searchQuery.value);
+};
 </script>
