@@ -26,14 +26,16 @@ export const useGamesStore = defineStore("games", {
     },
 
     filteredGames() {
-      // First, filter games based on search query
+      // Step 1: Filter by search query
+      // This happens first because it's the broadest filter and can eliminate games early
       let filtered = this.searchQuery
         ? this.games.filter((game) =>
             game.title.toLowerCase().includes(this.searchQuery.toLowerCase()),
           )
         : this.games;
 
-      // Then filter by source
+      // Step 2: Filter by source
+      // After searching, we filter games based on whether they appear in the selected ranking source
       filtered = filtered.filter((game) => {
         return (
           this.selectedSource === "all" ||
@@ -41,20 +43,33 @@ export const useGamesStore = defineStore("games", {
         );
       });
 
-      // Sort the filtered games
+      // Step 3: Sort the filtered games
+      // Finally, we sort the remaining games according to the selected criterion
       filtered.sort((a, b) => {
-        if (this.sortBy === "rank") {
-          const aRank =
-            this.selectedSource === "all"
-              ? Math.min(...Object.values(a.rankings || {})) || 999
-              : a.rankings[this.selectedSource] || 999;
-          const bRank =
-            this.selectedSource === "all"
-              ? Math.min(...Object.values(b.rankings || {})) || 999
-              : b.rankings[this.selectedSource] || 999;
-          return aRank - bRank;
-        } else {
-          return new Date(b.release_date) - new Date(a.release_date);
+        switch (this.sortBy) {
+          case "rank":
+            // When sorting by rank, we need to handle both "all sources" and specific source cases
+            const aRank =
+              this.selectedSource === "all"
+                ? Math.min(...Object.values(a.rankings || {})) || 999
+                : a.rankings[this.selectedSource] || 999;
+            const bRank =
+              this.selectedSource === "all"
+                ? Math.min(...Object.values(b.rankings || {})) || 999
+                : b.rankings[this.selectedSource] || 999;
+            return aRank - bRank;
+
+          case "date":
+            // Simple date comparison, newer games first
+            return new Date(b.release_date) - new Date(a.release_date);
+
+          case "score":
+            // New sorting option for total score
+            // Use || 0 to handle cases where total_score might be undefined
+            return (b.total_score || 0) - (a.total_score || 0);
+
+          default:
+            return 0;
         }
       });
 
