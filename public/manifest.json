@@ -120,7 +120,8 @@
         "RPS": 16,
         "Eurogamer": 54,
         "IGN": 10,
-        "PCGamer": 2
+        "PCGamer": 2,
+        "Polygon - PS5 Top 25": 8
       },
       "platforms": {
         "windows": true,
@@ -145,7 +146,7 @@
       "reddit_url": "",
       "metacritic_url": "https://www.metacritic.com/game/pc/disco-elysium-the-final-cut",
       "protondb_url": "https://www.protondb.com/app/632470",
-      "total_score": 322.0
+      "total_score": 415.0
     },
     {
       "title": "Resident Evil 4",
@@ -2016,34 +2017,6 @@
       "reddit_url": "https://www.reddit.com/r/SuperMario64/",
       "metacritic_url": "https://www.metacritic.com/game/nintendo-64/super-mario-64",
       "total_score": 94.0
-    },
-    {
-      "title": "Disco Elysium: the Final Cut",
-      "rankings": {
-        "Polygon - PS5 Top 25": 8
-      },
-      "platforms": {
-        "windows": true,
-        "macos": true,
-        "linux": false,
-        "steamdeck": "verified",
-        "switch": true
-      },
-      "stores": [
-        "App Store",
-        "GOG",
-        "Nintendo Store",
-        "PlayStation Store",
-        "Steam",
-        "Xbox Store"
-      ],
-      "total_reviews": 0,
-      "header_image": "https://media.rawg.io/media/games/0af/0afe9e8ace196123d8c7cf22172cec63.jpg",
-      "metacritic": 90,
-      "release_date": "2021-03-30",
-      "reddit_url": "",
-      "metacritic_url": "https://www.metacritic.com/game/pc/disco-elysium-the-final-cut",
-      "total_score": 93.0
     },
     {
       "title": "Balatro",
@@ -5561,7 +5534,7 @@
       "total_score": 23.0
     },
     {
-      "title": "Baldur S Gate 2",
+      "title": "Baldur's Gate 2",
       "rankings": {
         "PCGamer": 79
       },
@@ -6069,6 +6042,7 @@
         "steamdeck": "",
         "switch": false
       },
+      "steam_id": 1850570,
       "stores": ["Epic Games", "PlayStation Store", "Steam", "Xbox Store"],
       "total_reviews": 0,
       "header_image": "https://media.rawg.io/media/games/2ad/2ad87a4a69b1104f02435c14c5196095.jpg",
