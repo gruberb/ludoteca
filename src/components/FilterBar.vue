@@ -42,14 +42,14 @@
         <!-- Active Filters -->
         <div v-if="hasActiveFilters" class="flex flex-wrap gap-2 mb-4">
             <span
-                v-if="sortBy !== 'rank'"
+                v-if="sortBy !== 'name'"
                 class="inline-flex items-center px-2 py-1 rounded-full bg-primary-100 text-primary-700 text-sm"
             >
                 Sort: {{ formatSortBy(sortBy) }}
                 <X
                     size="14"
                     class="ml-1 cursor-pointer"
-                    @click="handleMobileFilter('sort', 'rank')"
+                    @click="handleMobileFilter('sort', 'name')"
                 />
             </span>
 
@@ -101,6 +101,7 @@
                         @change="(e) => handleFilter('sort', e.target.value)"
                         :value="sortBy"
                     >
+                        <option value="name">Name</option>
                         <option value="rank">Ranking</option>
                         <option value="date">Release Date</option>
                         <option value="score">Harmony Score</option>
@@ -151,6 +152,37 @@
                         <option value="switch">Switch</option>
                     </select>
                 </div>
+
+                <!-- View Toggle -->
+                <div class="flex-initial">
+                    <div class="block text-sm font-medium text-gray-700 mb-1">
+                        View
+                    </div>
+                    <div class="flex items-center gap-1">
+                        <button
+                            @click="$emit('update:view', 'grid')"
+                            :class="[
+                                'p-2 rounded transition-colors',
+                                view === 'grid'
+                                    ? 'bg-gray-100 text-primary-600'
+                                    : 'text-gray-600 hover:bg-gray-100',
+                            ]"
+                        >
+                            <LayoutGrid size="20" />
+                        </button>
+                        <button
+                            @click="$emit('update:view', 'list')"
+                            :class="[
+                                'p-2 rounded transition-colors',
+                                view === 'list'
+                                    ? 'bg-gray-100 text-primary-600'
+                                    : 'text-gray-600 hover:bg-gray-100',
+                            ]"
+                        >
+                            <ListIcon size="20" />
+                        </button>
+                    </div>
+                </div>
             </div>
         </div>
 
@@ -164,7 +196,14 @@
 
 <script setup>
 import { ref, computed } from "vue";
-import { Search, SlidersHorizontal, ChevronDown, X } from "lucide-vue-next";
+import {
+    Search,
+    SlidersHorizontal,
+    ChevronDown,
+    LayoutGrid,
+    List as ListIcon,
+    X,
+} from "lucide-vue-next";
 import { useGamesStore } from "../stores/games";
 
 const store = useGamesStore();
@@ -176,9 +215,18 @@ const props = defineProps({
         type: String,
         required: true,
     },
+    view: {
+        type: String,
+        required: true,
+    },
 });
 
-const emit = defineEmits(["sort", "sourceFilter", "platformFilter"]);
+const emit = defineEmits([
+    "sort",
+    "sourceFilter",
+    "platformFilter",
+    "update:view",
+]);
 
 const handleSearch = () => {
     store.setSearchQuery(searchQuery.value);
@@ -193,7 +241,7 @@ const handleMobileFilter = (type, value) => {
 
 const activeFilterCount = computed(() => {
     let count = 0;
-    if (props.sortBy !== "rank") count++;
+    if (props.sortBy !== "name") count++;
     if (store.selectedSource !== "all") count++;
     if (store.selectedPlatform !== "all") count++;
     if (searchQuery.value) count++;
@@ -203,7 +251,7 @@ const activeFilterCount = computed(() => {
 const hasActiveFilters = computed(() => activeFilterCount.value > 0);
 
 const resetFilters = () => {
-    emit("sort", "rank");
+    emit("sort", "name");
     emit("sourceFilter", "all");
     emit("platformFilter", "all");
     searchQuery.value = "";
@@ -226,6 +274,7 @@ const handleFilter = (type, value) => {
 
 const formatSortBy = (sort) => {
     const formats = {
+        name: "Name",
         date: "Release Date",
         score: "Harmony Score",
         rank: "Ranking",

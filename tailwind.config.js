@@ -16,6 +16,9 @@ export default {
           900: "#0c4a6e",
         },
       },
+      gridTemplateColumns: {
+        list: "2fr 1.5fr 1fr 1fr 1fr 1fr",
+      },
     },
   },
   plugins: [],

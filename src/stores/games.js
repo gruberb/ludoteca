@@ -7,11 +7,13 @@ export const useGamesStore = defineStore("games", {
     games: [],
     selectedPlatform: "all",
     selectedSource: "all",
-    sortBy: "rank",
+    sortBy: "name",
     searchQuery: "",
     loading: false,
     error: null,
     selectedGame: null,
+    sortBy: "name",
+    sortDirection: "asc",
   }),
 
   getters: {
@@ -45,10 +47,23 @@ export const useGamesStore = defineStore("games", {
 
       // Step 3: Sort the filtered games
       // Finally, we sort the remaining games according to the selected criterion
-      filtered.sort((a, b) => {
+      const sorted = [...filtered].sort((a, b) => {
+        let comparison = 0;
+
         switch (this.sortBy) {
+          case "name":
+            comparison = a.title.localeCompare(b.title);
+            break;
+          case "score":
+            comparison = (b.total_score || 0) - (a.total_score || 0);
+            break;
+          case "metacritic":
+            comparison = (b.metacritic || 0) - (a.metacritic || 0);
+            break;
+          case "date":
+            comparison = new Date(b.release_date) - new Date(a.release_date);
+            break;
           case "rank":
-            // When sorting by rank, we need to handle both "all sources" and specific source cases
             const aRank =
               this.selectedSource === "all"
                 ? Math.min(...Object.values(a.rankings || {})) || 999
@@ -57,22 +72,14 @@ export const useGamesStore = defineStore("games", {
               this.selectedSource === "all"
                 ? Math.min(...Object.values(b.rankings || {})) || 999
                 : b.rankings[this.selectedSource] || 999;
-            return aRank - bRank;
-
-          case "date":
-            // Simple date comparison, newer games first
-            return new Date(b.release_date) - new Date(a.release_date);
-
-          case "score":
-            // Use || 0 to handle cases where harmony_score might be undefined
-            return (b.harmony_score || 0) - (a.harmony_score || 0);
-
-          default:
-            return 0;
+            comparison = aRank - bRank;
+            break;
         }
+
+        return this.sortDirection === "desc" ? -comparison : comparison;
       });
 
-      return filtered;
+      return sorted;
     },
 
     displayedGamesCount() {
@@ -111,6 +118,11 @@ export const useGamesStore = defineStore("games", {
       } finally {
         this.loading = false;
       }
+    },
+
+    setSort({ column, direction }) {
+      this.sortBy = column;
+      this.sortDirection = direction;
     },
 
     setSelectedPlatform(platform) {
