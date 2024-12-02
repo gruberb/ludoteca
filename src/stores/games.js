@@ -53,7 +53,7 @@ export const useGamesStore = defineStore("games", {
             comparison = a.title.localeCompare(b.title);
             break;
           case "score":
-            comparison = (b.total_score || 0) - (a.total_score || 0);
+            comparison = (b.harmony_score || 0) - (a.harmony_score || 0);
             break;
           case "metacritic":
             comparison = (b.metacritic || 0) - (a.metacritic || 0);
