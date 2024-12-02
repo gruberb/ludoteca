@@ -11,10 +11,10 @@
                 class="w-full h-48 object-cover"
             />
             <div
-                v-if="game.metacritic"
+                v-if="game.harmony_score"
                 class="absolute top-2 right-2 bg-green-100 text-green-800 px-2 py-1 rounded text-sm font-bold"
             >
-                {{ game.metacritic }}
+                {{ game.harmony_score }}
             </div>
         </div>
         <div class="p-4">

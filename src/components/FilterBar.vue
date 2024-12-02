@@ -103,7 +103,7 @@
                     >
                         <option value="rank">Ranking</option>
                         <option value="date">Release Date</option>
-                        <option value="score">Total Score</option>
+                        <option value="score">Harmony Score</option>
                     </select>
                 </div>
 
@@ -227,7 +227,7 @@ const handleFilter = (type, value) => {
 const formatSortBy = (sort) => {
     const formats = {
         date: "Release Date",
-        score: "Total Score",
+        score: "Harmony Score",
         rank: "Ranking",
     };
     return formats[sort] || sort;

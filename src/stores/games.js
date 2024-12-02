@@ -64,9 +64,8 @@ export const useGamesStore = defineStore("games", {
             return new Date(b.release_date) - new Date(a.release_date);
 
           case "score":
-            // New sorting option for total score
-            // Use || 0 to handle cases where total_score might be undefined
-            return (b.total_score || 0) - (a.total_score || 0);
+            // Use || 0 to handle cases where harmony_score might be undefined
+            return (b.harmony_score || 0) - (a.harmony_score || 0);
 
           default:
             return 0;
