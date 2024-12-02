@@ -1,4 +1,3 @@
-// src/stores/games.js
 import { defineStore } from "pinia";
 import config from "../config/api";
 
@@ -8,12 +7,11 @@ export const useGamesStore = defineStore("games", {
     selectedPlatform: "all",
     selectedSource: "all",
     sortBy: "name",
+    sortDirection: "asc",
     searchQuery: "",
     loading: false,
     error: null,
     selectedGame: null,
-    sortBy: "name",
-    sortDirection: "asc",
   }),
 
   getters: {
@@ -120,9 +118,8 @@ export const useGamesStore = defineStore("games", {
       }
     },
 
-    setSort({ column, direction }) {
-      this.sortBy = column;
-      this.sortDirection = direction;
+    setSort(field) {
+      this.sortBy = field;
     },
 
     setSelectedPlatform(platform) {
@@ -132,10 +129,6 @@ export const useGamesStore = defineStore("games", {
     setSelectedSource(source) {
       this.selectedGame = null;
       this.selectedSource = source;
-    },
-
-    setSortBy(sortBy) {
-      this.sortBy = sortBy;
     },
 
     setSelectedGame(game) {

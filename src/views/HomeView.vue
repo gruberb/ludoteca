@@ -32,14 +32,11 @@
             </div>
 
             <template v-else>
-                <!-- Grid View -->
                 <GameGrid
                     v-if="viewMode === 'grid'"
                     :games="gamesStore.filteredGames"
                     @selectGame="selectGame"
                 />
-
-                <!-- List View -->
                 <GameList
                     v-else
                     :games="gamesStore.filteredGames"
@@ -76,8 +73,8 @@ onMounted(async () => {
     await gamesStore.fetchGames();
 });
 
-const handleSort = ({ column, direction }) => {
-    gamesStore.setSort({ column, direction });
+const handleSort = (field) => {
+    gamesStore.setSort(field);
 };
 
 const handleSourceFilter = (source) => {
