@@ -73,8 +73,17 @@ onMounted(async () => {
     await gamesStore.fetchGames();
 });
 
-const handleSort = (field) => {
-    gamesStore.setSort(field);
+const handleSort = (sortOption) => {
+    if (typeof sortOption === "string") {
+        // From FilterBar, only the field is passed
+        gamesStore.setSort({ field: sortOption, direction: "asc" });
+    } else if (typeof sortOption === "object") {
+        // From GameList, both field and direction are passed
+        gamesStore.setSort({
+            field: sortOption.column,
+            direction: sortOption.direction,
+        });
+    }
 };
 
 const handleSourceFilter = (source) => {

@@ -118,8 +118,15 @@ export const useGamesStore = defineStore("games", {
       }
     },
 
-    setSort(field) {
-      this.sortBy = field;
+    setSort({ field, direction = null }) {
+      if (this.sortBy === field) {
+        // Toggle direction if sorting by the same field
+        this.sortDirection = this.sortDirection === "asc" ? "desc" : "asc";
+      } else {
+        // New field, set direction to ascending or provided direction
+        this.sortBy = field;
+        this.sortDirection = direction || "asc";
+      }
     },
 
     setSelectedPlatform(platform) {
