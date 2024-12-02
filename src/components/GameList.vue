@@ -59,7 +59,10 @@
                 class="grid grid-cols-list gap-4 p-4 items-center hover:bg-gray-50"
             >
                 <!-- Game Info -->
-                <div class="flex items-center gap-3">
+                <div
+                    class="flex items-center gap-3"
+                    :class="{ 'opacity-40': store.shouldBeOpaque(game) }"
+                >
                     <img
                         :src="game.header_image"
                         :alt="game.title"
@@ -74,7 +77,10 @@
                 </div>
 
                 <!-- Rankings -->
-                <div class="divide-y divide-gray-100">
+                <div
+                    class="divide-y divide-gray-100"
+                    :class="{ 'opacity-40': store.shouldBeOpaque(game) }"
+                >
                     <div
                         v-for="(rank, source) in game.rankings"
                         :key="source"
@@ -87,14 +93,20 @@
                 </div>
 
                 <!-- Harmony Score -->
-                <div class="text-center">
+                <div
+                    class="text-center"
+                    :class="{ 'opacity-40': store.shouldBeOpaque(game) }"
+                >
                     <span class="font-medium text-green-600">
                         {{ game.harmony_score ? game.harmony_score : "-" }}
                     </span>
                 </div>
 
                 <!-- Metacritic -->
-                <div class="text-center">
+                <div
+                    class="text-center"
+                    :class="{ 'opacity-40': store.shouldBeOpaque(game) }"
+                >
                     <a
                         v-if="game.metacritic_url"
                         :href="game.metacritic_url"
@@ -108,7 +120,10 @@
                 </div>
 
                 <!-- Platforms -->
-                <div class="flex gap-1.5">
+                <div
+                    class="flex gap-1.5"
+                    :class="{ 'opacity-40': store.shouldBeOpaque(game) }"
+                >
                     <template
                         v-for="(value, platform) in game.platforms"
                         :key="platform"
@@ -127,7 +142,10 @@
                 </div>
 
                 <!-- Links -->
-                <div class="flex items-center gap-3">
+                <div
+                    class="flex items-center gap-3"
+                    :class="{ 'opacity-40': store.shouldBeOpaque(game) }"
+                >
                     <a
                         v-if="game.steam_id"
                         :href="
@@ -177,6 +195,9 @@ import {
     ExternalLink,
     ArrowUpDown as SortIcon,
 } from "lucide-vue-next";
+import { useGamesStore } from "../stores/games";
+
+const store = useGamesStore();
 
 const props = defineProps({
     games: {

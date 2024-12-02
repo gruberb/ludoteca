@@ -236,7 +236,11 @@ const handleMobileFilter = (type, value) => {
     if (window.innerWidth < 768) {
         isFilterOpen.value = false;
     }
-    emit(`${type}Filter`, value);
+    if (type === "sort") {
+        emit("sort", value);
+    } else {
+        emit(`${type}Filter`, value);
+    }
 };
 
 const activeFilterCount = computed(() => {
