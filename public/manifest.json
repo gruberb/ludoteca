@@ -1662,16 +1662,18 @@
         "Polygon - PS5 Top 25": 18
       },
       "platforms": {
-        "windows": false,
-        "macos": false,
+        "windows": true,
+        "macos": true,
         "linux": false,
-        "steamdeck": "",
+        "steamdeck": "verified",
         "switch": true
       },
       "stores": ["PlayStation Store", "Steam"],
       "total_reviews": 0,
       "header_image": "https://media.rawg.io/media/games/5eb/5eb783656623aa13d6fc65e470dd5dba.jpg",
       "release_date": "2024-10-15",
+      "steam_id": 2420660,
+      "protondb_url": "https://www.protondb.com/app/2420660",
       "reddit_url": "",
       "metacritic_url": "",
       "harmony_score": 83
@@ -2162,10 +2164,10 @@
         "RPS": 25
       },
       "platforms": {
-        "windows": false,
-        "macos": false,
+        "windows": true,
+        "macos": true,
         "linux": false,
-        "steamdeck": "",
+        "steamdeck": "verified",
         "switch": true
       },
       "stores": ["GOG", "Nintendo Store", "Steam"],
@@ -2175,7 +2177,9 @@
       "release_date": "2020-08-14",
       "reddit_url": "https://www.reddit.com/r/factorio/",
       "metacritic_url": "https://www.metacritic.com/game/pc/factorio",
-      "harmony_score": 76
+      "harmony_score": 76,
+      "steam_id": 427520,
+      "protondb_url": "https://www.protondb.com/app/427520"
     },
     {
       "title": "Armored Core 6 Fires of Rubicon",
@@ -2486,21 +2490,22 @@
         "PCGamer": 29
       },
       "platforms": {
-        "windows": false,
-        "macos": false,
+        "windows": true,
+        "macos": true,
         "linux": false,
-        "steamdeck": "",
+        "steamdeck": "verified",
         "switch": false
       },
       "stores": ["App Store"],
-      "steam_id": 205180,
+      "steam_id": 466300,
       "total_reviews": 0,
       "header_image": "https://media.rawg.io/media/games/1c7/1c761e6bb9f9d47e48cec4484c7186bb.jpg",
       "metacritic": 91,
       "release_date": "1999-12-12",
       "reddit_url": "https://www.reddit.com/r/planescape/",
       "metacritic_url": "https://www.metacritic.com/game/pc/planescape-torment",
-      "harmony_score": 72
+      "harmony_score": 72,
+      "protondb_url": "https://www.protondb.com/app/466300"
     },
     {
       "title": "Dark Souls",
@@ -2709,7 +2714,7 @@
       },
       "platforms": {
         "windows": true,
-        "macos": false,
+        "macos": true,
         "linux": false,
         "steamdeck": "verified",
         "switch": true
@@ -2887,7 +2892,7 @@
       },
       "platforms": {
         "windows": true,
-        "macos": false,
+        "macos": true,
         "linux": false,
         "steamdeck": "verified",
         "switch": false
@@ -3751,12 +3756,14 @@
         "PCGamer": 47
       },
       "platforms": {
-        "windows": false,
-        "macos": false,
+        "windows": true,
+        "macos": true,
         "linux": false,
-        "steamdeck": "",
+        "steamdeck": "verified",
         "switch": true
       },
+      "steam_id": 323190,
+      "protondb_url": "https://www.protondb.com/app/323190",
       "stores": ["GOG", "PlayStation Store", "Steam", "Xbox Store"],
       "total_reviews": 0,
       "header_image": "https://media.rawg.io/media/games/a88/a886c37bf112d009e318b106db9d420a.jpg",
@@ -5813,8 +5820,8 @@
         "IGN": 93
       },
       "platforms": {
-        "windows": false,
-        "macos": false,
+        "windows": true,
+        "macos": true,
         "linux": false,
         "steamdeck": "",
         "switch": false

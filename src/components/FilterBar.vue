@@ -104,6 +104,7 @@
                         <option value="name">Name</option>
                         <option value="rank">Ranking</option>
                         <option value="date">Release Date</option>
+                        <option value="metacritic">Metacritic Score</option>
                         <option value="score">Harmony Score</option>
                     </select>
                 </div>
