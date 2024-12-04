@@ -8,6 +8,8 @@
             <img
                 :src="game.header_image"
                 :alt="game.title"
+                loading="lazy"
+                decoding="async"
                 class="w-full h-48 object-cover"
             />
             <div
