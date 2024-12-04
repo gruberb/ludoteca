@@ -5,11 +5,11 @@
     {
       "title": "Disco Elysium",
       "rankings": {
-        "RPS": 16,
+        "Polygon - PS5 Top 25": 8,
+        "IGN": 10,
         "PCGamer": 2,
         "Eurogamer": 54,
-        "Polygon - PS5 Top 25": 8,
-        "IGN": 10
+        "RPS": 16
       },
       "platforms": {
         "windows": true,
@@ -30,7 +30,7 @@
       "user_score": 8,
       "total_reviews": 47033,
       "price": "CDN$ 11.37",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/disco_elysium.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/disco_elysium.jpg",
       "metacritic": 97,
       "release_date": "2021-03-30",
       "reddit_url": "",
@@ -41,9 +41,9 @@
     {
       "title": "Baldur's Gate 3",
       "rankings": {
-        "RPS": 2,
         "Polygon - PS5 Top 25": 5,
         "Eurogamer": 6,
+        "RPS": 2,
         "PCGamer": 1
       },
       "platforms": {
@@ -58,7 +58,7 @@
       "user_score": 9,
       "total_reviews": 377583,
       "price": "CDN$ 63.99",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/baldur_s_gate_3.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/baldur_s_gate_3.jpg",
       "metacritic": 96,
       "release_date": "2023-08-03",
       "reddit_url": "https://www.reddit.com/r/BaldursGate3/",
@@ -69,9 +69,9 @@
     {
       "title": "Elden Ring",
       "rankings": {
-        "Eurogamer": 8,
         "PCGamer": 3,
         "RPS": 3,
+        "Eurogamer": 8,
         "Polygon - PS5 Top 25": 9
       },
       "platforms": {
@@ -83,7 +83,7 @@
       },
       "stores": ["PlayStation Store", "Steam", "Xbox Store"],
       "total_reviews": 0,
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/elden_ring.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/elden_ring.jpg",
       "metacritic": 95,
       "release_date": "2022-02-25",
       "reddit_url": "https://www.reddit.com/r/Eldenring/",
@@ -111,7 +111,7 @@
       "user_score": 9,
       "total_reviews": 42860,
       "price": "CDN$ 26.49",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/resident_evil_4.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/resident_evil_4.jpg",
       "metacritic": 91,
       "release_date": "2023-03-24",
       "reddit_url": "",
@@ -122,10 +122,10 @@
     {
       "title": "Minecraft",
       "rankings": {
-        "IGN": 33,
-        "PCGamer": 4,
         "Eurogamer": 28,
-        "RPS": 1
+        "IGN": 33,
+        "RPS": 1,
+        "PCGamer": 4
       },
       "platforms": {
         "windows": false,
@@ -142,7 +142,7 @@
         "Xbox Store"
       ],
       "total_reviews": 0,
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/minecraft.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/minecraft.jpg",
       "metacritic": 83,
       "release_date": "2009-05-10",
       "reddit_url": "https://www.reddit.com/r/Minecraft/",
@@ -152,10 +152,10 @@
     {
       "title": "Hades",
       "rankings": {
-        "Polygon - PS5 Top 25": 13,
+        "PCGamer": 20,
         "Eurogamer": 34,
-        "IGN": 13,
-        "PCGamer": 20
+        "Polygon - PS5 Top 25": 13,
+        "IGN": 13
       },
       "platforms": {
         "windows": true,
@@ -175,7 +175,7 @@
       "user_score": 9,
       "total_reviews": 126675,
       "price": "CDN$ 13.00",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/hades.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/hades.jpg",
       "metacritic": 93,
       "release_date": "2020-09-17",
       "reddit_url": "https://www.reddit.com/r/HadesTheGame/",
@@ -188,8 +188,8 @@
       "rankings": {
         "RPS": 31,
         "PCGamer": 72,
-        "Eurogamer": 24,
-        "Polygon - PS5 Top 25": 6
+        "Polygon - PS5 Top 25": 6,
+        "Eurogamer": 24
       },
       "platforms": {
         "windows": true,
@@ -209,7 +209,7 @@
       "user_score": 8,
       "total_reviews": 308590,
       "price": "₹ 1,349",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/cyberpunk_2077.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/cyberpunk_2077.jpg",
       "metacritic": 86,
       "release_date": "2020-12-10",
       "reddit_url": "https://www.reddit.com/r/cyberpunkgame/",
@@ -220,9 +220,9 @@
     {
       "title": "Hollow Knight",
       "rankings": {
-        "Eurogamer": 29,
-        "RPS": 32,
         "PCGamer": 22,
+        "RPS": 32,
+        "Eurogamer": 29,
         "IGN": 54
       },
       "platforms": {
@@ -243,7 +243,7 @@
       "user_score": 9,
       "total_reviews": 120673,
       "price": "CDN$ 9.74",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/hollow_knight.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/hollow_knight.jpg",
       "metacritic": 87,
       "release_date": "2017-02-23",
       "reddit_url": "https://www.reddit.com/r/HollowKnight/",
@@ -255,8 +255,8 @@
       "title": "The Witcher 3: Wild Hunt",
       "rankings": {
         "IGN": 16,
-        "RPS": 4,
-        "PCGamer": 6
+        "PCGamer": 6,
+        "RPS": 4
       },
       "platforms": {
         "windows": true,
@@ -276,7 +276,7 @@
       "user_score": 9,
       "total_reviews": 213580,
       "price": "CDN$ 13.99",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/the_witcher_3__wild_hunt.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/the_witcher_3__wild_hunt.jpg",
       "metacritic": 93,
       "release_date": "2015-05-18",
       "reddit_url": "https://www.reddit.com/r/thewitcher3/",
@@ -303,7 +303,7 @@
       "user_score": 8,
       "total_reviews": 530505,
       "price": "CDN$ 39.99",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/helldivers_2.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/helldivers_2.jpg",
       "release_date": "2024-02-08",
       "reddit_url": "",
       "metacritic_url": "",
@@ -314,8 +314,8 @@
       "title": "Persona 5 Royal",
       "rankings": {
         "PCGamer": 5,
-        "Eurogamer": 79,
         "RPS": 27,
+        "Eurogamer": 79,
         "IGN": 81
       },
       "platforms": {
@@ -330,7 +330,7 @@
       "user_score": 9,
       "total_reviews": 22845,
       "price": "CDN$ 31.99",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/persona_5_royal.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/persona_5_royal.jpg",
       "metacritic": 95,
       "release_date": "2020-03-31",
       "reddit_url": "https://www.reddit.com/r/Persona5/",
@@ -341,9 +341,9 @@
     {
       "title": "Half-Life 2",
       "rankings": {
+        "PCGamer": 7,
         "RPS": 49,
-        "IGN": 9,
-        "PCGamer": 7
+        "IGN": 9
       },
       "platforms": {
         "windows": true,
@@ -357,7 +357,7 @@
       "user_score": 9,
       "total_reviews": 76129,
       "price": "CDN$ 2.59",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/half-life_2.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/half-life_2.jpg",
       "metacritic": 96,
       "release_date": "2004-11-16",
       "reddit_url": "https://www.reddit.com/r/HalfLife/",
@@ -368,9 +368,9 @@
     {
       "title": "Final Fantasy XIV",
       "rankings": {
-        "Polygon - PS5 Top 25": 10,
+        "PCGamer": 34,
         "IGN": 30,
-        "PCGamer": 34
+        "Polygon - PS5 Top 25": 10
       },
       "platforms": {
         "windows": false,
@@ -381,7 +381,7 @@
       },
       "stores": [],
       "total_reviews": 0,
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/final_fantasy_xiv.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/final_fantasy_xiv.jpg",
       "metacritic": 82,
       "release_date": "2010-09-30",
       "reddit_url": "",
@@ -392,8 +392,8 @@
       "title": "Hitman World of Assassination",
       "rankings": {
         "PCGamer": 50,
-        "Polygon - PS5 Top 25": 15,
-        "RPS": 11
+        "RPS": 11,
+        "Polygon - PS5 Top 25": 15
       },
       "platforms": {
         "windows": true,
@@ -407,7 +407,7 @@
       "user_score": 8,
       "total_reviews": 16602,
       "price": "CDN$ 3.89",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/hitman_world_of_assassination.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/hitman_world_of_assassination.jpg",
       "metacritic": 87,
       "release_date": "2016-03-11",
       "reddit_url": "https://www.reddit.com/r/HiTMAN/",
@@ -418,10 +418,10 @@
     {
       "title": "Doom",
       "rankings": {
-        "IGN": 29,
         "PCGamer": 10,
+        "Eurogamer": 88,
         "RPS": 85,
-        "Eurogamer": 88
+        "IGN": 29
       },
       "platforms": {
         "windows": true,
@@ -435,7 +435,7 @@
       "user_score": 9,
       "total_reviews": 74984,
       "price": "CDN$ 4.99",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/doom.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/doom.jpg",
       "metacritic": 85,
       "release_date": "2016-05-13",
       "reddit_url": "https://www.reddit.com/r/Doom/",
@@ -447,8 +447,8 @@
       "title": "Animal Well",
       "rankings": {
         "Eurogamer": 36,
-        "Polygon - PS5 Top 25": 2,
-        "PCGamer": 43
+        "PCGamer": 43,
+        "Polygon - PS5 Top 25": 2
       },
       "platforms": {
         "windows": true,
@@ -462,7 +462,7 @@
       "user_score": 9,
       "total_reviews": 10040,
       "price": "CDN$ 25.59",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/animal_well.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/animal_well.jpg",
       "metacritic": 91,
       "release_date": "2024-05-09",
       "reddit_url": "",
@@ -487,7 +487,7 @@
       "stores": ["PlayStation Store", "Steam", "Xbox 360 Store", "Xbox Store"],
       "steam_id": 5711,
       "total_reviews": 0,
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/fallout__new_vegas.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/fallout__new_vegas.jpg",
       "metacritic": 84,
       "release_date": "2010-10-19",
       "reddit_url": "https://www.reddit.com/r/Fallout/",
@@ -497,9 +497,9 @@
     {
       "title": "Mass Effect: Legendary Edition",
       "rankings": {
+        "PCGamer": 18,
         "RPS": 7,
-        "Eurogamer": 67,
-        "PCGamer": 18
+        "Eurogamer": 67
       },
       "platforms": {
         "windows": true,
@@ -513,7 +513,7 @@
       "user_score": 8,
       "total_reviews": 32345,
       "price": "CDN$ 6.39",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/mass_effect__legendary_edition.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/mass_effect__legendary_edition.jpg",
       "metacritic": 86,
       "release_date": "2021-05-14",
       "reddit_url": "https://www.reddit.com/r/masseffect/",
@@ -524,8 +524,8 @@
     {
       "title": "Red Dead Redemption 2",
       "rankings": {
-        "PCGamer": 15,
         "RPS": 79,
+        "PCGamer": 15,
         "IGN": 8
       },
       "platforms": {
@@ -540,7 +540,7 @@
       "user_score": 8,
       "total_reviews": 213315,
       "price": "CDN$ 26.39",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/red_dead_redemption_2.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/red_dead_redemption_2.jpg",
       "metacritic": 93,
       "release_date": "2018-10-26",
       "reddit_url": "https://www.reddit.com/r/Red_Dead_Redemption_2/",
@@ -551,9 +551,9 @@
     {
       "title": "Dwarf Fortress",
       "rankings": {
-        "Eurogamer": 39,
         "PCGamer": 16,
-        "RPS": 47
+        "RPS": 47,
+        "Eurogamer": 39
       },
       "platforms": {
         "windows": true,
@@ -567,7 +567,7 @@
       "user_score": 9,
       "total_reviews": 20994,
       "price": "CDN$ 31.19",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/dwarf_fortress.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/dwarf_fortress.jpg",
       "metacritic": 93,
       "release_date": "2006-08-08",
       "reddit_url": "https://www.reddit.com/r/dwarffortress/",
@@ -578,8 +578,8 @@
     {
       "title": "Half-Life: Alyx",
       "rankings": {
-        "IGN": 26,
         "Eurogamer": 20,
+        "IGN": 26,
         "RPS": 67
       },
       "platforms": {
@@ -594,7 +594,7 @@
       "user_score": 9,
       "total_reviews": 55816,
       "price": "CDN$ 25.73",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/half-life__alyx.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/half-life__alyx.jpg",
       "metacritic": 93,
       "release_date": "2020-03-23",
       "reddit_url": "https://www.reddit.com/r/HalfLifeAlyx/",
@@ -606,8 +606,8 @@
       "title": "Outer Wilds",
       "rankings": {
         "PCGamer": 90,
-        "RPS": 20,
-        "Eurogamer": 3
+        "Eurogamer": 3,
+        "RPS": 20
       },
       "platforms": {
         "windows": true,
@@ -627,7 +627,7 @@
       "user_score": 9,
       "total_reviews": 38573,
       "price": "CDN$ 19.79",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/outer_wilds.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/outer_wilds.jpg",
       "metacritic": 85,
       "release_date": "2019-05-29",
       "reddit_url": "https://www.reddit.com/r/outerwilds/",
@@ -639,8 +639,8 @@
       "title": "Spelunky 2",
       "rankings": {
         "IGN": 75,
-        "RPS": 22,
-        "Eurogamer": 21
+        "Eurogamer": 21,
+        "RPS": 22
       },
       "platforms": {
         "windows": true,
@@ -654,7 +654,7 @@
       "user_score": 8,
       "total_reviews": 12917,
       "price": "CDN$ 9.11",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/spelunky_2.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/spelunky_2.jpg",
       "metacritic": 91,
       "release_date": "2020-09-15",
       "reddit_url": "",
@@ -665,9 +665,9 @@
     {
       "title": "Alan Wake 2",
       "rankings": {
+        "Eurogamer": 97,
         "Polygon - PS5 Top 25": 1,
-        "PCGamer": 21,
-        "Eurogamer": 97
+        "PCGamer": 21
       },
       "platforms": {
         "windows": false,
@@ -678,7 +678,7 @@
       },
       "stores": ["Epic Games", "PlayStation Store"],
       "total_reviews": 0,
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/alan_wake_2.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/alan_wake_2.jpg",
       "release_date": "2023-10-27",
       "reddit_url": "",
       "metacritic_url": "https://www.metacritic.com/game/alan-wake-ii/",
@@ -687,9 +687,9 @@
     {
       "title": "Return of the Obra Dinn",
       "rankings": {
-        "PCGamer": 39,
+        "Eurogamer": 10,
         "IGN": 74,
-        "Eurogamer": 10
+        "PCGamer": 39
       },
       "platforms": {
         "windows": true,
@@ -710,7 +710,7 @@
       "user_score": 9,
       "total_reviews": 15017,
       "price": "CDN$ 25.99",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/return_of_the_obra_dinn.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/return_of_the_obra_dinn.jpg",
       "metacritic": 89,
       "release_date": "2018-10-17",
       "reddit_url": "",
@@ -721,10 +721,10 @@
     {
       "title": "Dishonored 2",
       "rankings": {
-        "Eurogamer": 76,
         "PCGamer": 76,
-        "IGN": 60,
-        "RPS": 38
+        "RPS": 38,
+        "Eurogamer": 76,
+        "IGN": 60
       },
       "platforms": {
         "windows": true,
@@ -738,7 +738,7 @@
       "user_score": 8,
       "total_reviews": 17726,
       "price": "CDN$ 3.99",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/dishonored_2.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/dishonored_2.jpg",
       "metacritic": 86,
       "release_date": "2016-11-10",
       "reddit_url": "https://www.reddit.com/r/dishonored2/",
@@ -749,8 +749,8 @@
     {
       "title": "Grand Theft Auto V",
       "rankings": {
-        "RPS": 72,
         "IGN": 12,
+        "RPS": 72,
         "PCGamer": 45
       },
       "platforms": {
@@ -769,7 +769,7 @@
       ],
       "steam_id": 362003,
       "total_reviews": 0,
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/grand_theft_auto_v.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/grand_theft_auto_v.jpg",
       "metacritic": 92,
       "release_date": "2013-09-17",
       "reddit_url": "https://www.reddit.com/r/GrandTheftAutoV/",
@@ -779,9 +779,9 @@
     {
       "title": "Yakuza 0",
       "rankings": {
-        "PCGamer": 32,
         "RPS": 8,
-        "Eurogamer": 90
+        "Eurogamer": 90,
+        "PCGamer": 32
       },
       "platforms": {
         "windows": true,
@@ -795,7 +795,7 @@
       "user_score": 9,
       "total_reviews": 34229,
       "price": "CDN$ 16.49",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/yakuza_0.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/yakuza_0.jpg",
       "metacritic": 86,
       "release_date": "2015-03-12",
       "reddit_url": "https://www.reddit.com/r/yakuzagames/",
@@ -807,8 +807,8 @@
       "title": "Halo: the Master Chief Collection",
       "rankings": {
         "Eurogamer": 85,
-        "PCGamer": 30,
-        "RPS": 15
+        "RPS": 15,
+        "PCGamer": 30
       },
       "platforms": {
         "windows": true,
@@ -822,7 +822,7 @@
       "user_score": 8,
       "total_reviews": 146695,
       "price": "CDN$ 12.49",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/halo__the_master_chief_collection.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/halo__the_master_chief_collection.jpg",
       "metacritic": 85,
       "release_date": "2014-11-11",
       "reddit_url": "",
@@ -833,10 +833,10 @@
     {
       "title": "Titanfall 2",
       "rankings": {
-        "PCGamer": 68,
         "Eurogamer": 65,
-        "RPS": 36,
-        "IGN": 87
+        "PCGamer": 68,
+        "IGN": 87,
+        "RPS": 36
       },
       "platforms": {
         "windows": false,
@@ -847,7 +847,7 @@
       },
       "stores": ["PlayStation Store", "Steam", "Xbox Store"],
       "total_reviews": 0,
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/titanfall_2.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/titanfall_2.jpg",
       "metacritic": 87,
       "release_date": "2016-10-28",
       "reddit_url": "https://www.reddit.com/r/titanfall/",
@@ -857,8 +857,8 @@
     {
       "title": "The Legend of Zelda: Breath of the Wild",
       "rankings": {
-        "Eurogamer": 5,
-        "IGN": 1
+        "IGN": 1,
+        "Eurogamer": 5
       },
       "platforms": {
         "windows": false,
@@ -869,7 +869,7 @@
       },
       "stores": ["Nintendo Store"],
       "total_reviews": 0,
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/the_legend_of_zelda__breath_of_the_wild.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/the_legend_of_zelda__breath_of_the_wild.jpg",
       "metacritic": 97,
       "release_date": "2017-03-03",
       "reddit_url": "https://www.reddit.com/r/Breath_of_the_Wild/",
@@ -879,8 +879,8 @@
     {
       "title": "Stardew Valley",
       "rankings": {
-        "RPS": 97,
         "PCGamer": 9,
+        "RPS": 97,
         "Eurogamer": 35
       },
       "platforms": {
@@ -903,7 +903,7 @@
       "user_score": 9,
       "total_reviews": 332245,
       "price": "Rp 81 199",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/stardew_valley.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/stardew_valley.jpg",
       "metacritic": 89,
       "release_date": "2016-02-25",
       "reddit_url": "https://www.reddit.com/r/StardewValley/",
@@ -914,8 +914,8 @@
     {
       "title": "Portal 2",
       "rankings": {
-        "IGN": 3,
         "RPS": 74,
+        "IGN": 3,
         "Eurogamer": 77
       },
       "platforms": {
@@ -930,7 +930,7 @@
       "user_score": 9,
       "total_reviews": 152126,
       "price": "CDN$ 2.59",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/portal_2.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/portal_2.jpg",
       "metacritic": 95,
       "release_date": "2011-04-18",
       "reddit_url": "https://www.reddit.com/r/Portal/",
@@ -956,7 +956,7 @@
       "steam_id": 730,
       "user_score": 8,
       "total_reviews": 1268357,
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/counter-strike_2.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/counter-strike_2.jpg",
       "release_date": "2023-09-27",
       "reddit_url": "https://www.reddit.com/r/GlobalOffensive/",
       "metacritic_url": "",
@@ -966,8 +966,8 @@
     {
       "title": "Sekiro: Shadows Die Twice",
       "rankings": {
-        "RPS": 12,
-        "PCGamer": 23
+        "PCGamer": 23,
+        "RPS": 12
       },
       "platforms": {
         "windows": true,
@@ -981,7 +981,7 @@
       "user_score": 8,
       "total_reviews": 74048,
       "price": "CDN$ 39.99",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/sekiro__shadows_die_twice.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/sekiro__shadows_die_twice.jpg",
       "metacritic": 88,
       "release_date": "2019-03-22",
       "reddit_url": "https://www.reddit.com/r/Sekiro/",
@@ -992,8 +992,8 @@
     {
       "title": "Street Fighter 6",
       "rankings": {
-        "Polygon - PS5 Top 25": 24,
-        "Eurogamer": 11
+        "Eurogamer": 11,
+        "Polygon - PS5 Top 25": 24
       },
       "platforms": {
         "windows": true,
@@ -1007,7 +1007,7 @@
       "user_score": 8,
       "total_reviews": 15608,
       "price": "CDN$ 39.99",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/street_fighter_6.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/street_fighter_6.jpg",
       "metacritic": 92,
       "release_date": "2023-06-01",
       "reddit_url": "",
@@ -1018,8 +1018,8 @@
     {
       "title": "Bloodborne",
       "rankings": {
-        "IGN": 19,
-        "Eurogamer": 27
+        "Eurogamer": 27,
+        "IGN": 19
       },
       "platforms": {
         "windows": false,
@@ -1030,7 +1030,7 @@
       },
       "stores": ["PlayStation Store"],
       "total_reviews": 0,
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/bloodborne.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/bloodborne.jpg",
       "metacritic": 92,
       "release_date": "2015-03-24",
       "reddit_url": "https://www.reddit.com/r/bloodborne/",
@@ -1055,7 +1055,7 @@
       "user_score": 9,
       "total_reviews": 70262,
       "price": "CDN$ 2.59",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/portal.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/portal.jpg",
       "metacritic": 90,
       "release_date": "2007-10-09",
       "reddit_url": "https://www.reddit.com/r/Portal/",
@@ -1066,9 +1066,9 @@
     {
       "title": "The Elder Scrolls V: Skyrim",
       "rankings": {
-        "PCGamer": 37,
         "IGN": 41,
-        "RPS": 100
+        "RPS": 100,
+        "PCGamer": 37
       },
       "platforms": {
         "windows": true,
@@ -1087,7 +1087,7 @@
       "user_score": 8,
       "total_reviews": 101537,
       "price": "CDN$ 21.99",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/the_elder_scrolls_v__skyrim.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/the_elder_scrolls_v__skyrim.jpg",
       "metacritic": 94,
       "release_date": "2011-11-11",
       "reddit_url": "https://www.reddit.com/r/skyrim/",
@@ -1113,7 +1113,7 @@
       "user_score": 9,
       "total_reviews": 10078,
       "price": "CDN$ 5.39",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/a_short_hike.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/a_short_hike.jpg",
       "metacritic": 82,
       "release_date": "2019-07-29",
       "reddit_url": "",
@@ -1139,7 +1139,7 @@
       "user_score": 8,
       "total_reviews": 3392,
       "price": "CDN$ 39.99",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/returnal.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/returnal.jpg",
       "metacritic": 86,
       "release_date": "2021-04-30",
       "reddit_url": "https://www.reddit.com/r/Returnal/",
@@ -1150,8 +1150,8 @@
     {
       "title": "Crusader Kings III",
       "rankings": {
-        "RPS": 30,
-        "PCGamer": 25
+        "PCGamer": 25,
+        "RPS": 30
       },
       "platforms": {
         "windows": true,
@@ -1165,7 +1165,7 @@
       "user_score": 8,
       "total_reviews": 41397,
       "price": "69,59zł",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/crusader_kings_iii.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/crusader_kings_iii.jpg",
       "metacritic": 91,
       "release_date": "2020-09-01",
       "reddit_url": "https://www.reddit.com/r/ck3/",
@@ -1195,7 +1195,7 @@
         "Xbox Store"
       ],
       "total_reviews": 0,
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/fortnite.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/fortnite.jpg",
       "release_date": "2017-09-26",
       "reddit_url": "",
       "metacritic_url": "https://www.metacritic.com/game/playstation-4/fortnite",
@@ -1204,8 +1204,8 @@
     {
       "title": "God of War",
       "rankings": {
-        "IGN": 25,
-        "RPS": 33
+        "RPS": 33,
+        "IGN": 25
       },
       "platforms": {
         "windows": true,
@@ -1219,7 +1219,7 @@
       "user_score": 9,
       "total_reviews": 49753,
       "price": "CDN$ 25.99",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/god_of_war.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/god_of_war.jpg",
       "metacritic": 93,
       "release_date": "2005-03-22",
       "reddit_url": "",
@@ -1245,7 +1245,7 @@
       "user_score": 9,
       "total_reviews": 100521,
       "price": "CDN$ 31.99",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/rimworld.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/rimworld.jpg",
       "metacritic": 87,
       "release_date": "2016-07-15",
       "reddit_url": "",
@@ -1256,8 +1256,8 @@
     {
       "title": "Chrono Trigger",
       "rankings": {
-        "RPS": 37,
-        "IGN": 24
+        "IGN": 24,
+        "RPS": 37
       },
       "platforms": {
         "windows": true,
@@ -1277,7 +1277,7 @@
       "user_score": 8,
       "total_reviews": 5212,
       "price": "CDN$ 9.99",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/chrono_trigger.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/chrono_trigger.jpg",
       "metacritic": 82,
       "release_date": "1995-03-11",
       "reddit_url": "",
@@ -1288,9 +1288,9 @@
     {
       "title": "Undertale",
       "rankings": {
-        "IGN": 20,
+        "Eurogamer": 74,
         "RPS": 93,
-        "Eurogamer": 74
+        "IGN": 20
       },
       "platforms": {
         "windows": true,
@@ -1310,7 +1310,7 @@
       "user_score": 9,
       "total_reviews": 125153,
       "price": "CDN$ 2.74",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/undertale.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/undertale.jpg",
       "metacritic": 92,
       "release_date": "2015-09-14",
       "reddit_url": "https://www.reddit.com/r/Undertale/",
@@ -1336,7 +1336,7 @@
       "user_score": 8,
       "total_reviews": 4414,
       "price": "CDN$ 7.79",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/citizen_sleeper.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/citizen_sleeper.jpg",
       "metacritic": 82,
       "release_date": "2022-05-05",
       "reddit_url": "",
@@ -1347,8 +1347,8 @@
     {
       "title": "Prey (2017)",
       "rankings": {
-        "PCGamer": 42,
-        "RPS": 21
+        "RPS": 21,
+        "PCGamer": 42
       },
       "platforms": {
         "windows": true,
@@ -1368,7 +1368,7 @@
       "user_score": 8,
       "total_reviews": 19660,
       "price": "CDN$ 3.99",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/prey__2017_.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/prey__2017_.jpg",
       "metacritic": 80,
       "release_date": "2017-05-05",
       "reddit_url": "https://www.reddit.com/r/prey/",
@@ -1379,8 +1379,8 @@
     {
       "title": "Hunt: Showdown",
       "rankings": {
-        "RPS": 40,
-        "PCGamer": 27
+        "PCGamer": 27,
+        "RPS": 40
       },
       "platforms": {
         "windows": true,
@@ -1394,7 +1394,7 @@
       "user_score": 6,
       "total_reviews": 85351,
       "price": "CDN$ 25.99",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/hunt__showdown.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/hunt__showdown.jpg",
       "metacritic": 81,
       "release_date": "2018-02-22",
       "reddit_url": "https://www.reddit.com/r/HuntShowdown/",
@@ -1405,8 +1405,8 @@
     {
       "title": "Apex Legends",
       "rankings": {
-        "IGN": 55,
-        "RPS": 13
+        "RPS": 13,
+        "IGN": 55
       },
       "platforms": {
         "windows": true,
@@ -1419,7 +1419,7 @@
       "steam_id": 1172470,
       "user_score": 8,
       "total_reviews": 1004,
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/apex_legends.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/apex_legends.jpg",
       "metacritic": 88,
       "release_date": "2019-02-04",
       "reddit_url": "https://www.reddit.com/r/apexlegends/",
@@ -1444,7 +1444,7 @@
       "steam_id": 440,
       "user_score": 5,
       "total_reviews": 24228,
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/team_fortress_2.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/team_fortress_2.jpg",
       "metacritic": 92,
       "release_date": "2007-10-10",
       "reddit_url": "https://www.reddit.com/r/tf2/",
@@ -1455,8 +1455,8 @@
     {
       "title": "Mario Kart 8 Deluxe",
       "rankings": {
-        "IGN": 72,
-        "Eurogamer": 2
+        "Eurogamer": 2,
+        "IGN": 72
       },
       "platforms": {
         "windows": false,
@@ -1467,7 +1467,7 @@
       },
       "stores": ["Nintendo Store"],
       "total_reviews": 0,
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/mario_kart_8_deluxe.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/mario_kart_8_deluxe.jpg",
       "metacritic": 92,
       "release_date": "2017-04-27",
       "reddit_url": "",
@@ -1489,7 +1489,7 @@
       },
       "stores": ["Nintendo Store"],
       "total_reviews": 0,
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/super_mario_world.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/super_mario_world.jpg",
       "metacritic": 92,
       "release_date": "1990-11-21",
       "reddit_url": "",
@@ -1499,8 +1499,8 @@
     {
       "title": "XCOM 2",
       "rankings": {
-        "PCGamer": 13,
-        "IGN": 65
+        "IGN": 65,
+        "PCGamer": 13
       },
       "platforms": {
         "windows": true,
@@ -1521,7 +1521,7 @@
       "user_score": 8,
       "total_reviews": 40399,
       "price": "CDN$ 3.99",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/xcom_2.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/xcom_2.jpg",
       "metacritic": 88,
       "release_date": "2016-02-04",
       "reddit_url": "",
@@ -1544,7 +1544,7 @@
       },
       "stores": ["Nintendo Store"],
       "total_reviews": 0,
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/super_smash_bros__ultimate.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/super_smash_bros__ultimate.jpg",
       "metacritic": 93,
       "release_date": "2018-12-07",
       "reddit_url": "https://www.reddit.com/r/smashbros/",
@@ -1569,7 +1569,7 @@
       "user_score": 9,
       "total_reviews": 66789,
       "price": "CDN$ 9.11",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/inscryption.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/inscryption.jpg",
       "metacritic": 85,
       "release_date": "2021-10-19",
       "reddit_url": "https://www.reddit.com/r/inscryption/",
@@ -1580,8 +1580,8 @@
     {
       "title": "Armored Core 6 Fires of Rubicon",
       "rankings": {
-        "Polygon - PS5 Top 25": 3,
-        "PCGamer": 78
+        "PCGamer": 78,
+        "Polygon - PS5 Top 25": 3
       },
       "platforms": {
         "windows": true,
@@ -1595,7 +1595,7 @@
       "user_score": 8,
       "total_reviews": 34825,
       "price": "CDN$ 79.99",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/armored_core_6_fires_of_rubicon.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/armored_core_6_fires_of_rubicon.jpg",
       "metacritic": 86,
       "release_date": "2023-08-25",
       "reddit_url": "",
@@ -1606,8 +1606,8 @@
     {
       "title": "Tetris Effect",
       "rankings": {
-        "Eurogamer": 1,
-        "RPS": 81
+        "RPS": 81,
+        "Eurogamer": 1
       },
       "platforms": {
         "windows": false,
@@ -1618,7 +1618,7 @@
       },
       "stores": ["Epic Games", "PlayStation Store"],
       "total_reviews": 0,
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/tetris_effect.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/tetris_effect.jpg",
       "metacritic": 90,
       "release_date": "2018-11-09",
       "reddit_url": "https://www.reddit.com/r/TetrisEffect/",
@@ -1640,7 +1640,7 @@
       },
       "stores": ["PlayStation Store"],
       "total_reviews": 0,
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/shadow_of_the_colossus.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/shadow_of_the_colossus.jpg",
       "metacritic": 91,
       "release_date": "2011-09-22",
       "reddit_url": "",
@@ -1650,8 +1650,8 @@
     {
       "title": "World of Warcraft",
       "rankings": {
-        "IGN": 47,
-        "PCGamer": 38
+        "PCGamer": 38,
+        "IGN": 47
       },
       "platforms": {
         "windows": false,
@@ -1662,7 +1662,7 @@
       },
       "stores": [],
       "total_reviews": 0,
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/world_of_warcraft.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/world_of_warcraft.jpg",
       "metacritic": 93,
       "release_date": "2004-11-23",
       "reddit_url": "https://www.reddit.com/r/wow/",
@@ -1672,8 +1672,8 @@
     {
       "title": "Dark Souls",
       "rankings": {
-        "IGN": 80,
-        "RPS": 6
+        "RPS": 6,
+        "IGN": 80
       },
       "platforms": {
         "windows": true,
@@ -1687,7 +1687,7 @@
       "user_score": 8,
       "total_reviews": 38236,
       "price": "CDN$ 26.74",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/dark_souls.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/dark_souls.jpg",
       "metacritic": 84,
       "release_date": "2011-09-22",
       "reddit_url": "https://www.reddit.com/r/darksouls/",
@@ -1698,8 +1698,8 @@
     {
       "title": "NieR: Automata",
       "rankings": {
-        "RPS": 26,
-        "PCGamer": 62
+        "PCGamer": 62,
+        "RPS": 26
       },
       "platforms": {
         "windows": true,
@@ -1713,7 +1713,7 @@
       "user_score": 8,
       "total_reviews": 43227,
       "price": "CDN$ 21.40",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/nier__automata.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/nier__automata.jpg",
       "metacritic": 84,
       "release_date": "2017-03-17",
       "reddit_url": "https://www.reddit.com/r/nier/",
@@ -1724,8 +1724,8 @@
     {
       "title": "What Remains of Edith Finch",
       "rankings": {
-        "RPS": 71,
-        "Eurogamer": 18
+        "Eurogamer": 18,
+        "RPS": 71
       },
       "platforms": {
         "windows": true,
@@ -1747,7 +1747,7 @@
       "user_score": 8,
       "total_reviews": 14317,
       "price": "CDN$ 6.49",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/what_remains_of_edith_finch.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/what_remains_of_edith_finch.jpg",
       "metacritic": 89,
       "release_date": "2017-04-23",
       "reddit_url": "https://www.reddit.com/r/WhatRemainsEdithFinch/",
@@ -1773,7 +1773,7 @@
       "user_score": 8,
       "total_reviews": 67618,
       "price": "CDN$ 13.24",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/stellaris.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/stellaris.jpg",
       "metacritic": 78,
       "release_date": "2016-05-08",
       "reddit_url": "https://www.reddit.com/r/Stellaris/",
@@ -1796,7 +1796,7 @@
       },
       "stores": ["PlayStation Store"],
       "total_reviews": 0,
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/gran_turismo_7.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/gran_turismo_7.jpg",
       "metacritic": 84,
       "release_date": "2022-03-04",
       "reddit_url": "",
@@ -1806,8 +1806,8 @@
     {
       "title": "OlliOlli World",
       "rankings": {
-        "Eurogamer": 41,
-        "RPS": 52
+        "RPS": 52,
+        "Eurogamer": 41
       },
       "platforms": {
         "windows": false,
@@ -1818,7 +1818,7 @@
       },
       "stores": ["Nintendo Store", "Steam"],
       "total_reviews": 0,
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/olliolli_world.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/olliolli_world.jpg",
       "release_date": "2022-02-07",
       "reddit_url": "",
       "metacritic_url": "https://www.metacritic.com/game/playstation-5/olliolli-world",
@@ -1842,7 +1842,7 @@
       "user_score": 6,
       "total_reviews": 46354,
       "price": "CDN$ 31.99",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/total_war__warhammer_iii.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/total_war__warhammer_iii.jpg",
       "metacritic": 86,
       "release_date": "2022-02-17",
       "reddit_url": "https://www.reddit.com/r/totalwar/",
@@ -1853,8 +1853,8 @@
     {
       "title": "Death Stranding",
       "rankings": {
-        "Polygon - PS5 Top 25": 7,
-        "PCGamer": 89
+        "PCGamer": 89,
+        "Polygon - PS5 Top 25": 7
       },
       "platforms": {
         "windows": true,
@@ -1868,7 +1868,7 @@
       "user_score": 8,
       "total_reviews": 9574,
       "price": "CDN$ 27.49",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/death_stranding.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/death_stranding.jpg",
       "metacritic": 85,
       "release_date": "2019-11-08",
       "reddit_url": "https://www.reddit.com/r/DeathStranding/",
@@ -1894,7 +1894,7 @@
       "user_score": 8,
       "total_reviews": 23423,
       "price": "A$ 7.99",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/xcom__enemy_unknown.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/xcom__enemy_unknown.jpg",
       "metacritic": 89,
       "release_date": "2012-10-09",
       "reddit_url": "",
@@ -1905,8 +1905,8 @@
     {
       "title": "Dota 2",
       "rankings": {
-        "RPS": 24,
-        "IGN": 73
+        "IGN": 73,
+        "RPS": 24
       },
       "platforms": {
         "windows": true,
@@ -1919,7 +1919,7 @@
       "steam_id": 570,
       "user_score": 8,
       "total_reviews": 6078,
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/dota_2.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/dota_2.jpg",
       "metacritic": 90,
       "release_date": "2013-07-09",
       "reddit_url": "https://www.reddit.com/r/DotA2/",
@@ -1942,7 +1942,7 @@
       },
       "stores": ["Nintendo Store"],
       "total_reviews": 0,
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/animal_crossing__new_horizons.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/animal_crossing__new_horizons.jpg",
       "metacritic": 90,
       "release_date": "2020-03-20",
       "reddit_url": "https://www.reddit.com/r/AnimalCrossingNewHor/",
@@ -1966,7 +1966,7 @@
       "steam_id": 1222670,
       "user_score": 8,
       "total_reviews": 43365,
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/the_sims_4.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/the_sims_4.jpg",
       "metacritic": 67,
       "release_date": "2014-09-02",
       "reddit_url": "https://www.reddit.com/r/Sims4/",
@@ -1989,7 +1989,7 @@
       },
       "stores": [],
       "total_reviews": 0,
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/metroid_prime.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/metroid_prime.jpg",
       "metacritic": 97,
       "release_date": "2002-11-17",
       "reddit_url": "",
@@ -1999,8 +1999,8 @@
     {
       "title": "Deus Ex",
       "rankings": {
-        "RPS": 61,
-        "PCGamer": 44
+        "PCGamer": 44,
+        "RPS": 61
       },
       "platforms": {
         "windows": false,
@@ -2011,7 +2011,7 @@
       },
       "stores": [],
       "total_reviews": 0,
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/deus_ex.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/deus_ex.jpg",
       "metacritic": 90,
       "release_date": "2000-06-26",
       "reddit_url": "https://www.reddit.com/r/Deusex/",
@@ -2040,7 +2040,7 @@
       ],
       "steam_id": 7700,
       "total_reviews": 0,
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/bioshock.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/bioshock.jpg",
       "metacritic": 96,
       "release_date": "2007-08-21",
       "reddit_url": "",
@@ -2062,7 +2062,7 @@
       },
       "stores": ["Nintendo Store", "PlayStation Store", "Xbox Store"],
       "total_reviews": 0,
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/overwatch.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/overwatch.jpg",
       "metacritic": 91,
       "release_date": "2016-05-24",
       "reddit_url": "https://www.reddit.com/r/Overwatch/",
@@ -2072,8 +2072,8 @@
     {
       "title": "Left 4 Dead 2",
       "rankings": {
-        "PCGamer": 93,
         "IGN": 51,
+        "PCGamer": 93,
         "RPS": 80
       },
       "platforms": {
@@ -2088,7 +2088,7 @@
       "user_score": 9,
       "total_reviews": 200752,
       "price": "1,95€",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/left_4_dead_2.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/left_4_dead_2.jpg",
       "metacritic": 89,
       "release_date": "2009-11-17",
       "reddit_url": "",
@@ -2111,7 +2111,7 @@
       },
       "stores": [],
       "total_reviews": 0,
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/diablo_ii.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/diablo_ii.jpg",
       "metacritic": 88,
       "release_date": "2000-06-29",
       "reddit_url": "",
@@ -2121,8 +2121,8 @@
     {
       "title": "Control",
       "rankings": {
-        "PCGamer": 53,
-        "IGN": 64
+        "IGN": 64,
+        "PCGamer": 53
       },
       "platforms": {
         "windows": true,
@@ -2142,7 +2142,7 @@
       "user_score": 8,
       "total_reviews": 19488,
       "price": "CDN$ 10.99",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/control.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/control.jpg",
       "metacritic": 85,
       "release_date": "2019-08-27",
       "reddit_url": "https://www.reddit.com/r/controlgame/",
@@ -2168,7 +2168,7 @@
       "user_score": 8,
       "total_reviews": 11146,
       "price": "CDN$ 8.74",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/into_the_breach.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/into_the_breach.jpg",
       "metacritic": 90,
       "release_date": "2018-02-26",
       "reddit_url": "https://www.reddit.com/r/IntoTheBreach/",
@@ -2190,7 +2190,7 @@
       },
       "stores": [],
       "total_reviews": 0,
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/astro_bot.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/astro_bot.jpg",
       "release_date": "2024-09-06",
       "reddit_url": "",
       "metacritic_url": "",
@@ -2214,7 +2214,7 @@
       "user_score": 9,
       "total_reviews": 35482,
       "price": "CDN$ 2.59",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/hotline_miami.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/hotline_miami.jpg",
       "metacritic": 85,
       "release_date": "2012-10-22",
       "reddit_url": "",
@@ -2236,7 +2236,7 @@
       },
       "stores": ["Nintendo Store"],
       "total_reviews": 0,
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/the_legend_of_zelda__a_link_to_the_past.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/the_legend_of_zelda__a_link_to_the_past.jpg",
       "metacritic": 95,
       "release_date": "1991-11-21",
       "reddit_url": "",
@@ -2257,7 +2257,7 @@
       },
       "stores": ["Nintendo Store"],
       "total_reviews": 0,
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/super_metroid.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/super_metroid.jpg",
       "release_date": "1994-03-19",
       "reddit_url": "",
       "metacritic_url": "",
@@ -2286,7 +2286,7 @@
       "user_score": 9,
       "total_reviews": 151125,
       "price": "CDN$ 13.19",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/subnautica.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/subnautica.jpg",
       "metacritic": 87,
       "release_date": "2018-01-23",
       "reddit_url": "https://www.reddit.com/r/subnautica/",
@@ -2309,7 +2309,7 @@
       "stores": ["PlayStation Store", "Steam", "Xbox 360 Store", "Xbox Store"],
       "steam_id": 24999,
       "total_reviews": 0,
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/mass_effect_2.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/mass_effect_2.jpg",
       "metacritic": 94,
       "release_date": "2010-01-26",
       "reddit_url": "https://www.reddit.com/r/masseffect/",
@@ -2330,7 +2330,7 @@
       },
       "stores": ["Nintendo Store"],
       "total_reviews": 0,
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/super_mario_64.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/super_mario_64.jpg",
       "metacritic": 94,
       "release_date": "1996-06-23",
       "reddit_url": "https://www.reddit.com/r/SuperMario64/",
@@ -2354,7 +2354,7 @@
       "user_score": 9,
       "total_reviews": 48565,
       "price": "CDN$ 16.14",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/balatro.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/balatro.jpg",
       "metacritic": 90,
       "release_date": "2024-02-20",
       "reddit_url": "",
@@ -2379,7 +2379,7 @@
       "user_score": 8,
       "total_reviews": 849,
       "price": "CDN$ 21.99",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/nex_machina.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/nex_machina.jpg",
       "metacritic": 84,
       "release_date": "2017-06-19",
       "reddit_url": "",
@@ -2401,7 +2401,7 @@
       },
       "stores": ["Nintendo Store"],
       "total_reviews": 0,
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/super_mario_bros__3.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/super_mario_bros__3.jpg",
       "release_date": "1988-10-23",
       "reddit_url": "",
       "metacritic_url": "",
@@ -2421,7 +2421,7 @@
       },
       "stores": [],
       "total_reviews": 0,
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/metal_gear_solid_3.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/metal_gear_solid_3.jpg",
       "metacritic": 94,
       "release_date": "2005-12-22",
       "reddit_url": "",
@@ -2445,7 +2445,7 @@
       "user_score": 8,
       "total_reviews": 6500,
       "price": "CDN$ 79.99",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/god_of_war_ragnarök.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/god_of_war_ragnarök.jpg",
       "metacritic": 90,
       "release_date": "2022-11-09",
       "reddit_url": "https://www.reddit.com/r/GodofWarRagnarok/",
@@ -2470,7 +2470,7 @@
       "user_score": 8,
       "total_reviews": 7767,
       "price": "CDN$ 19.49",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/tunic.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/tunic.jpg",
       "metacritic": 85,
       "release_date": "2022-03-16",
       "reddit_url": "",
@@ -2492,7 +2492,7 @@
       },
       "stores": ["Epic Games", "GOG", "Steam"],
       "total_reviews": 0,
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/norco.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/norco.jpg",
       "release_date": "2022-03-24",
       "reddit_url": "",
       "metacritic_url": "",
@@ -2522,7 +2522,7 @@
       "user_score": 8,
       "total_reviews": 5511,
       "price": "CDN$ 9.59",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/final_fantasy_ix.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/final_fantasy_ix.jpg",
       "metacritic": 84,
       "release_date": "2000-07-07",
       "reddit_url": "",
@@ -2550,7 +2550,7 @@
         "Xbox Store"
       ],
       "total_reviews": 0,
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/castlevania__symphony_of_the_night.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/castlevania__symphony_of_the_night.jpg",
       "metacritic": 93,
       "release_date": "1997-03-20",
       "reddit_url": "",
@@ -2571,7 +2571,7 @@
       },
       "stores": [],
       "total_reviews": 0,
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/halo_2.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/halo_2.jpg",
       "metacritic": 84,
       "release_date": "2004-11-09",
       "reddit_url": "",
@@ -2592,7 +2592,7 @@
       },
       "stores": ["PlayStation Store", "Steam"],
       "total_reviews": 0,
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/final_fantasy_xiv__a_realm_reborn.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/final_fantasy_xiv__a_realm_reborn.jpg",
       "metacritic": 83,
       "release_date": "2013-08-27",
       "reddit_url": "",
@@ -2614,7 +2614,7 @@
       },
       "stores": ["PlayStation Store"],
       "total_reviews": 0,
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/the_last_of_us_part_2.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/the_last_of_us_part_2.jpg",
       "metacritic": 93,
       "release_date": "2020-06-19",
       "reddit_url": "https://www.reddit.com/r/thelastofus/",
@@ -2638,7 +2638,7 @@
       "user_score": 8,
       "total_reviews": 5466,
       "price": "CDN$ 46.74",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/like_a_dragon__infinite_wealth.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/like_a_dragon__infinite_wealth.jpg",
       "metacritic": 89,
       "release_date": "2024-01-26",
       "reddit_url": "",
@@ -2663,7 +2663,7 @@
       "user_score": 8,
       "total_reviews": 81,
       "price": "CDN$ 4.87",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/mediterranea_inferno.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/mediterranea_inferno.jpg",
       "metacritic": 84,
       "release_date": "2023-08-24",
       "reddit_url": "",
@@ -2688,7 +2688,7 @@
       "user_score": 9,
       "total_reviews": 7391,
       "price": "CDN$ 70.11",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/metaphor__refantazio.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/metaphor__refantazio.jpg",
       "metacritic": 92,
       "release_date": "2024-10-11",
       "reddit_url": "https://www.reddit.com/r/MetaphorReFantazio/",
@@ -2710,7 +2710,7 @@
       },
       "stores": ["PlayStation Store"],
       "total_reviews": 0,
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/the_last_of_us.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/the_last_of_us.jpg",
       "metacritic": 95,
       "release_date": "2013-06-14",
       "reddit_url": "https://www.reddit.com/r/thelastofus/",
@@ -2731,7 +2731,7 @@
       },
       "stores": ["App Store"],
       "total_reviews": 0,
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/dodonpachi_blissful_death_re_incarnation.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/dodonpachi_blissful_death_re_incarnation.jpg",
       "release_date": "2012-02-09",
       "reddit_url": "",
       "metacritic_url": "",
@@ -2754,7 +2754,7 @@
       "user_score": 9,
       "total_reviews": 1535,
       "price": "CDN$ 20.79",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/neva.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/neva.jpg",
       "release_date": "2024-10-15",
       "reddit_url": "",
       "metacritic_url": "",
@@ -2778,7 +2778,7 @@
       "user_score": 8,
       "total_reviews": 9395,
       "price": "CDN$ 23.39",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/pacific_drive.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/pacific_drive.jpg",
       "release_date": "2024-02-21",
       "reddit_url": "",
       "metacritic_url": "",
@@ -2802,7 +2802,7 @@
       "user_score": 9,
       "total_reviews": 2757,
       "price": "CDN$ 12.99",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/opus_magnum.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/opus_magnum.jpg",
       "metacritic": 90,
       "release_date": "2017-10-19",
       "reddit_url": "",
@@ -2824,7 +2824,7 @@
       },
       "stores": [],
       "total_reviews": 0,
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/super_mario_bros__wonder.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/super_mario_bros__wonder.jpg",
       "release_date": "2023-10-20",
       "reddit_url": "",
       "metacritic_url": "",
@@ -2855,7 +2855,7 @@
       "user_score": 9,
       "total_reviews": 61403,
       "price": "CDN$ 10.87",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/slay_the_spire.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/slay_the_spire.jpg",
       "metacritic": 89,
       "release_date": "2019-01-22",
       "reddit_url": "",
@@ -2880,7 +2880,7 @@
       "user_score": 8,
       "total_reviews": 5023,
       "price": "CDN$ 39.99",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/ratchet___clank__rift_apart.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/ratchet___clank__rift_apart.jpg",
       "metacritic": 88,
       "release_date": "2021-06-11",
       "reddit_url": "",
@@ -2902,7 +2902,7 @@
       },
       "stores": ["Nintendo Store"],
       "total_reviews": 0,
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/super_mario_bros_.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/super_mario_bros_.jpg",
       "release_date": "1985-09-13",
       "reddit_url": "",
       "metacritic_url": "",
@@ -2925,7 +2925,7 @@
       "user_score": 9,
       "total_reviews": 14169,
       "price": "CDN$ 9.29",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/dorfromantik.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/dorfromantik.jpg",
       "release_date": "2022-04-28",
       "reddit_url": "https://www.reddit.com/r/Dorfromantik/",
       "metacritic_url": "https://www.metacritic.com/game/dorfromantik/",
@@ -2949,7 +2949,7 @@
       "user_score": 8,
       "total_reviews": 15608,
       "price": "CDN$ 39.99",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/street_fighter_ii.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/street_fighter_ii.jpg",
       "metacritic": 92,
       "release_date": "1991-07-14",
       "reddit_url": "https://www.reddit.com/r/StreetFighter/",
@@ -2971,7 +2971,7 @@
       },
       "stores": ["itch.io"],
       "total_reviews": 0,
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/10_beautiful_postcards.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/10_beautiful_postcards.jpg",
       "release_date": "2019-05-27",
       "reddit_url": "",
       "metacritic_url": "",
@@ -2995,7 +2995,7 @@
       "user_score": 9,
       "total_reviews": 5053,
       "price": "CDN$ 12.29",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/the_case_of_the_golden_idol.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/the_case_of_the_golden_idol.jpg",
       "release_date": "2022-10-13",
       "reddit_url": "",
       "metacritic_url": "https://www.metacritic.com/game/pc/the-case-of-the-golden-idol",
@@ -3016,7 +3016,7 @@
       },
       "stores": [],
       "total_reviews": 0,
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/spider-man_2.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/spider-man_2.jpg",
       "metacritic": 42,
       "release_date": "2004-06-28",
       "reddit_url": "",
@@ -3041,7 +3041,7 @@
       "user_score": 9,
       "total_reviews": 76537,
       "price": "CDN$ 16.49",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/divinity__original_sin_2.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/divinity__original_sin_2.jpg",
       "metacritic": 93,
       "release_date": "2017-09-14",
       "reddit_url": "https://www.reddit.com/r/DivinityOriginalSin2/",
@@ -3052,8 +3052,8 @@
     {
       "title": "DOOM Eternal",
       "rankings": {
-        "PCGamer": 48,
-        "RPS": 92
+        "RPS": 92,
+        "PCGamer": 48
       },
       "platforms": {
         "windows": true,
@@ -3067,7 +3067,7 @@
       "user_score": 8,
       "total_reviews": 111573,
       "price": "CDN$ 13.37",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/doom_eternal.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/doom_eternal.jpg",
       "metacritic": 88,
       "release_date": "2020-03-20",
       "reddit_url": "https://www.reddit.com/r/Doom/",
@@ -3092,7 +3092,7 @@
       "user_score": 9,
       "total_reviews": 100907,
       "price": "CDN$ 45.00",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/factorio.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/factorio.jpg",
       "metacritic": 90,
       "release_date": "2020-08-14",
       "reddit_url": "https://www.reddit.com/r/factorio/",
@@ -3117,7 +3117,7 @@
       "steam_id": 1085660,
       "user_score": 8,
       "total_reviews": 73372,
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/destiny_2.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/destiny_2.jpg",
       "metacritic": 83,
       "release_date": "2017-09-06",
       "reddit_url": "https://www.reddit.com/r/destiny2/",
@@ -3128,8 +3128,8 @@
     {
       "title": "Final Fantasy VII",
       "rankings": {
-        "IGN": 98,
-        "Eurogamer": 43
+        "Eurogamer": 43,
+        "IGN": 98
       },
       "platforms": {
         "windows": true,
@@ -3143,7 +3143,7 @@
       "user_score": 8,
       "total_reviews": 14559,
       "price": "CDN$ 6.79",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/final_fantasy_vii.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/final_fantasy_vii.jpg",
       "metacritic": 87,
       "release_date": "2020-04-10",
       "reddit_url": "",
@@ -3168,7 +3168,7 @@
       "user_score": 8,
       "total_reviews": 4682,
       "price": "CDN$ 22.74",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/tetris_effect__connected.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/tetris_effect__connected.jpg",
       "metacritic": 93,
       "release_date": "2020-11-10",
       "reddit_url": "https://www.reddit.com/r/TetrisEffect/",
@@ -3193,7 +3193,7 @@
       "user_score": 9,
       "total_reviews": 40677,
       "price": "CDN$ 14.73",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/pizza_tower.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/pizza_tower.jpg",
       "release_date": "2023-01-26",
       "reddit_url": "",
       "metacritic_url": "",
@@ -3217,7 +3217,7 @@
       "user_score": 8,
       "total_reviews": 133258,
       "price": "CDN$ 24.99",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/sea_of_thieves.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/sea_of_thieves.jpg",
       "metacritic": 68,
       "release_date": "2018-03-20",
       "reddit_url": "https://www.reddit.com/r/Seaofthieves/",
@@ -3241,7 +3241,7 @@
       "steam_id": 2417610,
       "user_score": 0,
       "total_reviews": 0,
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/metal_gear_solid_3__snake_eater.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/metal_gear_solid_3__snake_eater.jpg",
       "metacritic": 84,
       "release_date": "2004-11-17",
       "reddit_url": "https://www.reddit.com/r/http://reddit.com/r/metalgearsolid/",
@@ -3265,7 +3265,7 @@
       "user_score": 8,
       "total_reviews": 2226,
       "price": "CDN$ 1.25",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/thief_gold.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/thief_gold.jpg",
       "metacritic": 92,
       "release_date": "1999-10-29",
       "reddit_url": "",
@@ -3287,7 +3287,7 @@
       },
       "stores": [],
       "total_reviews": 0,
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/warcraft_iii__reign_of_chaos.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/warcraft_iii__reign_of_chaos.jpg",
       "metacritic": 92,
       "release_date": "2002-06-01",
       "reddit_url": "https://www.reddit.com/r/warcraft3/",
@@ -3310,7 +3310,7 @@
       "steam_id": 316750,
       "user_score": 4,
       "total_reviews": 197,
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/tetris.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/tetris.jpg",
       "release_date": "1984-06-06",
       "reddit_url": "",
       "metacritic_url": "",
@@ -3320,8 +3320,8 @@
     {
       "title": "Roadwarden",
       "rankings": {
-        "RPS": 75,
-        "Eurogamer": 69
+        "Eurogamer": 69,
+        "RPS": 75
       },
       "platforms": {
         "windows": true,
@@ -3335,7 +3335,7 @@
       "user_score": 9,
       "total_reviews": 2924,
       "price": "CDN$ 6.24",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/roadwarden.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/roadwarden.jpg",
       "metacritic": 83,
       "release_date": "2022-09-08",
       "reddit_url": "",
@@ -3360,7 +3360,7 @@
       "user_score": 8,
       "total_reviews": 2326,
       "price": "CDN$ 8.83",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/planescape_torment.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/planescape_torment.jpg",
       "metacritic": 85,
       "release_date": "1999-12-12",
       "reddit_url": "https://www.reddit.com/r/planescape/",
@@ -3392,7 +3392,7 @@
       "user_score": 8,
       "total_reviews": 96229,
       "price": "£4.99",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/sid_meier_s_civilization_6.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/sid_meier_s_civilization_6.jpg",
       "metacritic": 88,
       "release_date": "2016-10-20",
       "reddit_url": "https://www.reddit.com/r/CivVI/",
@@ -3414,7 +3414,7 @@
       },
       "stores": [],
       "total_reviews": 0,
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/starcraft_2.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/starcraft_2.jpg",
       "metacritic": 93,
       "release_date": "2010-07-27",
       "reddit_url": "https://www.reddit.com/r/starcraft/",
@@ -3438,7 +3438,7 @@
       "user_score": 9,
       "total_reviews": 43315,
       "price": "CDN$ 2.74",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/ftl__faster_than_light.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/ftl__faster_than_light.jpg",
       "metacritic": 84,
       "release_date": "2012-09-14",
       "reddit_url": "",
@@ -3463,7 +3463,7 @@
       "user_score": 9,
       "total_reviews": 50153,
       "price": "CDN$ 2.29",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/half-life.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/half-life.jpg",
       "metacritic": 96,
       "release_date": "1998-11-08",
       "reddit_url": "https://www.reddit.com/r/HalfLife/",
@@ -3485,7 +3485,7 @@
       },
       "stores": ["Xbox 360 Store"],
       "total_reviews": 0,
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/halo__combat_evolved.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/halo__combat_evolved.jpg",
       "metacritic": 90,
       "release_date": "2001-11-15",
       "reddit_url": "",
@@ -3509,7 +3509,7 @@
       "user_score": 8,
       "total_reviews": 2869,
       "price": "CDN$ 16.49",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/cocoon.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/cocoon.jpg",
       "metacritic": 88,
       "release_date": "2023-09-29",
       "reddit_url": "",
@@ -3534,7 +3534,7 @@
       "user_score": 6,
       "total_reviews": 537,
       "price": "CDN$ 15.99",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/legend_of_mana.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/legend_of_mana.jpg",
       "metacritic": 71,
       "release_date": "2021-06-24",
       "reddit_url": "",
@@ -3556,7 +3556,7 @@
       },
       "stores": ["Nintendo Store"],
       "total_reviews": 0,
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/the_legend_of_zelda__ocarina_of_time.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/the_legend_of_zelda__ocarina_of_time.jpg",
       "metacritic": 99,
       "release_date": "1998-11-21",
       "reddit_url": "https://www.reddit.com/r/zelda",
@@ -3580,7 +3580,7 @@
       "user_score": 8,
       "total_reviews": 3930,
       "price": "CDN$ 4.39",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/nidhogg.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/nidhogg.jpg",
       "metacritic": 81,
       "release_date": "2014-01-13",
       "reddit_url": "",
@@ -3605,7 +3605,7 @@
       "user_score": 7,
       "total_reviews": 42,
       "price": "CDN$ 21.99",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/sid_meier_s_civilization_iv.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/sid_meier_s_civilization_iv.jpg",
       "metacritic": 94,
       "release_date": "2005-10-25",
       "reddit_url": "https://www.reddit.com/r/CivIV/",
@@ -3626,7 +3626,7 @@
       },
       "stores": ["GOG", "PlayStation Store"],
       "total_reviews": 0,
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/metal_gear_solid.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/metal_gear_solid.jpg",
       "metacritic": 94,
       "release_date": "1998-09-03",
       "reddit_url": "https://www.reddit.com/r/metalgearsolid/",
@@ -3650,7 +3650,7 @@
       "user_score": 8,
       "total_reviews": 3745,
       "price": "CDN$ 55.99",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/red_dead_redemption.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/red_dead_redemption.jpg",
       "metacritic": 95,
       "release_date": "2010-05-18",
       "reddit_url": "https://www.reddit.com/r/reddeadredemption",
@@ -3675,7 +3675,7 @@
       "user_score": 5,
       "total_reviews": 5023,
       "price": "CDN$ 89.99",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/microsoft_flight_simulator__2020_.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/microsoft_flight_simulator__2020_.jpg",
       "metacritic": 90,
       "release_date": "2020-08-18",
       "reddit_url": "https://www.reddit.com/r/MicrosoftFlightSim/",
@@ -3701,7 +3701,7 @@
       "user_score": 8,
       "total_reviews": 104958,
       "price": "CDN$ 13.19",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/monster_hunter__world.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/monster_hunter__world.jpg",
       "metacritic": 88,
       "release_date": "2018-01-26",
       "reddit_url": "https://www.reddit.com/r/MonsterHunterWorld/",
@@ -3726,7 +3726,7 @@
       "user_score": 9,
       "total_reviews": 117214,
       "price": "CDN$ 4.49",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/vampire_survivors.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/vampire_survivors.jpg",
       "metacritic": 86,
       "release_date": "2022-10-20",
       "reddit_url": "https://www.reddit.com/r/VampireSurvivors/",
@@ -3748,7 +3748,7 @@
       },
       "stores": ["Nintendo Store", "PlayStation Store", "Steam", "Xbox Store"],
       "total_reviews": 0,
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/burnout_paradise_remastered.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/burnout_paradise_remastered.jpg",
       "metacritic": 80,
       "release_date": "2018-03-16",
       "reddit_url": "https://www.reddit.com/r/Burnout",
@@ -3772,7 +3772,7 @@
       "user_score": 9,
       "total_reviews": 5319,
       "price": "CDN$ 2.79",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/supreme_commander__forged_alliance.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/supreme_commander__forged_alliance.jpg",
       "metacritic": 81,
       "release_date": "2007-11-06",
       "reddit_url": "https://www.reddit.com/r/supremecommander/",
@@ -3794,7 +3794,7 @@
       },
       "stores": [],
       "total_reviews": 0,
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/homeworld__cataclysm.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/homeworld__cataclysm.jpg",
       "metacritic": 89,
       "release_date": "2000-09-02",
       "reddit_url": "",
@@ -3815,7 +3815,7 @@
       },
       "stores": ["Nintendo Store"],
       "total_reviews": 0,
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/pokémon_yellow.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/pokémon_yellow.jpg",
       "release_date": "1996-02-27",
       "reddit_url": "https://www.reddit.com/r/pokemon/",
       "metacritic_url": "",
@@ -3838,7 +3838,7 @@
       "user_score": 8,
       "total_reviews": 2198,
       "price": "CDN$ 17.99",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/final_fantasy_vi.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/final_fantasy_vi.jpg",
       "metacritic": 92,
       "release_date": "1994-04-02",
       "reddit_url": "https://www.reddit.com/r/FinalFantasyVI/",
@@ -3863,7 +3863,7 @@
       "user_score": 9,
       "total_reviews": 77196,
       "price": "CDN$ 6.49",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/american_truck_simulator.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/american_truck_simulator.jpg",
       "metacritic": 76,
       "release_date": "2016-02-02",
       "reddit_url": "",
@@ -3893,7 +3893,7 @@
       "steam_id": 252950,
       "user_score": 8,
       "total_reviews": 223680,
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/rocket_league.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/rocket_league.jpg",
       "metacritic": 86,
       "release_date": "2015-07-07",
       "reddit_url": "https://www.reddit.com/r/RocketLeague/",
@@ -3918,7 +3918,7 @@
       "user_score": 9,
       "total_reviews": 6392,
       "price": "CDN$ 20.79",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/tactical_breach_wizards.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/tactical_breach_wizards.jpg",
       "metacritic": 88,
       "reddit_url": "",
       "metacritic_url": "https://www.metacritic.com/game/pc/tactical-breach-wizards?ftag=MCD-06-10aaa1f",
@@ -3948,7 +3948,7 @@
       "user_score": 8,
       "total_reviews": 2364,
       "price": "CDN$ 23.99",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/tony_hawk_s_pro_skater_1___2.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/tony_hawk_s_pro_skater_1___2.jpg",
       "metacritic": 88,
       "release_date": "2020-09-04",
       "reddit_url": "https://www.reddit.com/r/THPS/",
@@ -3981,7 +3981,7 @@
       "user_score": 8,
       "total_reviews": 20516,
       "price": "CDN$ 4.54",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/star_wars__knights_of_the_old_republic.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/star_wars__knights_of_the_old_republic.jpg",
       "metacritic": 88,
       "release_date": "2003-07-15",
       "reddit_url": "https://www.reddit.com/r/kotor/",
@@ -4003,7 +4003,7 @@
       },
       "stores": ["GOG", "PlayStation Store", "Steam", "Xbox Store"],
       "total_reviews": 0,
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/frostpunk.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/frostpunk.jpg",
       "metacritic": 85,
       "release_date": "2018-04-24",
       "reddit_url": "https://www.reddit.com/r/Frostpunk/",
@@ -4024,7 +4024,7 @@
       },
       "stores": ["App Store", "Google Play"],
       "total_reviews": 0,
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/pokémon_go.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/pokémon_go.jpg",
       "release_date": "2016-07-07",
       "reddit_url": "",
       "metacritic_url": "",
@@ -4044,7 +4044,7 @@
       },
       "stores": [],
       "total_reviews": 0,
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/starcraft.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/starcraft.jpg",
       "metacritic": 88,
       "release_date": "1998-03-31",
       "reddit_url": "",
@@ -4068,7 +4068,7 @@
       "user_score": 9,
       "total_reviews": 31011,
       "price": "CDN$ 35.09",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/hades_2.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/hades_2.jpg",
       "release_date": "2001-01-01",
       "reddit_url": "",
       "metacritic_url": "",
@@ -4092,7 +4092,7 @@
       "user_score": 8,
       "total_reviews": 30069,
       "price": "CDN$ 12.49",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/monster_hunter_rise.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/monster_hunter_rise.jpg",
       "metacritic": 86,
       "release_date": "2021-03-26",
       "reddit_url": "https://www.reddit.com/r/MHRise/",
@@ -4114,7 +4114,7 @@
       },
       "stores": [],
       "total_reviews": 0,
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/earthbound.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/earthbound.jpg",
       "release_date": "1994-08-27",
       "reddit_url": "https://www.reddit.com/r/earthbound/",
       "metacritic_url": "",
@@ -4137,7 +4137,7 @@
       "user_score": 9,
       "total_reviews": 73118,
       "price": "CDN$ 8.83",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/totally_accurate_battle_simulator.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/totally_accurate_battle_simulator.jpg",
       "release_date": "2021-04-01",
       "reddit_url": "",
       "metacritic_url": "https://www.metacritic.com/game/pc/totally-accurate-battle-simulator",
@@ -4158,7 +4158,7 @@
       },
       "stores": ["PlayStation Store", "Xbox Store"],
       "total_reviews": 0,
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/batman__arkham_collection.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/batman__arkham_collection.jpg",
       "release_date": "2019-09-06",
       "reddit_url": "",
       "metacritic_url": "",
@@ -4181,7 +4181,7 @@
       "user_score": 8,
       "total_reviews": 9922,
       "price": "CDN$ 3.39",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/spelunky.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/spelunky.jpg",
       "metacritic": 90,
       "release_date": "2012-07-04",
       "reddit_url": "",
@@ -4203,7 +4203,7 @@
       },
       "stores": ["Steam"],
       "total_reviews": 0,
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/counter-strike_1_6.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/counter-strike_1_6.jpg",
       "metacritic": 88,
       "release_date": "2000-11-01",
       "reddit_url": "",
@@ -4227,7 +4227,7 @@
       "user_score": 9,
       "total_reviews": 11024,
       "price": "CDN$ 28.99",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/wildermyth.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/wildermyth.jpg",
       "metacritic": 86,
       "release_date": "2019-11-13",
       "reddit_url": "",
@@ -4249,7 +4249,7 @@
       },
       "stores": [],
       "total_reviews": 0,
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/ms__pac-man.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/ms__pac-man.jpg",
       "release_date": "1981-01-12",
       "reddit_url": "",
       "metacritic_url": "",
@@ -4281,7 +4281,7 @@
       "user_score": 8,
       "total_reviews": 5811,
       "price": "CDN$ 2.74",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/fez.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/fez.jpg",
       "metacritic": 91,
       "release_date": "2012-04-13",
       "reddit_url": "https://www.reddit.com/r/Fez/",
@@ -4306,7 +4306,7 @@
       "user_score": 8,
       "total_reviews": 37403,
       "price": "CDN$ 17.99",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/metal_gear_solid_v__the_phantom_pain.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/metal_gear_solid_v__the_phantom_pain.jpg",
       "metacritic": 91,
       "release_date": "2015-09-01",
       "reddit_url": "https://www.reddit.com/r/MGSPhantomPain/",
@@ -4331,7 +4331,7 @@
       "user_score": 8,
       "total_reviews": 40550,
       "price": "CDN$ 7.79",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/warhammer_vermintide_2.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/warhammer_vermintide_2.jpg",
       "metacritic": 82,
       "release_date": "2018-03-08",
       "reddit_url": "",
@@ -4356,7 +4356,7 @@
       "user_score": 9,
       "total_reviews": 13412,
       "price": "CDN$ 9.19",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/mini_motorways.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/mini_motorways.jpg",
       "metacritic": 87,
       "release_date": "2021-07-20",
       "reddit_url": "https://www.reddit.com/r/MiniMotorways/",
@@ -4388,7 +4388,7 @@
       "user_score": 9,
       "total_reviews": 117816,
       "price": "$9.89 USD",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/the_binding_of_isaac_rebirth.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/the_binding_of_isaac_rebirth.jpg",
       "metacritic": 86,
       "release_date": "2014-11-03",
       "reddit_url": "",
@@ -4399,8 +4399,8 @@
     {
       "title": "League of Legends",
       "rankings": {
-        "IGN": 93,
-        "Eurogamer": 73
+        "Eurogamer": 73,
+        "IGN": 93
       },
       "platforms": {
         "windows": false,
@@ -4412,7 +4412,7 @@
       "stores": ["Epic Games", "Steam"],
       "steam_id": 20590,
       "total_reviews": 0,
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/league_of_legends.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/league_of_legends.jpg",
       "metacritic": 78,
       "release_date": "2009-10-27",
       "reddit_url": "https://www.reddit.com/r/leagueoflegends/",
@@ -4436,7 +4436,7 @@
       "user_score": 8,
       "total_reviews": 562883,
       "price": "CDN$ 9.99",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/tom_clancy_s_rainbow_six_siege.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/tom_clancy_s_rainbow_six_siege.jpg",
       "metacritic": 75,
       "release_date": "2015-12-01",
       "reddit_url": "https://www.reddit.com/r/Rainbow6/",
@@ -4461,7 +4461,7 @@
       "user_score": 8,
       "total_reviews": 18803,
       "price": "CDN$ 22.79",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/unpacking.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/unpacking.jpg",
       "metacritic": 83,
       "release_date": "2021-11-02",
       "reddit_url": "",
@@ -4486,7 +4486,7 @@
       "user_score": 9,
       "total_reviews": 15550,
       "price": "CDN$ 7.99",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/the_elder_scrolls_3_morrowind.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/the_elder_scrolls_3_morrowind.jpg",
       "metacritic": 89,
       "release_date": "2002-05-01",
       "reddit_url": "https://www.reddit.com/r/Morrowind/",
@@ -4508,7 +4508,7 @@
       },
       "stores": ["PlayStation Store"],
       "total_reviews": 0,
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/uncharted_2__among_thieves.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/uncharted_2__among_thieves.jpg",
       "metacritic": 96,
       "release_date": "2009-10-13",
       "reddit_url": "https://www.reddit.com/r/uncharted/",
@@ -4532,7 +4532,7 @@
       "user_score": 9,
       "total_reviews": 105516,
       "price": "356,00 kr",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/satisfactory.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/satisfactory.jpg",
       "metacritic": 91,
       "release_date": "2024-09-11",
       "reddit_url": "https://www.reddit.com/r/SatisfactoryGame/",
@@ -4563,7 +4563,7 @@
       "user_score": 9,
       "total_reviews": 19672,
       "price": "CDN$ 3.89",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/soma.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/soma.jpg",
       "metacritic": 84,
       "release_date": "2015-09-21",
       "reddit_url": "",
@@ -4591,7 +4591,7 @@
         "Xbox Store"
       ],
       "total_reviews": 0,
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/hitman_3.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/hitman_3.jpg",
       "metacritic": 83,
       "release_date": "2021-01-20",
       "reddit_url": "",
@@ -4615,7 +4615,7 @@
       "user_score": 8,
       "total_reviews": 10548,
       "price": "CDN$ 6.59",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/journey.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/journey.jpg",
       "metacritic": 92,
       "release_date": "2012-03-13",
       "reddit_url": "https://www.reddit.com/r/JourneyPS3/",
@@ -4637,7 +4637,7 @@
       },
       "stores": ["Nintendo Store"],
       "total_reviews": 0,
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/pikmin_4.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/pikmin_4.jpg",
       "metacritic": 88,
       "release_date": "2023-07-21",
       "reddit_url": "",
@@ -4669,7 +4669,7 @@
       "user_score": 8,
       "total_reviews": 7836,
       "price": "CDN$ 10.99",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/the_witness.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/the_witness.jpg",
       "metacritic": 87,
       "release_date": "2016-01-25",
       "reddit_url": "",
@@ -4694,7 +4694,7 @@
       "user_score": 9,
       "total_reviews": 1635,
       "price": "CDN$ 5.94",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/unavowed.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/unavowed.jpg",
       "metacritic": 87,
       "release_date": "2018-08-07",
       "reddit_url": "",
@@ -4727,7 +4727,7 @@
       "user_score": 9,
       "total_reviews": 538719,
       "price": "CDN$ 6.49",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/terraria.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/terraria.jpg",
       "metacritic": 83,
       "release_date": "2011-05-16",
       "reddit_url": "https://www.reddit.com/r/Terraria/",
@@ -4752,7 +4752,7 @@
       "user_score": 8,
       "total_reviews": 1143,
       "price": "CDN$ 2.19",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/system_shock_remake.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/system_shock_remake.jpg",
       "metacritic": 85,
       "release_date": "1994-09-23",
       "reddit_url": "https://www.reddit.com/r/systemshock/",
@@ -4774,7 +4774,7 @@
       },
       "stores": [],
       "total_reviews": 0,
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/grand_theft_auto_online.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/grand_theft_auto_online.jpg",
       "metacritic": 82,
       "release_date": "2013-10-01",
       "reddit_url": "",
@@ -4798,7 +4798,7 @@
       "user_score": 9,
       "total_reviews": 10472,
       "price": "CDN$ 2.59",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/before_your_eyes.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/before_your_eyes.jpg",
       "release_date": "2021-04-07",
       "reddit_url": "",
       "metacritic_url": "https://www.metacritic.com/game/pc/before-your-eyes",
@@ -4827,7 +4827,7 @@
       "user_score": 9,
       "total_reviews": 21555,
       "price": "CDN$ 3.99",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/batman__arkham_city.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/batman__arkham_city.jpg",
       "metacritic": 91,
       "release_date": "2011-10-18",
       "reddit_url": "https://www.reddit.com/r/BatmanArkham/",
@@ -4852,7 +4852,7 @@
       "user_score": 6,
       "total_reviews": 61,
       "price": "CDN$ 10.99",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/space_giraffe.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/space_giraffe.jpg",
       "release_date": "2008-12-15",
       "reddit_url": "",
       "metacritic_url": "",
@@ -4874,7 +4874,7 @@
       "steam_id": 99809,
       "user_score": 0,
       "total_reviews": 0,
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/dragon_age_ii.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/dragon_age_ii.jpg",
       "metacritic": 81,
       "release_date": "2011-03-08",
       "reddit_url": "https://www.reddit.com/r/dragonage/",
@@ -4904,7 +4904,7 @@
       "user_score": 8,
       "total_reviews": 26412,
       "price": "CDN$ 5.84",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/rise_of_the_tomb_raider.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/rise_of_the_tomb_raider.jpg",
       "metacritic": 86,
       "release_date": "2015-11-10",
       "reddit_url": "",
@@ -4915,8 +4915,8 @@
     {
       "title": "Fallout 2",
       "rankings": {
-        "RPS": 77,
-        "IGN": 94
+        "IGN": 94,
+        "RPS": 77
       },
       "platforms": {
         "windows": true,
@@ -4930,7 +4930,7 @@
       "user_score": 8,
       "total_reviews": 7609,
       "price": "CDN$ 2.74",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/fallout_2.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/fallout_2.jpg",
       "metacritic": 86,
       "release_date": "1998-09-30",
       "reddit_url": "https://www.reddit.com/r/Fallout2/",
@@ -4961,7 +4961,7 @@
       "user_score": 9,
       "total_reviews": 68643,
       "price": "CDN$ 23.99",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/stray.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/stray.jpg",
       "metacritic": 82,
       "release_date": "2022-07-19",
       "reddit_url": "https://www.reddit.com/r/stray/",
@@ -4991,7 +4991,7 @@
       ],
       "steam_id": 7950,
       "total_reviews": 0,
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/call_of_duty_4__modern_warfare.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/call_of_duty_4__modern_warfare.jpg",
       "metacritic": 92,
       "release_date": "2007-11-05",
       "reddit_url": "",
@@ -5015,7 +5015,7 @@
       "user_score": 8,
       "total_reviews": 48055,
       "price": "CDN$ 15.99",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/forza_horizon_4.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/forza_horizon_4.jpg",
       "metacritic": 90,
       "release_date": "2018-10-02",
       "reddit_url": "https://www.reddit.com/r/ForzaHorizon/",
@@ -5026,8 +5026,8 @@
     {
       "title": "Inside",
       "rankings": {
-        "IGN": 88,
-        "PCGamer": 84
+        "PCGamer": 84,
+        "IGN": 88
       },
       "platforms": {
         "windows": true,
@@ -5048,7 +5048,7 @@
       "steam_id": 2596760,
       "user_score": 0,
       "total_reviews": 0,
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/inside.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/inside.jpg",
       "metacritic": 87,
       "release_date": "2016-06-28",
       "reddit_url": "",
@@ -5072,7 +5072,7 @@
       "user_score": 8,
       "total_reviews": 3383,
       "price": "CDN$ 5.49",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/invisible_inc_.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/invisible_inc_.jpg",
       "metacritic": 82,
       "release_date": "2015-05-12",
       "reddit_url": "",
@@ -5096,7 +5096,7 @@
       "steam_id": 980030,
       "user_score": 0,
       "total_reviews": 0,
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/rust.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/rust.jpg",
       "metacritic": 69,
       "release_date": "2018-02-09",
       "reddit_url": "https://www.reddit.com/r/playrust/",
@@ -5121,7 +5121,7 @@
       "user_score": 9,
       "total_reviews": 42793,
       "price": "CDN$ 13.74",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/resident_evil_2__remake_.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/resident_evil_2__remake_.jpg",
       "metacritic": 89,
       "release_date": "2019-01-25",
       "reddit_url": "https://www.reddit.com/r/residentevil/",
@@ -5143,7 +5143,7 @@
       },
       "stores": ["Xbox 360 Store", "Xbox Store"],
       "total_reviews": 0,
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/gears_of_war.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/gears_of_war.jpg",
       "metacritic": 90,
       "release_date": "2006-11-08",
       "reddit_url": "",
@@ -5167,7 +5167,7 @@
       "user_score": 8,
       "total_reviews": 1429,
       "price": "CDN$ 11.59",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/heaven_s_vault.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/heaven_s_vault.jpg",
       "metacritic": 76,
       "release_date": "2019-04-15",
       "reddit_url": "",
@@ -5192,7 +5192,7 @@
       "user_score": 9,
       "total_reviews": 69615,
       "price": "CDN$ 43.99",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/kerbal_space_program.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/kerbal_space_program.jpg",
       "metacritic": 88,
       "release_date": "2015-04-26",
       "reddit_url": "https://www.reddit.com/r/KerbalSpaceProgram/",
@@ -5225,7 +5225,7 @@
       "user_score": 6,
       "total_reviews": 2101,
       "price": "CDN$ 31.99",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/grand_theft_auto__san_andreas.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/grand_theft_auto__san_andreas.jpg",
       "metacritic": 93,
       "release_date": "2004-10-26",
       "reddit_url": "https://www.reddit.com/r/sanandreas/",
@@ -5250,7 +5250,7 @@
       "user_score": 8,
       "total_reviews": 2757,
       "price": "CDN$ 2.49",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/grow_home.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/grow_home.jpg",
       "metacritic": 75,
       "release_date": "2014-02-04",
       "reddit_url": "",
@@ -5275,7 +5275,7 @@
       "user_score": 9,
       "total_reviews": 13721,
       "price": "CDN$ 74.79",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/silent_hill_2.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/silent_hill_2.jpg",
       "release_date": "2024-10-08",
       "reddit_url": "",
       "metacritic_url": "",
@@ -5299,7 +5299,7 @@
       "user_score": 8,
       "total_reviews": 55,
       "price": "CDN$ 25.34",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/llamasoft__the_jeff_minter_story.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/llamasoft__the_jeff_minter_story.jpg",
       "release_date": "2024-03-13",
       "reddit_url": "",
       "metacritic_url": "",
@@ -5320,7 +5320,7 @@
       },
       "stores": [],
       "total_reviews": 0,
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/super_mario_world_2__yoshi_s_island.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/super_mario_world_2__yoshi_s_island.jpg",
       "metacritic": 91,
       "release_date": "1995-08-05",
       "reddit_url": "",
@@ -5348,7 +5348,7 @@
         "Xbox Store"
       ],
       "total_reviews": 0,
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/sid_meier_s_pirates__live_the_life.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/sid_meier_s_pirates__live_the_life.jpg",
       "metacritic": 88,
       "release_date": "2004-11-22",
       "reddit_url": "",
@@ -5372,7 +5372,7 @@
       "user_score": 9,
       "total_reviews": 14579,
       "price": "CDN$ 18.89",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/signalis.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/signalis.jpg",
       "metacritic": 82,
       "release_date": "2022-10-27",
       "reddit_url": "",
@@ -5397,7 +5397,7 @@
       "user_score": 6,
       "total_reviews": 17736,
       "price": "CDN$ 47.99",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/the_last_of_us_part_i.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/the_last_of_us_part_i.jpg",
       "release_date": "2022-09-02",
       "reddit_url": "https://www.reddit.com/r/thelastofus/",
       "metacritic_url": "https://www.metacritic.com/game/playstation-5/the-last-of-us-part-i",
@@ -5425,7 +5425,7 @@
         "Xbox Store"
       ],
       "total_reviews": 0,
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/splinter_cell__chaos_theory.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/splinter_cell__chaos_theory.jpg",
       "metacritic": 92,
       "release_date": "2005-03-21",
       "reddit_url": "",
@@ -5449,7 +5449,7 @@
       "user_score": 8,
       "total_reviews": 71276,
       "price": "CDN$ 39.99",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/forza_horizon_5.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/forza_horizon_5.jpg",
       "release_date": "2021-11-08",
       "reddit_url": "https://www.reddit.com/r/ForzaHorizon/",
       "metacritic_url": "https://www.metacritic.com/game/forza-horizon-5/",
@@ -5470,7 +5470,7 @@
       },
       "stores": [],
       "total_reviews": 0,
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/the_secret_of_monkey_island.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/the_secret_of_monkey_island.jpg",
       "release_date": "1990-10-01",
       "reddit_url": "",
       "metacritic_url": "",
@@ -5493,7 +5493,7 @@
       "user_score": 9,
       "total_reviews": 7377,
       "price": "CDN$ 6.23",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/strange_horticulture.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/strange_horticulture.jpg",
       "metacritic": 83,
       "release_date": "2022-01-20",
       "reddit_url": "",
@@ -5518,7 +5518,7 @@
       "user_score": 8,
       "total_reviews": 19062,
       "price": "CDN$ 26.99",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/the_sims_3.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/the_sims_3.jpg",
       "metacritic": 86,
       "release_date": "2009-06-02",
       "reddit_url": "",
@@ -5540,7 +5540,7 @@
       },
       "stores": ["Nintendo Store"],
       "total_reviews": 0,
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/donkey_kong.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/donkey_kong.jpg",
       "release_date": "1981-07-09",
       "reddit_url": "",
       "metacritic_url": "",
@@ -5573,7 +5573,7 @@
       "user_score": 8,
       "total_reviews": 23366,
       "price": "CDN$ 10.99",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/alien_isolation.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/alien_isolation.jpg",
       "metacritic": 81,
       "release_date": "2014-10-05",
       "reddit_url": "https://www.reddit.com/r/alienisolation/",
@@ -5605,7 +5605,7 @@
       "user_score": 9,
       "total_reviews": 35786,
       "price": "CDN$ 12.99",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/papers_please.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/papers_please.jpg",
       "metacritic": 85,
       "release_date": "2013-08-08",
       "reddit_url": "https://www.reddit.com/r/papersplease/",
@@ -5630,7 +5630,7 @@
       "user_score": 8,
       "total_reviews": 20184,
       "price": "CDN$ 7.99",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/far_cry_4.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/far_cry_4.jpg",
       "metacritic": 80,
       "release_date": "2014-11-18",
       "reddit_url": "https://www.reddit.com/r/FarCry4/",
@@ -5655,7 +5655,7 @@
       "user_score": 8,
       "total_reviews": 6585,
       "price": "CDN$ 3.84",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/max_payne.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/max_payne.jpg",
       "metacritic": 89,
       "release_date": "2001-07-25",
       "reddit_url": "https://www.reddit.com/r/maxpayne/",
@@ -5687,7 +5687,7 @@
       "user_score": 8,
       "total_reviews": 92967,
       "price": "CDN$ 3.99",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/cities__skylines.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/cities__skylines.jpg",
       "metacritic": 85,
       "release_date": "2015-03-10",
       "reddit_url": "https://www.reddit.com/r/CitiesSkylines/",
@@ -5712,7 +5712,7 @@
       "user_score": 9,
       "total_reviews": 7027,
       "price": "CDN$ 7.99",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/psychonauts_2.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/psychonauts_2.jpg",
       "metacritic": 89,
       "release_date": "2021-08-24",
       "reddit_url": "https://www.reddit.com/r/Psychonauts2/",
@@ -5737,7 +5737,7 @@
       "user_score": 8,
       "total_reviews": 16791,
       "price": "CDN$ 10.99",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/chivalry_2.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/chivalry_2.jpg",
       "metacritic": 82,
       "release_date": "2021-06-08",
       "reddit_url": "",
@@ -5748,8 +5748,8 @@
     {
       "title": "Dead Cells",
       "rankings": {
-        "PCGamer": 91,
-        "RPS": 91
+        "RPS": 91,
+        "PCGamer": 91
       },
       "platforms": {
         "windows": true,
@@ -5772,7 +5772,7 @@
       "user_score": 9,
       "total_reviews": 39439,
       "price": "CDN$ 14.99",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/dead_cells.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/dead_cells.jpg",
       "metacritic": 89,
       "release_date": "2018-08-07",
       "reddit_url": "https://www.reddit.com/r/deadcells/",
@@ -5797,7 +5797,7 @@
       "user_score": 8,
       "total_reviews": 29552,
       "price": "CDN$ 53.49",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/tekken_7.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/tekken_7.jpg",
       "metacritic": 82,
       "release_date": "2015-03-18",
       "reddit_url": "",
@@ -5819,7 +5819,7 @@
       },
       "stores": [],
       "total_reviews": 0,
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/goldeneye_007.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/goldeneye_007.jpg",
       "metacritic": 96,
       "release_date": "1997-08-23",
       "reddit_url": "",
@@ -5843,7 +5843,7 @@
       "user_score": 9,
       "total_reviews": 153459,
       "price": "CDN$ 11.54",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/deep_rock_galactic.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/deep_rock_galactic.jpg",
       "metacritic": 85,
       "release_date": "2020-05-13",
       "reddit_url": "https://www.reddit.com/r/DeepRockGalactic/",
@@ -5872,7 +5872,7 @@
       ],
       "steam_id": 3599,
       "total_reviews": 0,
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/plants_vs__zombies.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/plants_vs__zombies.jpg",
       "metacritic": 86,
       "release_date": "2009-05-05",
       "reddit_url": "https://www.reddit.com/r/PlantsVSZombies/",
@@ -5893,7 +5893,7 @@
       },
       "stores": ["Xbox 360 Store", "Xbox Store"],
       "total_reviews": 0,
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/fable_2.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/fable_2.jpg",
       "metacritic": 89,
       "release_date": "2008-10-21",
       "reddit_url": "https://www.reddit.com/r/Fable/",
@@ -5917,7 +5917,7 @@
       "user_score": 8,
       "total_reviews": 5117,
       "price": "CDN$ 25.99",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/baldur_s_gate_2.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/baldur_s_gate_2.jpg",
       "metacritic": 78,
       "release_date": "1998-12-21",
       "reddit_url": "",
@@ -5942,7 +5942,7 @@
       "user_score": 9,
       "total_reviews": 3876,
       "price": "CDN$ 22.75",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/turbo_overkill.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/turbo_overkill.jpg",
       "metacritic": 87,
       "release_date": "2023-08-11",
       "reddit_url": "",
@@ -5967,7 +5967,7 @@
       "user_score": 9,
       "total_reviews": 6975,
       "price": "CDN$ 38.99",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/caves_of_qud.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/caves_of_qud.jpg",
       "release_date": "2015-07-15",
       "reddit_url": "",
       "metacritic_url": "",
@@ -5991,7 +5991,7 @@
       "user_score": 8,
       "total_reviews": 2252,
       "price": "CDN$ 27.99",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/kentucky_route_zero.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/kentucky_route_zero.jpg",
       "metacritic": 81,
       "release_date": "2020-01-28",
       "reddit_url": "",
@@ -6022,7 +6022,7 @@
       "user_score": 8,
       "total_reviews": 51448,
       "price": "₹ 299",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/assassin_s_creed_odyssey.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/assassin_s_creed_odyssey.jpg",
       "metacritic": 85,
       "release_date": "2018-10-05",
       "reddit_url": "https://www.reddit.com/r/assassinscreed/",
@@ -6047,7 +6047,7 @@
       "user_score": 8,
       "total_reviews": 23384,
       "price": "CDN$ 6.99",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/mortal_kombat_11.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/mortal_kombat_11.jpg",
       "metacritic": 82,
       "release_date": "2019-04-22",
       "reddit_url": "https://www.reddit.com/r/MortalKombat/",
@@ -6072,7 +6072,7 @@
       "user_score": 5,
       "total_reviews": 455,
       "price": "CDN$ 8.99",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/legacy_of_kain__soul_reaver.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/legacy_of_kain__soul_reaver.jpg",
       "metacritic": 77,
       "release_date": "1999-08-16",
       "reddit_url": "",
@@ -6104,7 +6104,7 @@
       "user_score": 8,
       "total_reviews": 6313,
       "price": "CDN$ 11.59",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/streets_of_rage_4.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/streets_of_rage_4.jpg",
       "metacritic": 84,
       "release_date": "2020-04-30",
       "reddit_url": "",
@@ -6129,7 +6129,7 @@
       "user_score": 9,
       "total_reviews": 3733,
       "price": "CDN$ 9.99",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/desperados_3.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/desperados_3.jpg",
       "metacritic": 86,
       "release_date": "2020-06-15",
       "reddit_url": "https://www.reddit.com/r/Desperados3/",
@@ -6154,7 +6154,7 @@
       "user_score": 9,
       "total_reviews": 4625,
       "price": "CDN$ 2.19",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/system_shock_2.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/system_shock_2.jpg",
       "metacritic": 92,
       "release_date": "1999-08-11",
       "reddit_url": "https://www.reddit.com/r/SystemShock2/",
@@ -6179,7 +6179,7 @@
       "user_score": 9,
       "total_reviews": 74448,
       "price": "CDN$ 32.99",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/sid_meier_s_civilization_5.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/sid_meier_s_civilization_5.jpg",
       "metacritic": 90,
       "release_date": "2010-09-21",
       "reddit_url": "https://www.reddit.com/r/civ5/",
@@ -6204,7 +6204,7 @@
       "user_score": 7,
       "total_reviews": 33,
       "price": "CDN$ 9.74",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/rytmos.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/rytmos.jpg",
       "release_date": "2023-02-28",
       "reddit_url": "",
       "metacritic_url": "https://www.metacritic.com/game/switch/rytmos",
@@ -6228,7 +6228,7 @@
       "user_score": 9,
       "total_reviews": 52364,
       "price": "CDN$ 39.99",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/age_of_empires_ii__definitive_edition.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/age_of_empires_ii__definitive_edition.jpg",
       "metacritic": 84,
       "release_date": "2019-11-14",
       "reddit_url": "",
@@ -6253,7 +6253,7 @@
       "user_score": 9,
       "total_reviews": 15142,
       "price": "CDN$ 38.99",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/hi-fi_rush.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/hi-fi_rush.jpg",
       "metacritic": 90,
       "release_date": "2023-01-25",
       "reddit_url": "",
@@ -6278,7 +6278,7 @@
       "user_score": 9,
       "total_reviews": 92629,
       "price": "CDN$ 24.37",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/ultrakill.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/ultrakill.jpg",
       "release_date": "2020-09-02",
       "reddit_url": "",
       "metacritic_url": "",
@@ -6302,7 +6302,7 @@
       "user_score": 8,
       "total_reviews": 2364,
       "price": "CDN$ 23.99",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/tony_hawk_s_pro_skater_2.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/tony_hawk_s_pro_skater_2.jpg",
       "metacritic": 91,
       "release_date": "2000-09-19",
       "reddit_url": "https://www.reddit.com/r/THPS/",
@@ -6326,7 +6326,7 @@
       "steam_id": 698780,
       "user_score": 8,
       "total_reviews": 190,
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/doki_doki_literature_club.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/doki_doki_literature_club.jpg",
       "metacritic": 78,
       "release_date": "2017-09-22",
       "reddit_url": "https://www.reddit.com/r/DDLC/",
@@ -6348,7 +6348,7 @@
       },
       "stores": ["Steam"],
       "total_reviews": 0,
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/pentiment.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/pentiment.jpg",
       "release_date": "2022-11-14",
       "reddit_url": "",
       "metacritic_url": "https://www.metacritic.com/game/pc/pentiment",
@@ -6368,7 +6368,7 @@
       },
       "stores": ["GOG"],
       "total_reviews": 0,
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/simcity_2000.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/simcity_2000.jpg",
       "release_date": "1993-01-01",
       "reddit_url": "",
       "metacritic_url": "",
@@ -6389,7 +6389,7 @@
       "stores": ["Steam"],
       "steam_id": 71270,
       "total_reviews": 0,
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/football_manager_2024.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/football_manager_2024.jpg",
       "release_date": "2023-11-06",
       "reddit_url": "",
       "metacritic_url": "",
@@ -6412,7 +6412,7 @@
       "user_score": 8,
       "total_reviews": 1270,
       "price": "CDN$ 1.25",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/thief_ii__the_metal_age.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/thief_ii__the_metal_age.jpg",
       "metacritic": 87,
       "release_date": "2000-02-29",
       "reddit_url": "",
@@ -6437,7 +6437,7 @@
       "user_score": 9,
       "total_reviews": 15071,
       "price": "CDN$ 19.99",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/against_the_storm.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/against_the_storm.jpg",
       "metacritic": 91,
       "release_date": "2023-12-08",
       "reddit_url": "",
@@ -6460,7 +6460,7 @@
       "stores": ["Nintendo Store", "PlayStation Store", "Steam", "Xbox Store"],
       "steam_id": 11900,
       "total_reviews": 0,
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/lumines_remastered.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/lumines_remastered.jpg",
       "release_date": "2018-06-26",
       "reddit_url": "",
       "metacritic_url": "",
@@ -6480,7 +6480,7 @@
       },
       "stores": [],
       "total_reviews": 0,
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/mega_man_3.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/mega_man_3.jpg",
       "release_date": "1990-09-28",
       "reddit_url": "",
       "metacritic_url": "",
@@ -6500,7 +6500,7 @@
       },
       "stores": ["PlayStation Store", "Steam"],
       "total_reviews": 0,
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/ghost_of_tsushima.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/ghost_of_tsushima.jpg",
       "metacritic": 83,
       "release_date": "2020-07-17",
       "reddit_url": "https://www.reddit.com/r/ghostoftsushima/",
@@ -6510,8 +6510,8 @@
     {
       "title": "The Stanley Parable",
       "rankings": {
-        "Eurogamer": 96,
-        "RPS": 99
+        "RPS": 99,
+        "Eurogamer": 96
       },
       "platforms": {
         "windows": true,
@@ -6525,7 +6525,7 @@
       "user_score": 8,
       "total_reviews": 20088,
       "price": "CDN$ 17.99",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/the_stanley_parable.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/the_stanley_parable.jpg",
       "metacritic": 88,
       "release_date": "2013-10-17",
       "reddit_url": "",
@@ -6548,7 +6548,7 @@
       "stores": ["PlayStation Store", "Steam"],
       "steam_id": 2572030,
       "total_reviews": 0,
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/diablo_iv.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/diablo_iv.jpg",
       "metacritic": 90,
       "release_date": "2023-06-06",
       "reddit_url": "",
@@ -6572,7 +6572,7 @@
       "user_score": 8,
       "total_reviews": 18081,
       "price": "CDN$ 39.99",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/dragon_age_origins.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/dragon_age_origins.jpg",
       "metacritic": 91,
       "release_date": "2009-11-03",
       "reddit_url": "https://www.reddit.com/r/dragonage/",
@@ -6604,7 +6604,7 @@
       "user_score": 8,
       "total_reviews": 32629,
       "price": "33,50 kr",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/prison_architect.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/prison_architect.jpg",
       "metacritic": 83,
       "release_date": "2015-10-05",
       "reddit_url": "https://www.reddit.com/r/prisonarchitect/",
@@ -6636,7 +6636,7 @@
       "user_score": 6,
       "total_reviews": 121,
       "price": "CDN$ 12.91",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/might___magic_clash_of_heroes.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/might___magic_clash_of_heroes.jpg",
       "metacritic": 76,
       "release_date": "2009-12-01",
       "reddit_url": "",
@@ -6657,7 +6657,7 @@
       },
       "stores": ["Xbox 360 Store"],
       "total_reviews": 0,
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/burnout_3__takedown.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/burnout_3__takedown.jpg",
       "metacritic": 94,
       "release_date": "2004-09-07",
       "reddit_url": "https://www.reddit.com/r/Burnout",
@@ -6687,7 +6687,7 @@
       "user_score": 9,
       "total_reviews": 8876,
       "price": "CDN$ 5.39",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/quake.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/quake.jpg",
       "metacritic": 94,
       "release_date": "1996-06-22",
       "reddit_url": "https://www.reddit.com/r/quake/",
@@ -6720,7 +6720,7 @@
       "user_score": 8,
       "total_reviews": 20516,
       "price": "CDN$ 4.54",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/star_wars_knights_of_the_old_republic_2.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/star_wars_knights_of_the_old_republic_2.jpg",
       "metacritic": 88,
       "release_date": "2003-07-15",
       "reddit_url": "https://www.reddit.com/r/kotor/",
@@ -6745,7 +6745,7 @@
       "user_score": 8,
       "total_reviews": 9099,
       "price": "CDN$ 10.99",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/vampire_the_masquerade_bloodlines.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/vampire_the_masquerade_bloodlines.jpg",
       "metacritic": 80,
       "release_date": "2004-11-15",
       "reddit_url": "https://www.reddit.com/r/vtmb/",
@@ -6767,7 +6767,7 @@
       },
       "stores": ["Google Play"],
       "total_reviews": 0,
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/qwop.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/qwop.jpg",
       "reddit_url": "",
       "metacritic_url": "",
       "harmony_score": 5
@@ -6786,7 +6786,7 @@
       },
       "stores": [],
       "total_reviews": 0,
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/monkey_island_2__lechuck_s_revenge.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/monkey_island_2__lechuck_s_revenge.jpg",
       "release_date": "1991-01-01",
       "reddit_url": "",
       "metacritic_url": "",
@@ -6815,7 +6815,7 @@
       "user_score": 8,
       "total_reviews": 25860,
       "price": "CDN$ 14.99",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/assassin_s_creed_iv__black_flag.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/assassin_s_creed_iv__black_flag.jpg",
       "metacritic": 85,
       "release_date": "2013-10-29",
       "reddit_url": "https://www.reddit.com/r/assassinscreed/",
@@ -6840,7 +6840,7 @@
       "user_score": 9,
       "total_reviews": 39419,
       "price": "CDN$ 18.19",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/dave_the_diver.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/dave_the_diver.jpg",
       "metacritic": 90,
       "release_date": "2023-06-28",
       "reddit_url": "",
@@ -6862,7 +6862,7 @@
       },
       "stores": ["GOG", "Steam"],
       "total_reviews": 0,
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/blood.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/blood.jpg",
       "metacritic": 82,
       "release_date": "1997-03-07",
       "reddit_url": "",
@@ -6883,7 +6883,7 @@
       },
       "stores": ["PlayStation Store", "Steam"],
       "total_reviews": 0,
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/hohokum.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/hohokum.jpg",
       "metacritic": 72,
       "release_date": "2014-07-22",
       "reddit_url": "",
@@ -6904,7 +6904,7 @@
       },
       "stores": ["PlayStation Store", "Steam", "Xbox 360 Store"],
       "total_reviews": 0,
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/city_of_heroes_homecoming.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/city_of_heroes_homecoming.jpg",
       "metacritic": 64,
       "release_date": "2008-09-30",
       "reddit_url": "",
@@ -6927,7 +6927,7 @@
       "steam_id": 1284210,
       "user_score": 8,
       "total_reviews": 204,
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/guild_wars_2.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/guild_wars_2.jpg",
       "metacritic": 90,
       "release_date": "2012-08-28",
       "reddit_url": "",
@@ -6958,7 +6958,7 @@
       "user_score": 6,
       "total_reviews": 153364,
       "price": "CDN$ 31.19",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/no_man_s_sky.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/no_man_s_sky.jpg",
       "metacritic": 61,
       "release_date": "2016-08-09",
       "reddit_url": "https://www.reddit.com/r/NoMansSkyTheGame/",
@@ -6980,7 +6980,7 @@
       },
       "stores": ["App Store"],
       "total_reviews": 0,
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/honkai__star_rail.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/honkai__star_rail.jpg",
       "release_date": "2023-04-22",
       "reddit_url": "",
       "metacritic_url": "",
@@ -7003,7 +7003,7 @@
       "user_score": 9,
       "total_reviews": 236666,
       "price": "CDN$ 11.39",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/valheim.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/valheim.jpg",
       "release_date": "2021-02-02",
       "reddit_url": "https://www.reddit.com/r/valheim/",
       "metacritic_url": "https://www.metacritic.com/game/pc/valheim",
@@ -7034,7 +7034,7 @@
       "user_score": 9,
       "total_reviews": 111067,
       "price": "CDN$ 5.49",
-      "header_image": "https://github.com/gruberb/ludoteca/blob/main/prepare/images/borderlands_2.jpg?raw=true",
+      "header_image": "https://media.githubusercontent.com/media/gruberb/ludoteca/main/prepare/images/borderlands_2.jpg",
       "metacritic": 89,
       "release_date": "2012-09-18",
       "reddit_url": "",
