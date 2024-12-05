@@ -53,11 +53,7 @@
         "steamdeck": "verified",
         "switch": false
       },
-      "stores": [
-        "GOG",
-        "PlayStation Store",
-        "Steam"
-      ],
+      "stores": ["GOG", "PlayStation Store", "Steam"],
       "steam_id": 1086940,
       "user_score": 9,
       "total_reviews": 378020,
@@ -85,11 +81,7 @@
         "steamdeck": "verified",
         "switch": false
       },
-      "stores": [
-        "PlayStation Store",
-        "Steam",
-        "Xbox Store"
-      ],
+      "stores": ["PlayStation Store", "Steam", "Xbox Store"],
       "steam_id": 1245620,
       "user_score": 8,
       "total_reviews": 384745,
@@ -113,15 +105,12 @@
       },
       "platforms": {
         "windows": true,
-        "macos": false,
+        "macos": true,
         "linux": false,
         "steamdeck": "verified",
         "switch": false
       },
-      "stores": [
-        "PlayStation Store",
-        "Steam"
-      ],
+      "stores": ["PlayStation Store", "Steam"],
       "steam_id": 2050650,
       "user_score": 9,
       "total_reviews": 42902,
@@ -143,8 +132,8 @@
         "RPS": 1
       },
       "platforms": {
-        "windows": false,
-        "macos": false,
+        "windows": true,
+        "macos": true,
         "linux": false,
         "steamdeck": "",
         "switch": true
@@ -213,9 +202,7 @@
         "steamdeck": "verified",
         "switch": false
       },
-      "stores": [
-        "Steam"
-      ],
+      "stores": ["Steam"],
       "steam_id": 813230,
       "user_score": 9,
       "total_reviews": 10072,
@@ -342,9 +329,7 @@
         "steamdeck": "verified",
         "switch": false
       },
-      "stores": [
-        "Steam"
-      ],
+      "stores": ["Steam"],
       "steam_id": 553850,
       "user_score": 8,
       "total_reviews": 530803,
@@ -371,11 +356,7 @@
         "steamdeck": "verified",
         "switch": true
       },
-      "stores": [
-        "Nintendo Store",
-        "PlayStation Store",
-        "Steam"
-      ],
+      "stores": ["Nintendo Store", "PlayStation Store", "Steam"],
       "steam_id": 1687950,
       "user_score": 9,
       "total_reviews": 22865,
@@ -402,10 +383,7 @@
         "steamdeck": "verified",
         "switch": false
       },
-      "stores": [
-        "Google Play",
-        "Steam"
-      ],
+      "stores": ["Google Play", "Steam"],
       "steam_id": 220,
       "user_score": 9,
       "total_reviews": 76207,
@@ -455,12 +433,7 @@
         "steamdeck": "verified",
         "switch": false
       },
-      "stores": [
-        "Epic Games",
-        "PlayStation Store",
-        "Steam",
-        "Xbox Store"
-      ],
+      "stores": ["Epic Games", "PlayStation Store", "Steam", "Xbox Store"],
       "steam_id": 1659040,
       "user_score": 8,
       "total_reviews": 16674,
@@ -488,12 +461,7 @@
         "steamdeck": "verified",
         "switch": true
       },
-      "stores": [
-        "Nintendo Store",
-        "PlayStation Store",
-        "Steam",
-        "Xbox Store"
-      ],
+      "stores": ["Nintendo Store", "PlayStation Store", "Steam", "Xbox Store"],
       "steam_id": 379720,
       "user_score": 9,
       "total_reviews": 74996,
@@ -520,12 +488,7 @@
         "steamdeck": "verified",
         "switch": false
       },
-      "stores": [
-        "PlayStation Store",
-        "Steam",
-        "Xbox 360 Store",
-        "Xbox Store"
-      ],
+      "stores": ["PlayStation Store", "Steam", "Xbox 360 Store", "Xbox Store"],
       "steam_id": 22380,
       "user_score": 9,
       "total_reviews": 141423,
@@ -552,11 +515,7 @@
         "steamdeck": "verified",
         "switch": false
       },
-      "stores": [
-        "PlayStation Store",
-        "Steam",
-        "Xbox Store"
-      ],
+      "stores": ["PlayStation Store", "Steam", "Xbox Store"],
       "steam_id": 1328670,
       "user_score": 8,
       "total_reviews": 32375,
@@ -583,10 +542,7 @@
         "steamdeck": "verified",
         "switch": false
       },
-      "stores": [
-        "Steam",
-        "itch.io"
-      ],
+      "stores": ["Steam", "itch.io"],
       "steam_id": 975370,
       "user_score": 9,
       "total_reviews": 21004,
@@ -613,12 +569,7 @@
         "steamdeck": "verified",
         "switch": false
       },
-      "stores": [
-        "Epic Games",
-        "PlayStation Store",
-        "Steam",
-        "Xbox Store"
-      ],
+      "stores": ["Epic Games", "PlayStation Store", "Steam", "Xbox Store"],
       "steam_id": 2668510,
       "user_score": 8,
       "total_reviews": 3790,
@@ -645,9 +596,7 @@
         "steamdeck": "verified",
         "switch": false
       },
-      "stores": [
-        "Steam"
-      ],
+      "stores": ["Steam"],
       "steam_id": 546560,
       "user_score": 9,
       "total_reviews": 55837,
@@ -707,10 +656,7 @@
         "steamdeck": "verified",
         "switch": true
       },
-      "stores": [
-        "PlayStation Store",
-        "Steam"
-      ],
+      "stores": ["PlayStation Store", "Steam"],
       "steam_id": 418530,
       "user_score": 8,
       "total_reviews": 12920,
@@ -737,10 +683,7 @@
         "steamdeck": "",
         "switch": false
       },
-      "stores": [
-        "Epic Games",
-        "PlayStation Store"
-      ],
+      "stores": ["Epic Games", "PlayStation Store"],
       "total_reviews": 0,
       "header_image": "https://gruberb.github.io/ludoteca/images/alan_wake_2.jpg",
       "release_date": "2023-10-27",
@@ -797,12 +740,7 @@
         "steamdeck": "verified",
         "switch": false
       },
-      "stores": [
-        "GOG",
-        "PlayStation Store",
-        "Steam",
-        "Xbox Store"
-      ],
+      "stores": ["GOG", "PlayStation Store", "Steam", "Xbox Store"],
       "steam_id": 403640,
       "user_score": 8,
       "total_reviews": 17733,
@@ -859,12 +797,7 @@
         "steamdeck": "verified",
         "switch": false
       },
-      "stores": [
-        "GOG",
-        "PlayStation Store",
-        "Steam",
-        "Xbox Store"
-      ],
+      "stores": ["GOG", "PlayStation Store", "Steam", "Xbox Store"],
       "steam_id": 638970,
       "user_score": 9,
       "total_reviews": 34241,
@@ -892,11 +825,7 @@
         "steamdeck": "verified",
         "switch": false
       },
-      "stores": [
-        "PlayStation Store",
-        "Steam",
-        "Xbox Store"
-      ],
+      "stores": ["PlayStation Store", "Steam", "Xbox Store"],
       "steam_id": 1237970,
       "user_score": 9,
       "total_reviews": 79410,
@@ -923,10 +852,7 @@
         "steamdeck": "verified",
         "switch": false
       },
-      "stores": [
-        "Steam",
-        "Xbox Store"
-      ],
+      "stores": ["Steam", "Xbox Store"],
       "steam_id": 976730,
       "user_score": 8,
       "total_reviews": 146729,
@@ -952,9 +878,7 @@
         "steamdeck": "",
         "switch": true
       },
-      "stores": [
-        "Nintendo Store"
-      ],
+      "stores": ["Nintendo Store"],
       "total_reviews": 0,
       "header_image": "https://gruberb.github.io/ludoteca/images/the_legend_of_zelda__breath_of_the_wild.jpg",
       "metacritic": 97,
@@ -1032,9 +956,7 @@
         "steamdeck": "verified",
         "switch": true
       },
-      "stores": [
-        "Steam"
-      ],
+      "stores": ["Steam"],
       "steam_id": 2379780,
       "user_score": 9,
       "total_reviews": 49112,
@@ -1061,11 +983,7 @@
         "steamdeck": "verified",
         "switch": false
       },
-      "stores": [
-        "Epic Games",
-        "PlayStation Store",
-        "Steam"
-      ],
+      "stores": ["Epic Games", "PlayStation Store", "Steam"],
       "steam_id": 39140,
       "user_score": 8,
       "total_reviews": 14563,
@@ -1091,11 +1009,7 @@
         "steamdeck": "verified",
         "switch": false
       },
-      "stores": [
-        "PlayStation Store",
-        "Steam",
-        "Xbox Store"
-      ],
+      "stores": ["PlayStation Store", "Steam", "Xbox Store"],
       "steam_id": 2679460,
       "user_score": 9,
       "total_reviews": 7464,
@@ -1122,12 +1036,7 @@
         "steamdeck": "verified",
         "switch": false
       },
-      "stores": [
-        "PlayStation Store",
-        "Steam",
-        "Xbox 360 Store",
-        "Xbox Store"
-      ],
+      "stores": ["PlayStation Store", "Steam", "Xbox 360 Store", "Xbox Store"],
       "steam_id": 620,
       "user_score": 9,
       "total_reviews": 152186,
@@ -1154,9 +1063,7 @@
         "steamdeck": "verified",
         "switch": false
       },
-      "stores": [
-        "Steam"
-      ],
+      "stores": ["Steam"],
       "steam_id": 730,
       "user_score": 8,
       "total_reviews": 1268592,
@@ -1180,11 +1087,7 @@
         "steamdeck": "verified",
         "switch": false
       },
-      "stores": [
-        "PlayStation Store",
-        "Steam",
-        "Xbox Store"
-      ],
+      "stores": ["PlayStation Store", "Steam", "Xbox Store"],
       "steam_id": 814380,
       "user_score": 8,
       "total_reviews": 74098,
@@ -1210,10 +1113,7 @@
         "steamdeck": "verified",
         "switch": false
       },
-      "stores": [
-        "PlayStation Store",
-        "Steam"
-      ],
+      "stores": ["PlayStation Store", "Steam"],
       "steam_id": 2072450,
       "user_score": 8,
       "total_reviews": 5488,
@@ -1239,9 +1139,7 @@
         "steamdeck": "verified",
         "switch": false
       },
-      "stores": [
-        "Steam"
-      ],
+      "stores": ["Steam"],
       "steam_id": 1458140,
       "user_score": 8,
       "total_reviews": 9416,
@@ -1266,9 +1164,7 @@
         "steamdeck": "verified",
         "switch": false
       },
-      "stores": [
-        "Steam"
-      ],
+      "stores": ["Steam"],
       "steam_id": 1364780,
       "user_score": 8,
       "total_reviews": 15610,
@@ -1294,10 +1190,7 @@
         "steamdeck": "verified",
         "switch": true
       },
-      "stores": [
-        "PlayStation Store",
-        "Steam"
-      ],
+      "stores": ["PlayStation Store", "Steam"],
       "steam_id": 2420660,
       "user_score": 9,
       "total_reviews": 1567,
@@ -1322,9 +1215,7 @@
         "steamdeck": "",
         "switch": false
       },
-      "stores": [
-        "PlayStation Store"
-      ],
+      "stores": ["PlayStation Store"],
       "total_reviews": 0,
       "header_image": "https://gruberb.github.io/ludoteca/images/bloodborne.jpg",
       "metacritic": 92,
@@ -1346,10 +1237,7 @@
         "steamdeck": "verified",
         "switch": true
       },
-      "stores": [
-        "Google Play",
-        "Steam"
-      ],
+      "stores": ["Google Play", "Steam"],
       "steam_id": 400,
       "user_score": 9,
       "total_reviews": 70308,
@@ -1375,9 +1263,7 @@
         "steamdeck": "verified",
         "switch": false
       },
-      "stores": [
-        "Steam"
-      ],
+      "stores": ["Steam"],
       "steam_id": 1043810,
       "user_score": 9,
       "total_reviews": 6424,
@@ -1434,13 +1320,7 @@
         "steamdeck": "verified",
         "switch": true
       },
-      "stores": [
-        "Epic Games",
-        "GOG",
-        "Nintendo Store",
-        "Steam",
-        "itch.io"
-      ],
+      "stores": ["Epic Games", "GOG", "Nintendo Store", "Steam", "itch.io"],
       "steam_id": 1055540,
       "user_score": 9,
       "total_reviews": 10082,
@@ -1466,10 +1346,7 @@
         "steamdeck": "verified",
         "switch": false
       },
-      "stores": [
-        "PlayStation Store",
-        "Steam"
-      ],
+      "stores": ["PlayStation Store", "Steam"],
       "steam_id": 1649240,
       "user_score": 8,
       "total_reviews": 3396,
@@ -1495,9 +1372,7 @@
         "steamdeck": "verified",
         "switch": false
       },
-      "stores": [
-        "Steam"
-      ],
+      "stores": ["Steam"],
       "steam_id": 1158310,
       "user_score": 8,
       "total_reviews": 41425,
@@ -1551,9 +1426,7 @@
         "steamdeck": "",
         "switch": false
       },
-      "stores": [
-        "PlayStation Store"
-      ],
+      "stores": ["PlayStation Store"],
       "total_reviews": 0,
       "header_image": "https://gruberb.github.io/ludoteca/images/god_of_war.jpg",
       "metacritic": 94,
@@ -1575,10 +1448,7 @@
         "steamdeck": "verified",
         "switch": false
       },
-      "stores": [
-        "GOG",
-        "Steam"
-      ],
+      "stores": ["GOG", "Steam"],
       "steam_id": 294100,
       "user_score": 9,
       "total_reviews": 100561,
@@ -1604,9 +1474,7 @@
         "steamdeck": "verified",
         "switch": false
       },
-      "stores": [
-        "Steam"
-      ],
+      "stores": ["Steam"],
       "steam_id": 1145350,
       "user_score": 9,
       "total_reviews": 31092,
@@ -1696,12 +1564,7 @@
         "steamdeck": "verified",
         "switch": true
       },
-      "stores": [
-        "Epic Games",
-        "GOG",
-        "Nintendo Store",
-        "Steam"
-      ],
+      "stores": ["Epic Games", "GOG", "Nintendo Store", "Steam"],
       "steam_id": 1578650,
       "user_score": 8,
       "total_reviews": 4417,
@@ -1758,11 +1621,7 @@
         "steamdeck": "verified",
         "switch": false
       },
-      "stores": [
-        "PlayStation Store",
-        "Steam",
-        "Xbox Store"
-      ],
+      "stores": ["PlayStation Store", "Steam", "Xbox Store"],
       "steam_id": 594650,
       "user_score": 6,
       "total_reviews": 85391,
@@ -1788,12 +1647,7 @@
         "steamdeck": "verified",
         "switch": true
       },
-      "stores": [
-        "Nintendo Store",
-        "PlayStation Store",
-        "Steam",
-        "Xbox Store"
-      ],
+      "stores": ["Nintendo Store", "PlayStation Store", "Steam", "Xbox Store"],
       "steam_id": 1172470,
       "user_score": 8,
       "total_reviews": 1004,
@@ -1818,9 +1672,7 @@
         "steamdeck": "verified",
         "switch": false
       },
-      "stores": [
-        "Steam"
-      ],
+      "stores": ["Steam"],
       "steam_id": 440,
       "user_score": 5,
       "total_reviews": 24248,
@@ -1845,9 +1697,7 @@
         "steamdeck": "",
         "switch": false
       },
-      "stores": [
-        "Nintendo Store"
-      ],
+      "stores": ["Nintendo Store"],
       "total_reviews": 0,
       "header_image": "https://gruberb.github.io/ludoteca/images/super_mario_world.jpg",
       "metacritic": 92,
@@ -1869,9 +1719,7 @@
         "steamdeck": "",
         "switch": true
       },
-      "stores": [
-        "Nintendo Store"
-      ],
+      "stores": ["Nintendo Store"],
       "total_reviews": 0,
       "header_image": "https://gruberb.github.io/ludoteca/images/mario_kart_8_deluxe.jpg",
       "metacritic": 92,
@@ -1926,9 +1774,7 @@
         "steamdeck": "",
         "switch": true
       },
-      "stores": [
-        "Nintendo Store"
-      ],
+      "stores": ["Nintendo Store"],
       "total_reviews": 0,
       "header_image": "https://gruberb.github.io/ludoteca/images/super_smash_bros__ultimate.jpg",
       "metacritic": 93,
@@ -1950,11 +1796,7 @@
         "steamdeck": "verified",
         "switch": true
       },
-      "stores": [
-        "GOG",
-        "Nintendo Store",
-        "Steam"
-      ],
+      "stores": ["GOG", "Nintendo Store", "Steam"],
       "steam_id": 1092790,
       "user_score": 9,
       "total_reviews": 66822,
@@ -1980,10 +1822,7 @@
         "steamdeck": "verified",
         "switch": false
       },
-      "stores": [
-        "PlayStation Store",
-        "Steam"
-      ],
+      "stores": ["PlayStation Store", "Steam"],
       "steam_id": 1888160,
       "user_score": 8,
       "total_reviews": 34837,
@@ -2009,10 +1848,7 @@
         "steamdeck": "",
         "switch": false
       },
-      "stores": [
-        "Epic Games",
-        "PlayStation Store"
-      ],
+      "stores": ["Epic Games", "PlayStation Store"],
       "total_reviews": 0,
       "header_image": "https://gruberb.github.io/ludoteca/images/tetris_effect.jpg",
       "metacritic": 90,
@@ -2034,9 +1870,7 @@
         "steamdeck": "",
         "switch": false
       },
-      "stores": [
-        "PlayStation Store"
-      ],
+      "stores": ["PlayStation Store"],
       "total_reviews": 0,
       "header_image": "https://gruberb.github.io/ludoteca/images/shadow_of_the_colossus.jpg",
       "metacritic": 91,
@@ -2058,10 +1892,7 @@
         "steamdeck": "verified",
         "switch": false
       },
-      "stores": [
-        "Epic Games",
-        "Steam"
-      ],
+      "stores": ["Epic Games", "Steam"],
       "steam_id": 526870,
       "user_score": 9,
       "total_reviews": 105771,
@@ -2109,11 +1940,7 @@
         "steamdeck": "verified",
         "switch": false
       },
-      "stores": [
-        "PlayStation Store",
-        "Steam",
-        "Xbox 360 Store"
-      ],
+      "stores": ["PlayStation Store", "Steam", "Xbox 360 Store"],
       "steam_id": 570940,
       "user_score": 8,
       "total_reviews": 38263,
@@ -2139,10 +1966,7 @@
         "steamdeck": "verified",
         "switch": true
       },
-      "stores": [
-        "Steam",
-        "Xbox Store"
-      ],
+      "stores": ["Steam", "Xbox Store"],
       "steam_id": 524220,
       "user_score": 8,
       "total_reviews": 43251,
@@ -2163,7 +1987,7 @@
       },
       "platforms": {
         "windows": true,
-        "macos": false,
+        "macos": true,
         "linux": false,
         "steamdeck": "verified",
         "switch": true
@@ -2202,10 +2026,7 @@
         "steamdeck": "verified",
         "switch": false
       },
-      "stores": [
-        "GOG",
-        "Steam"
-      ],
+      "stores": ["GOG", "Steam"],
       "steam_id": 281990,
       "user_score": 8,
       "total_reviews": 67647,
@@ -2231,10 +2052,7 @@
         "steamdeck": "verified",
         "switch": false
       },
-      "stores": [
-        "PlayStation Store",
-        "Steam"
-      ],
+      "stores": ["PlayStation Store", "Steam"],
       "steam_id": 2124490,
       "user_score": 9,
       "total_reviews": 13804,
@@ -2259,9 +2077,7 @@
         "steamdeck": "",
         "switch": false
       },
-      "stores": [
-        "PlayStation Store"
-      ],
+      "stores": ["PlayStation Store"],
       "total_reviews": 0,
       "header_image": "https://gruberb.github.io/ludoteca/images/gran_turismo_7.jpg",
       "metacritic": 84,
@@ -2283,10 +2099,7 @@
         "steamdeck": "verified",
         "switch": true
       },
-      "stores": [
-        "Nintendo Store",
-        "Steam"
-      ],
+      "stores": ["Nintendo Store", "Steam"],
       "steam_id": 1190170,
       "user_score": 8,
       "total_reviews": 563,
@@ -2312,10 +2125,7 @@
         "steamdeck": "verified",
         "switch": false
       },
-      "stores": [
-        "Epic Games",
-        "Steam"
-      ],
+      "stores": ["Epic Games", "Steam"],
       "steam_id": 1142710,
       "user_score": 6,
       "total_reviews": 46384,
@@ -2341,12 +2151,7 @@
         "steamdeck": "verified",
         "switch": false
       },
-      "stores": [
-        "Google Play",
-        "PlayStation Store",
-        "Steam",
-        "Xbox 360 Store"
-      ],
+      "stores": ["Google Play", "PlayStation Store", "Steam", "Xbox 360 Store"],
       "steam_id": 200510,
       "user_score": 8,
       "total_reviews": 23434,
@@ -2367,17 +2172,12 @@
       },
       "platforms": {
         "windows": true,
-        "macos": false,
+        "macos": true,
         "linux": false,
         "steamdeck": "verified",
         "switch": false
       },
-      "stores": [
-        "Epic Games",
-        "PlayStation Store",
-        "Steam",
-        "Xbox Store"
-      ],
+      "stores": ["Epic Games", "PlayStation Store", "Steam", "Xbox Store"],
       "steam_id": 1850570,
       "user_score": 8,
       "total_reviews": 9586,
@@ -2403,9 +2203,7 @@
         "steamdeck": "verified",
         "switch": false
       },
-      "stores": [
-        "Steam"
-      ],
+      "stores": ["Steam"],
       "steam_id": 570,
       "user_score": 8,
       "total_reviews": 6079,
@@ -2430,9 +2228,7 @@
         "steamdeck": "",
         "switch": true
       },
-      "stores": [
-        "Nintendo Store"
-      ],
+      "stores": ["Nintendo Store"],
       "total_reviews": 0,
       "header_image": "https://gruberb.github.io/ludoteca/images/animal_crossing__new_horizons.jpg",
       "metacritic": 90,
@@ -2454,11 +2250,7 @@
         "steamdeck": "verified",
         "switch": false
       },
-      "stores": [
-        "PlayStation Store",
-        "Steam",
-        "Xbox Store"
-      ],
+      "stores": ["PlayStation Store", "Steam", "Xbox Store"],
       "steam_id": 1222670,
       "user_score": 8,
       "total_reviews": 43371,
@@ -2556,11 +2348,7 @@
         "steamdeck": "",
         "switch": true
       },
-      "stores": [
-        "Nintendo Store",
-        "PlayStation Store",
-        "Xbox Store"
-      ],
+      "stores": ["Nintendo Store", "PlayStation Store", "Xbox Store"],
       "total_reviews": 0,
       "header_image": "https://gruberb.github.io/ludoteca/images/overwatch.jpg",
       "metacritic": 91,
@@ -2583,10 +2371,7 @@
         "steamdeck": "verified",
         "switch": false
       },
-      "stores": [
-        "Steam",
-        "Xbox 360 Store"
-      ],
+      "stores": ["Steam", "Xbox 360 Store"],
       "steam_id": 550,
       "user_score": 9,
       "total_reviews": 200850,
@@ -2666,12 +2451,7 @@
         "steamdeck": "verified",
         "switch": true
       },
-      "stores": [
-        "Epic Games",
-        "GOG",
-        "Nintendo Store",
-        "Steam"
-      ],
+      "stores": ["Epic Games", "GOG", "Nintendo Store", "Steam"],
       "steam_id": 590380,
       "user_score": 8,
       "total_reviews": 11147,
@@ -2696,9 +2476,7 @@
         "steamdeck": "",
         "switch": true
       },
-      "stores": [
-        "Nintendo Store"
-      ],
+      "stores": ["Nintendo Store"],
       "total_reviews": 0,
       "header_image": "https://gruberb.github.io/ludoteca/images/the_legend_of_zelda__a_link_to_the_past.jpg",
       "metacritic": 95,
@@ -2720,12 +2498,7 @@
         "steamdeck": "verified",
         "switch": true
       },
-      "stores": [
-        "GOG",
-        "Google Play",
-        "PlayStation Store",
-        "Steam"
-      ],
+      "stores": ["GOG", "Google Play", "PlayStation Store", "Steam"],
       "steam_id": 219150,
       "user_score": 9,
       "total_reviews": 35493,
@@ -2781,9 +2554,7 @@
         "steamdeck": "",
         "switch": false
       },
-      "stores": [
-        "Nintendo Store"
-      ],
+      "stores": ["Nintendo Store"],
       "total_reviews": 0,
       "header_image": "https://gruberb.github.io/ludoteca/images/super_metroid.jpg",
       "release_date": "1994-03-19",
@@ -2803,12 +2574,7 @@
         "steamdeck": "",
         "switch": false
       },
-      "stores": [
-        "PlayStation Store",
-        "Steam",
-        "Xbox 360 Store",
-        "Xbox Store"
-      ],
+      "stores": ["PlayStation Store", "Steam", "Xbox 360 Store", "Xbox Store"],
       "steam_id": 2362420,
       "user_score": 5,
       "total_reviews": 86,
@@ -2832,9 +2598,7 @@
         "steamdeck": "",
         "switch": false
       },
-      "stores": [
-        "Nintendo Store"
-      ],
+      "stores": ["Nintendo Store"],
       "total_reviews": 0,
       "header_image": "https://gruberb.github.io/ludoteca/images/super_mario_64.jpg",
       "metacritic": 94,
@@ -2855,9 +2619,7 @@
         "steamdeck": "verified",
         "switch": false
       },
-      "stores": [
-        "Steam"
-      ],
+      "stores": ["Steam"],
       "steam_id": 1147860,
       "user_score": 9,
       "total_reviews": 4295,
@@ -2881,9 +2643,7 @@
         "steamdeck": "verified",
         "switch": false
       },
-      "stores": [
-        "Steam"
-      ],
+      "stores": ["Steam"],
       "steam_id": 2054970,
       "user_score": 5,
       "total_reviews": 39905,
@@ -2908,11 +2668,7 @@
         "steamdeck": "verified",
         "switch": false
       },
-      "stores": [
-        "GOG",
-        "PlayStation Store",
-        "Steam"
-      ],
+      "stores": ["GOG", "PlayStation Store", "Steam"],
       "steam_id": 404540,
       "user_score": 8,
       "total_reviews": 849,
@@ -2937,9 +2693,7 @@
         "steamdeck": "",
         "switch": false
       },
-      "stores": [
-        "Steam"
-      ],
+      "stores": ["Steam"],
       "steam_id": 2716400,
       "user_score": 9,
       "total_reviews": 1301,
@@ -2961,9 +2715,7 @@
         "steamdeck": "",
         "switch": true
       },
-      "stores": [
-        "Nintendo Store"
-      ],
+      "stores": ["Nintendo Store"],
       "total_reviews": 0,
       "header_image": "https://gruberb.github.io/ludoteca/images/super_mario_bros__3.jpg",
       "release_date": "1988-10-23",
@@ -2983,10 +2735,7 @@
         "steamdeck": "verified",
         "switch": false
       },
-      "stores": [
-        "PlayStation Store",
-        "Steam"
-      ],
+      "stores": ["PlayStation Store", "Steam"],
       "steam_id": 2322010,
       "user_score": 8,
       "total_reviews": 6527,
@@ -3032,11 +2781,7 @@
         "steamdeck": "verified",
         "switch": false
       },
-      "stores": [
-        "PlayStation Store",
-        "Steam",
-        "Xbox Store"
-      ],
+      "stores": ["PlayStation Store", "Steam", "Xbox Store"],
       "steam_id": 2778580,
       "user_score": 8,
       "total_reviews": 40025,
@@ -3055,8 +2800,8 @@
         "Polygon": 12
       },
       "platforms": {
-        "windows": false,
-        "macos": false,
+        "windows": true,
+        "macos": true,
         "linux": false,
         "steamdeck": "",
         "switch": true
@@ -3086,12 +2831,7 @@
         "steamdeck": "verified",
         "switch": true
       },
-      "stores": [
-        "Epic Games",
-        "GOG",
-        "Nintendo Store",
-        "Steam"
-      ],
+      "stores": ["Epic Games", "GOG", "Nintendo Store", "Steam"],
       "steam_id": 553420,
       "user_score": 8,
       "total_reviews": 7779,
@@ -3116,11 +2856,7 @@
         "steamdeck": "verified",
         "switch": false
       },
-      "stores": [
-        "Epic Games",
-        "GOG",
-        "Steam"
-      ],
+      "stores": ["Epic Games", "GOG", "Steam"],
       "steam_id": 1221250,
       "user_score": 8,
       "total_reviews": 1384,
@@ -3145,9 +2881,7 @@
         "steamdeck": "verified",
         "switch": false
       },
-      "stores": [
-        "Steam"
-      ],
+      "stores": ["Steam"],
       "steam_id": 2008920,
       "user_score": 9,
       "total_reviews": 928,
@@ -3199,9 +2933,7 @@
         "steamdeck": "",
         "switch": false
       },
-      "stores": [
-        "Steam"
-      ],
+      "stores": ["Steam"],
       "total_reviews": 0,
       "header_image": "https://gruberb.github.io/ludoteca/images/helldivers_2__ps_.jpg",
       "release_date": "2024-02-08",
@@ -3253,10 +2985,7 @@
         "steamdeck": "",
         "switch": false
       },
-      "stores": [
-        "PlayStation Store",
-        "Steam"
-      ],
+      "stores": ["PlayStation Store", "Steam"],
       "total_reviews": 0,
       "header_image": "https://gruberb.github.io/ludoteca/images/final_fantasy_xiv__a_realm_reborn.jpg",
       "metacritic": 83,
@@ -3278,9 +3007,7 @@
         "steamdeck": "",
         "switch": false
       },
-      "stores": [
-        "PlayStation Store"
-      ],
+      "stores": ["PlayStation Store"],
       "total_reviews": 0,
       "header_image": "https://gruberb.github.io/ludoteca/images/the_last_of_us_part_2.jpg",
       "metacritic": 93,
@@ -3301,9 +3028,7 @@
         "steamdeck": "verified",
         "switch": false
       },
-      "stores": [
-        "Steam"
-      ],
+      "stores": ["Steam"],
       "steam_id": 2142790,
       "user_score": 9,
       "total_reviews": 10687,
@@ -3347,9 +3072,7 @@
         "steamdeck": "verified",
         "switch": false
       },
-      "stores": [
-        "Steam"
-      ],
+      "stores": ["Steam"],
       "steam_id": 2103680,
       "user_score": 8,
       "total_reviews": 81,
@@ -3374,9 +3097,7 @@
         "steamdeck": "",
         "switch": false
       },
-      "stores": [
-        "PlayStation Store"
-      ],
+      "stores": ["PlayStation Store"],
       "total_reviews": 0,
       "header_image": "https://gruberb.github.io/ludoteca/images/the_last_of_us.jpg",
       "metacritic": 95,
@@ -3397,9 +3118,7 @@
         "steamdeck": "",
         "switch": false
       },
-      "stores": [
-        "App Store"
-      ],
+      "stores": ["App Store"],
       "total_reviews": 0,
       "header_image": "https://gruberb.github.io/ludoteca/images/dodonpachi_blissful_death_re_incarnation.jpg",
       "release_date": "2012-02-09",
@@ -3419,9 +3138,7 @@
         "steamdeck": "verified",
         "switch": false
       },
-      "stores": [
-        "Steam"
-      ],
+      "stores": ["Steam"],
       "steam_id": 1845910,
       "user_score": 6,
       "total_reviews": 20415,
@@ -3445,9 +3162,7 @@
         "steamdeck": "verified",
         "switch": false
       },
-      "stores": [
-        "Steam"
-      ],
+      "stores": ["Steam"],
       "steam_id": 2510710,
       "user_score": 9,
       "total_reviews": 567,
@@ -3492,11 +3207,7 @@
         "steamdeck": "verified",
         "switch": false
       },
-      "stores": [
-        "GOG",
-        "Steam",
-        "itch.io"
-      ],
+      "stores": ["GOG", "Steam", "itch.io"],
       "steam_id": 558990,
       "user_score": 9,
       "total_reviews": 2757,
@@ -3554,11 +3265,7 @@
         "steamdeck": "verified",
         "switch": false
       },
-      "stores": [
-        "Epic Games",
-        "PlayStation Store",
-        "Steam"
-      ],
+      "stores": ["Epic Games", "PlayStation Store", "Steam"],
       "steam_id": 1895880,
       "user_score": 8,
       "total_reviews": 5034,
@@ -3583,12 +3290,7 @@
         "steamdeck": "",
         "switch": false
       },
-      "stores": [
-        "Epic Games",
-        "PlayStation Store",
-        "Steam",
-        "Xbox Store"
-      ],
+      "stores": ["Epic Games", "PlayStation Store", "Steam", "Xbox Store"],
       "steam_id": 2336880,
       "user_score": 8,
       "total_reviews": 4265,
@@ -3612,9 +3314,7 @@
         "steamdeck": "",
         "switch": true
       },
-      "stores": [
-        "Nintendo Store"
-      ],
+      "stores": ["Nintendo Store"],
       "total_reviews": 0,
       "header_image": "https://gruberb.github.io/ludoteca/images/super_mario_bros_.jpg",
       "release_date": "1985-09-13",
@@ -3634,12 +3334,7 @@
         "steamdeck": "verified",
         "switch": true
       },
-      "stores": [
-        "GOG",
-        "Nintendo Store",
-        "Steam",
-        "itch.io"
-      ],
+      "stores": ["GOG", "Nintendo Store", "Steam", "itch.io"],
       "steam_id": 1455840,
       "user_score": 9,
       "total_reviews": 14173,
@@ -3663,9 +3358,7 @@
         "steamdeck": "verified",
         "switch": false
       },
-      "stores": [
-        "Steam"
-      ],
+      "stores": ["Steam"],
       "steam_id": 2596420,
       "user_score": 8,
       "total_reviews": 127,
@@ -3690,11 +3383,7 @@
         "steamdeck": "verified",
         "switch": false
       },
-      "stores": [
-        "Nintendo Store",
-        "PlayStation Store",
-        "Steam"
-      ],
+      "stores": ["Nintendo Store", "PlayStation Store", "Steam"],
       "steam_id": 1364780,
       "user_score": 8,
       "total_reviews": 15610,
@@ -3713,15 +3402,13 @@
         "RPS": 23
       },
       "platforms": {
-        "windows": false,
-        "macos": false,
-        "linux": false,
+        "windows": true,
+        "macos": true,
+        "linux": true,
         "steamdeck": "",
         "switch": false
       },
-      "stores": [
-        "itch.io"
-      ],
+      "stores": ["itch.io"],
       "total_reviews": 0,
       "header_image": "https://gruberb.github.io/ludoteca/images/10_beautiful_postcards.jpg",
       "release_date": "2019-05-27",
@@ -3742,10 +3429,7 @@
         "steamdeck": "verified",
         "switch": false
       },
-      "stores": [
-        "GOG",
-        "Steam"
-      ],
+      "stores": ["GOG", "Steam"],
       "steam_id": 1677770,
       "user_score": 9,
       "total_reviews": 5060,
@@ -3791,12 +3475,7 @@
         "steamdeck": "verified",
         "switch": true
       },
-      "stores": [
-        "Nintendo Store",
-        "PlayStation Store",
-        "Steam",
-        "Xbox Store"
-      ],
+      "stores": ["Nintendo Store", "PlayStation Store", "Steam", "Xbox Store"],
       "steam_id": 782330,
       "user_score": 8,
       "total_reviews": 111599,
@@ -3821,12 +3500,7 @@
         "steamdeck": "verified",
         "switch": true
       },
-      "stores": [
-        "Epic Games",
-        "GOG",
-        "Nintendo Store",
-        "Steam"
-      ],
+      "stores": ["Epic Games", "GOG", "Nintendo Store", "Steam"],
       "steam_id": 1675830,
       "user_score": 9,
       "total_reviews": 1474,
@@ -3852,10 +3526,7 @@
         "steamdeck": "verified",
         "switch": true
       },
-      "stores": [
-        "GOG",
-        "Steam"
-      ],
+      "stores": ["GOG", "Steam"],
       "steam_id": 435150,
       "user_score": 9,
       "total_reviews": 76555,
@@ -3881,12 +3552,7 @@
         "steamdeck": "verified",
         "switch": false
       },
-      "stores": [
-        "Epic Games",
-        "PlayStation Store",
-        "Steam",
-        "Xbox Store"
-      ],
+      "stores": ["Epic Games", "PlayStation Store", "Steam", "Xbox Store"],
       "steam_id": 1085660,
       "user_score": 8,
       "total_reviews": 73377,
@@ -3910,11 +3576,7 @@
         "steamdeck": "verified",
         "switch": true
       },
-      "stores": [
-        "GOG",
-        "Nintendo Store",
-        "Steam"
-      ],
+      "stores": ["GOG", "Nintendo Store", "Steam"],
       "steam_id": 427520,
       "user_score": 9,
       "total_reviews": 101028,
@@ -3939,10 +3601,7 @@
         "steamdeck": "verified",
         "switch": true
       },
-      "stores": [
-        "Steam",
-        "Xbox Store"
-      ],
+      "stores": ["Steam", "Xbox Store"],
       "steam_id": 1003590,
       "user_score": 8,
       "total_reviews": 4685,
@@ -3987,9 +3646,7 @@
         "steamdeck": "verified",
         "switch": false
       },
-      "stores": [
-        "Steam"
-      ],
+      "stores": ["Steam"],
       "steam_id": 2231450,
       "user_score": 9,
       "total_reviews": 40699,
@@ -4013,10 +3670,7 @@
         "steamdeck": "verified",
         "switch": false
       },
-      "stores": [
-        "Steam",
-        "Xbox Store"
-      ],
+      "stores": ["Steam", "Xbox Store"],
       "steam_id": 1172620,
       "user_score": 8,
       "total_reviews": 133300,
@@ -4041,10 +3695,7 @@
         "steamdeck": "",
         "switch": false
       },
-      "stores": [
-        "PlayStation Store",
-        "Steam"
-      ],
+      "stores": ["PlayStation Store", "Steam"],
       "steam_id": 2417610,
       "user_score": 0,
       "total_reviews": 0,
@@ -4067,9 +3718,7 @@
         "steamdeck": "verified",
         "switch": false
       },
-      "stores": [
-        "Steam"
-      ],
+      "stores": ["Steam"],
       "steam_id": 1634860,
       "user_score": 9,
       "total_reviews": 2007,
@@ -4093,10 +3742,7 @@
         "steamdeck": "verified",
         "switch": false
       },
-      "stores": [
-        "GOG",
-        "Steam"
-      ],
+      "stores": ["GOG", "Steam"],
       "steam_id": 211600,
       "user_score": 8,
       "total_reviews": 2226,
@@ -4121,9 +3767,7 @@
         "steamdeck": "verified",
         "switch": false
       },
-      "stores": [
-        "Steam"
-      ],
+      "stores": ["Steam"],
       "steam_id": 316750,
       "user_score": 4,
       "total_reviews": 197,
@@ -4167,9 +3811,7 @@
         "steamdeck": "",
         "switch": false
       },
-      "stores": [
-        "Steam"
-      ],
+      "stores": ["Steam"],
       "steam_id": 1422450,
       "user_score": 0,
       "total_reviews": 0,
@@ -4191,10 +3833,7 @@
         "steamdeck": "verified",
         "switch": false
       },
-      "stores": [
-        "App Store",
-        "Steam"
-      ],
+      "stores": ["App Store", "Steam"],
       "steam_id": 466300,
       "user_score": 8,
       "total_reviews": 2328,
@@ -4219,10 +3858,7 @@
         "steamdeck": "verified",
         "switch": false
       },
-      "stores": [
-        "PlayStation Store",
-        "Steam"
-      ],
+      "stores": ["PlayStation Store", "Steam"],
       "steam_id": 1778820,
       "user_score": 6,
       "total_reviews": 13762,
@@ -4248,10 +3884,7 @@
         "steamdeck": "verified",
         "switch": false
       },
-      "stores": [
-        "GOG",
-        "Steam"
-      ],
+      "stores": ["GOG", "Steam"],
       "steam_id": 1155970,
       "user_score": 9,
       "total_reviews": 2924,
@@ -4328,12 +3961,7 @@
         "steamdeck": "verified",
         "switch": false
       },
-      "stores": [
-        "App Store",
-        "Epic Games",
-        "GOG",
-        "Steam"
-      ],
+      "stores": ["App Store", "Epic Games", "GOG", "Steam"],
       "steam_id": 212680,
       "user_score": 9,
       "total_reviews": 43321,
@@ -4358,9 +3986,7 @@
         "steamdeck": "verified",
         "switch": false
       },
-      "stores": [
-        "Steam"
-      ],
+      "stores": ["Steam"],
       "steam_id": 70,
       "user_score": 9,
       "total_reviews": 50201,
@@ -4385,10 +4011,7 @@
         "steamdeck": "verified",
         "switch": false
       },
-      "stores": [
-        "Steam",
-        "itch.io"
-      ],
+      "stores": ["Steam", "itch.io"],
       "steam_id": 2366970,
       "user_score": 9,
       "total_reviews": 749,
@@ -4434,9 +4057,7 @@
         "steamdeck": "verified",
         "switch": false
       },
-      "stores": [
-        "Steam"
-      ],
+      "stores": ["Steam"],
       "steam_id": 2183900,
       "user_score": 8,
       "total_reviews": 63162,
@@ -4460,9 +4081,7 @@
         "steamdeck": "",
         "switch": false
       },
-      "stores": [
-        "Xbox 360 Store"
-      ],
+      "stores": ["Xbox 360 Store"],
       "total_reviews": 0,
       "header_image": "https://gruberb.github.io/ludoteca/images/halo__combat_evolved.jpg",
       "metacritic": 90,
@@ -4483,9 +4102,7 @@
         "steamdeck": "verified",
         "switch": false
       },
-      "stores": [
-        "Steam"
-      ],
+      "stores": ["Steam"],
       "steam_id": 1592280,
       "user_score": 8,
       "total_reviews": 2761,
@@ -4508,9 +4125,7 @@
         "steamdeck": "verified",
         "switch": true
       },
-      "stores": [
-        "Steam"
-      ],
+      "stores": ["Steam"],
       "steam_id": 1497440,
       "user_score": 8,
       "total_reviews": 2874,
@@ -4535,9 +4150,7 @@
         "steamdeck": "verified",
         "switch": false
       },
-      "stores": [
-        "Steam"
-      ],
+      "stores": ["Steam"],
       "steam_id": 2321470,
       "user_score": 8,
       "total_reviews": 16453,
@@ -4561,9 +4174,7 @@
         "steamdeck": "",
         "switch": false
       },
-      "stores": [
-        "PlayStation Store"
-      ],
+      "stores": ["PlayStation Store"],
       "total_reviews": 0,
       "header_image": "https://gruberb.github.io/ludoteca/images/legend_of_mana.jpg",
       "release_date": "1999-07-15",
@@ -4583,9 +4194,7 @@
         "steamdeck": "",
         "switch": true
       },
-      "stores": [
-        "Nintendo Store"
-      ],
+      "stores": ["Nintendo Store"],
       "total_reviews": 0,
       "header_image": "https://gruberb.github.io/ludoteca/images/the_legend_of_zelda__ocarina_of_time.jpg",
       "metacritic": 99,
@@ -4606,9 +4215,7 @@
         "steamdeck": "",
         "switch": false
       },
-      "stores": [
-        "Steam"
-      ],
+      "stores": ["Steam"],
       "steam_id": 34440,
       "user_score": 7,
       "total_reviews": 42,
@@ -4632,10 +4239,7 @@
         "steamdeck": "verified",
         "switch": false
       },
-      "stores": [
-        "PlayStation Store",
-        "Steam"
-      ],
+      "stores": ["PlayStation Store", "Steam"],
       "steam_id": 94400,
       "user_score": 8,
       "total_reviews": 3930,
@@ -4654,8 +4258,8 @@
         "Polygon": 35
       },
       "platforms": {
-        "windows": false,
-        "macos": false,
+        "windows": true,
+        "macos": true,
         "linux": false,
         "steamdeck": "",
         "switch": true
@@ -4689,10 +4293,7 @@
         "steamdeck": "",
         "switch": false
       },
-      "stores": [
-        "GOG",
-        "PlayStation Store"
-      ],
+      "stores": ["GOG", "PlayStation Store"],
       "total_reviews": 0,
       "header_image": "https://gruberb.github.io/ludoteca/images/metal_gear_solid.jpg",
       "metacritic": 94,
@@ -4744,10 +4345,7 @@
         "steamdeck": "verified",
         "switch": false
       },
-      "stores": [
-        "Steam",
-        "Xbox Store"
-      ],
+      "stores": ["Steam", "Xbox Store"],
       "steam_id": 2537590,
       "user_score": 5,
       "total_reviews": 5071,
@@ -4772,9 +4370,7 @@
         "steamdeck": "verified",
         "switch": false
       },
-      "stores": [
-        "Steam"
-      ],
+      "stores": ["Steam"],
       "steam_id": 2842040,
       "user_score": 6,
       "total_reviews": 724,
@@ -4798,12 +4394,7 @@
         "steamdeck": "verified",
         "switch": true
       },
-      "stores": [
-        "PlayStation Store",
-        "Steam",
-        "Xbox 360 Store",
-        "Xbox Store"
-      ],
+      "stores": ["PlayStation Store", "Steam", "Xbox 360 Store", "Xbox Store"],
       "steam_id": 2668510,
       "user_score": 8,
       "total_reviews": 3790,
@@ -4828,10 +4419,7 @@
         "steamdeck": "verified",
         "switch": false
       },
-      "stores": [
-        "GOG",
-        "Steam"
-      ],
+      "stores": ["GOG", "Steam"],
       "steam_id": 1876590,
       "user_score": 9,
       "total_reviews": 1579,
@@ -4855,10 +4443,7 @@
         "steamdeck": "verified",
         "switch": false
       },
-      "stores": [
-        "GOG",
-        "Steam"
-      ],
+      "stores": ["GOG", "Steam"],
       "steam_id": 1098770,
       "user_score": 8,
       "total_reviews": 322,
@@ -4884,11 +4469,7 @@
         "steamdeck": "verified",
         "switch": false
       },
-      "stores": [
-        "PlayStation Store",
-        "Steam",
-        "Xbox Store"
-      ],
+      "stores": ["PlayStation Store", "Steam", "Xbox Store"],
       "steam_id": 582010,
       "user_score": 8,
       "total_reviews": 105001,
@@ -4913,10 +4494,7 @@
         "steamdeck": "verified",
         "switch": false
       },
-      "stores": [
-        "GOG",
-        "Steam"
-      ],
+      "stores": ["GOG", "Steam"],
       "steam_id": 2637990,
       "user_score": 9,
       "total_reviews": 3051,
@@ -4940,12 +4518,7 @@
         "steamdeck": "verified",
         "switch": true
       },
-      "stores": [
-        "Nintendo Store",
-        "PlayStation Store",
-        "Steam",
-        "Xbox Store"
-      ],
+      "stores": ["Nintendo Store", "PlayStation Store", "Steam", "Xbox Store"],
       "steam_id": 1238080,
       "user_score": 5,
       "total_reviews": 3202,
@@ -4970,12 +4543,7 @@
         "steamdeck": "verified",
         "switch": true
       },
-      "stores": [
-        "App Store",
-        "Google Play",
-        "Steam",
-        "itch.io"
-      ],
+      "stores": ["App Store", "Google Play", "Steam", "itch.io"],
       "steam_id": 1794680,
       "user_score": 9,
       "total_reviews": 117276,
@@ -5000,9 +4568,7 @@
         "steamdeck": "verified",
         "switch": false
       },
-      "stores": [
-        "Steam"
-      ],
+      "stores": ["Steam"],
       "steam_id": 9420,
       "user_score": 9,
       "total_reviews": 5320,
@@ -5047,9 +4613,7 @@
         "steamdeck": "",
         "switch": false
       },
-      "stores": [
-        "Steam"
-      ],
+      "stores": ["Steam"],
       "total_reviews": 0,
       "header_image": "https://gruberb.github.io/ludoteca/images/against_the_storm__keepers_of_the_stone_dlc.jpg",
       "release_date": "2016-01-29",
@@ -5084,17 +4648,13 @@
         "Polygon": 43
       },
       "platforms": {
-        "windows": false,
-        "macos": false,
+        "windows": true,
+        "macos": true,
         "linux": false,
         "steamdeck": "",
         "switch": false
       },
-      "stores": [
-        "Epic Games",
-        "GOG",
-        "Steam"
-      ],
+      "stores": ["Epic Games", "GOG", "Steam"],
       "total_reviews": 0,
       "header_image": "https://gruberb.github.io/ludoteca/images/frostpunk_2.jpg",
       "release_date": "2024-09-20",
@@ -5114,9 +4674,7 @@
         "steamdeck": "",
         "switch": false
       },
-      "stores": [
-        "Nintendo Store"
-      ],
+      "stores": ["Nintendo Store"],
       "total_reviews": 0,
       "header_image": "https://gruberb.github.io/ludoteca/images/pokémon_yellow.jpg",
       "release_date": "1996-02-27",
@@ -5136,9 +4694,7 @@
         "steamdeck": "verified",
         "switch": false
       },
-      "stores": [
-        "Steam"
-      ],
+      "stores": ["Steam"],
       "steam_id": 270880,
       "user_score": 9,
       "total_reviews": 77257,
@@ -5163,11 +4719,7 @@
         "steamdeck": "",
         "switch": false
       },
-      "stores": [
-        "App Store",
-        "Google Play",
-        "PlayStation Store"
-      ],
+      "stores": ["App Store", "Google Play", "PlayStation Store"],
       "total_reviews": 0,
       "header_image": "https://gruberb.github.io/ludoteca/images/zenless_zone_zero.jpg",
       "release_date": "2024-07-02",
@@ -5187,12 +4739,7 @@
         "steamdeck": "",
         "switch": false
       },
-      "stores": [
-        "App Store",
-        "Google Play",
-        "PlayStation Store",
-        "Steam"
-      ],
+      "stores": ["App Store", "Google Play", "PlayStation Store", "Steam"],
       "total_reviews": 0,
       "header_image": "https://gruberb.github.io/ludoteca/images/final_fantasy_vi.jpg",
       "metacritic": 92,
@@ -5213,11 +4760,7 @@
         "steamdeck": "verified",
         "switch": true
       },
-      "stores": [
-        "Nintendo Store",
-        "Steam",
-        "Xbox Store"
-      ],
+      "stores": ["Nintendo Store", "Steam", "Xbox Store"],
       "steam_id": 1177980,
       "user_score": 9,
       "total_reviews": 4343,
@@ -5304,9 +4847,7 @@
         "steamdeck": "verified",
         "switch": false
       },
-      "stores": [
-        "Steam"
-      ],
+      "stores": ["Steam"],
       "steam_id": 2366980,
       "user_score": 9,
       "total_reviews": 3321,
@@ -5362,9 +4903,7 @@
         "steamdeck": "verified",
         "switch": false
       },
-      "stores": [
-        "Steam"
-      ],
+      "stores": ["Steam"],
       "steam_id": 2316580,
       "user_score": 8,
       "total_reviews": 428,
@@ -5389,10 +4928,7 @@
         "steamdeck": "",
         "switch": false
       },
-      "stores": [
-        "App Store",
-        "Google Play"
-      ],
+      "stores": ["App Store", "Google Play"],
       "total_reviews": 0,
       "header_image": "https://gruberb.github.io/ludoteca/images/pokémon_go.jpg",
       "release_date": "2016-07-07",
@@ -5406,18 +4942,13 @@
         "PCGamer": 47
       },
       "platforms": {
-        "windows": false,
-        "macos": false,
+        "windows": true,
+        "macos": true,
         "linux": false,
         "steamdeck": "",
         "switch": true
       },
-      "stores": [
-        "GOG",
-        "PlayStation Store",
-        "Steam",
-        "Xbox Store"
-      ],
+      "stores": ["GOG", "PlayStation Store", "Steam", "Xbox Store"],
       "total_reviews": 0,
       "header_image": "https://gruberb.github.io/ludoteca/images/frostpunk.jpg",
       "metacritic": 85,
@@ -5459,9 +4990,7 @@
         "steamdeck": "",
         "switch": false
       },
-      "stores": [
-        "Nintendo Store"
-      ],
+      "stores": ["Nintendo Store"],
       "total_reviews": 0,
       "header_image": "https://gruberb.github.io/ludoteca/images/super_mario_party__jamboree.jpg",
       "release_date": "1994-01-21",
@@ -5481,9 +5010,7 @@
         "steamdeck": "verified",
         "switch": false
       },
-      "stores": [
-        "Steam"
-      ],
+      "stores": ["Steam"],
       "steam_id": 1623730,
       "user_score": 9,
       "total_reviews": 126358,
@@ -5507,10 +5034,7 @@
         "steamdeck": "verified",
         "switch": true
       },
-      "stores": [
-        "Nintendo Store",
-        "Steam"
-      ],
+      "stores": ["Nintendo Store", "Steam"],
       "steam_id": 1446780,
       "user_score": 8,
       "total_reviews": 30081,
@@ -5576,12 +5100,7 @@
         "steamdeck": "verified",
         "switch": false
       },
-      "stores": [
-        "GOG",
-        "PlayStation Store",
-        "Steam",
-        "Xbox 360 Store"
-      ],
+      "stores": ["GOG", "PlayStation Store", "Steam", "Xbox 360 Store"],
       "steam_id": 239350,
       "user_score": 8,
       "total_reviews": 9923,
@@ -5606,11 +5125,7 @@
         "steamdeck": "verified",
         "switch": true
       },
-      "stores": [
-        "Epic Games",
-        "Steam",
-        "Xbox Store"
-      ],
+      "stores": ["Epic Games", "Steam", "Xbox Store"],
       "steam_id": 508440,
       "user_score": 9,
       "total_reviews": 73141,
@@ -5634,10 +5149,7 @@
         "steamdeck": "",
         "switch": false
       },
-      "stores": [
-        "PlayStation Store",
-        "Xbox Store"
-      ],
+      "stores": ["PlayStation Store", "Xbox Store"],
       "total_reviews": 0,
       "header_image": "https://gruberb.github.io/ludoteca/images/batman__arkham_collection.jpg",
       "release_date": "2019-09-06",
@@ -5657,11 +5169,7 @@
         "steamdeck": "verified",
         "switch": false
       },
-      "stores": [
-        "Epic Games",
-        "GOG",
-        "Steam"
-      ],
+      "stores": ["Epic Games", "GOG", "Steam"],
       "steam_id": 763890,
       "user_score": 9,
       "total_reviews": 11025,
@@ -5686,9 +5194,7 @@
         "steamdeck": "",
         "switch": false
       },
-      "stores": [
-        "Steam"
-      ],
+      "stores": ["Steam"],
       "total_reviews": 0,
       "header_image": "https://gruberb.github.io/ludoteca/images/counter-strike_1_6.jpg",
       "metacritic": 88,
@@ -5763,12 +5269,7 @@
         "steamdeck": "verified",
         "switch": false
       },
-      "stores": [
-        "PlayStation Store",
-        "Steam",
-        "Xbox 360 Store",
-        "Xbox Store"
-      ],
+      "stores": ["PlayStation Store", "Steam", "Xbox 360 Store", "Xbox Store"],
       "steam_id": 287700,
       "user_score": 8,
       "total_reviews": 37416,
@@ -5793,11 +5294,7 @@
         "steamdeck": "verified",
         "switch": false
       },
-      "stores": [
-        "PlayStation Store",
-        "Steam",
-        "Xbox Store"
-      ],
+      "stores": ["PlayStation Store", "Steam", "Xbox Store"],
       "steam_id": 552500,
       "user_score": 8,
       "total_reviews": 40573,
@@ -5822,10 +5319,7 @@
         "steamdeck": "verified",
         "switch": false
       },
-      "stores": [
-        "App Store",
-        "Steam"
-      ],
+      "stores": ["App Store", "Steam"],
       "steam_id": 1127500,
       "user_score": 9,
       "total_reviews": 13416,
@@ -5877,16 +5371,13 @@
         "Eurogamer": 73
       },
       "platforms": {
-        "windows": false,
-        "macos": false,
+        "windows": true,
+        "macos": true,
         "linux": false,
         "steamdeck": "",
         "switch": false
       },
-      "stores": [
-        "Epic Games",
-        "Steam"
-      ],
+      "stores": ["Epic Games", "Steam"],
       "steam_id": 20590,
       "total_reviews": 0,
       "header_image": "https://gruberb.github.io/ludoteca/images/league_of_legends.jpg",
@@ -5908,12 +5399,7 @@
         "steamdeck": "verified",
         "switch": false
       },
-      "stores": [
-        "Epic Games",
-        "PlayStation Store",
-        "Steam",
-        "Xbox Store"
-      ],
+      "stores": ["Epic Games", "PlayStation Store", "Steam", "Xbox Store"],
       "steam_id": 359550,
       "user_score": 8,
       "total_reviews": 563134,
@@ -5932,17 +5418,13 @@
         "Eurogamer": 56
       },
       "platforms": {
-        "windows": false,
-        "macos": false,
+        "windows": true,
+        "macos": true,
         "linux": false,
         "steamdeck": "",
         "switch": true
       },
-      "stores": [
-        "GOG",
-        "Nintendo Store",
-        "Steam"
-      ],
+      "stores": ["GOG", "Nintendo Store", "Steam"],
       "total_reviews": 0,
       "header_image": "https://gruberb.github.io/ludoteca/images/unpacking.jpg",
       "metacritic": 84,
@@ -5963,9 +5445,7 @@
         "steamdeck": "",
         "switch": false
       },
-      "stores": [
-        "PlayStation Store"
-      ],
+      "stores": ["PlayStation Store"],
       "total_reviews": 0,
       "header_image": "https://gruberb.github.io/ludoteca/images/uncharted_2__among_thieves.jpg",
       "metacritic": 96,
@@ -5986,12 +5466,7 @@
         "steamdeck": "verified",
         "switch": false
       },
-      "stores": [
-        "GOG",
-        "Steam",
-        "Xbox 360 Store",
-        "Xbox Store"
-      ],
+      "stores": ["GOG", "Steam", "Xbox 360 Store", "Xbox Store"],
       "steam_id": 22320,
       "user_score": 9,
       "total_reviews": 15557,
@@ -6016,12 +5491,7 @@
         "steamdeck": "verified",
         "switch": false
       },
-      "stores": [
-        "App Store",
-        "Epic Games",
-        "PlayStation Store",
-        "Steam"
-      ],
+      "stores": ["App Store", "Epic Games", "PlayStation Store", "Steam"],
       "steam_id": 638230,
       "user_score": 8,
       "total_reviews": 10553,
@@ -6104,11 +5574,7 @@
         "steamdeck": "verified",
         "switch": false
       },
-      "stores": [
-        "App Store",
-        "GOG",
-        "Steam"
-      ],
+      "stores": ["App Store", "GOG", "Steam"],
       "steam_id": 336140,
       "user_score": 9,
       "total_reviews": 1635,
@@ -6166,9 +5632,7 @@
         "steamdeck": "",
         "switch": true
       },
-      "stores": [
-        "Nintendo Store"
-      ],
+      "stores": ["Nintendo Store"],
       "total_reviews": 0,
       "header_image": "https://gruberb.github.io/ludoteca/images/pikmin_4.jpg",
       "metacritic": 88,
@@ -6222,12 +5686,7 @@
         "steamdeck": "verified",
         "switch": false
       },
-      "stores": [
-        "Epic Games",
-        "GOG",
-        "Steam",
-        "itch.io"
-      ],
+      "stores": ["Epic Games", "GOG", "Steam", "itch.io"],
       "steam_id": 1082430,
       "user_score": 9,
       "total_reviews": 10475,
@@ -6251,10 +5710,7 @@
         "steamdeck": "verified",
         "switch": false
       },
-      "stores": [
-        "GOG",
-        "Steam"
-      ],
+      "stores": ["GOG", "Steam"],
       "steam_id": 410710,
       "user_score": 8,
       "total_reviews": 1144,
@@ -6300,10 +5756,7 @@
         "steamdeck": "",
         "switch": false
       },
-      "stores": [
-        "Steam",
-        "Xbox 360 Store"
-      ],
+      "stores": ["Steam", "Xbox 360 Store"],
       "steam_id": 27800,
       "user_score": 6,
       "total_reviews": 61,
@@ -6387,12 +5840,7 @@
         "steamdeck": "verified",
         "switch": false
       },
-      "stores": [
-        "PlayStation Store",
-        "Steam",
-        "Xbox 360 Store",
-        "Xbox Store"
-      ],
+      "stores": ["PlayStation Store", "Steam", "Xbox 360 Store", "Xbox Store"],
       "steam_id": 1238040,
       "user_score": 8,
       "total_reviews": 3196,
@@ -6481,11 +5929,7 @@
         "steamdeck": "verified",
         "switch": false
       },
-      "stores": [
-        "Epic Games",
-        "GOG",
-        "Steam"
-      ],
+      "stores": ["Epic Games", "GOG", "Steam"],
       "steam_id": 38410,
       "user_score": 8,
       "total_reviews": 7613,
@@ -6510,10 +5954,7 @@
         "steamdeck": "verified",
         "switch": false
       },
-      "stores": [
-        "Steam",
-        "Xbox Store"
-      ],
+      "stores": ["Steam", "Xbox Store"],
       "steam_id": 1293830,
       "user_score": 8,
       "total_reviews": 48164,
@@ -6538,11 +5979,7 @@
         "steamdeck": "verified",
         "switch": true
       },
-      "stores": [
-        "App Store",
-        "GOG",
-        "Steam"
-      ],
+      "stores": ["App Store", "GOG", "Steam"],
       "steam_id": 243970,
       "user_score": 8,
       "total_reviews": 3383,
@@ -6601,9 +6038,7 @@
         "steamdeck": "",
         "switch": false
       },
-      "stores": [
-        "Steam"
-      ],
+      "stores": ["Steam"],
       "steam_id": 980030,
       "user_score": 0,
       "total_reviews": 0,
@@ -6626,10 +6061,7 @@
         "steamdeck": "",
         "switch": false
       },
-      "stores": [
-        "Xbox 360 Store",
-        "Xbox Store"
-      ],
+      "stores": ["Xbox 360 Store", "Xbox Store"],
       "total_reviews": 0,
       "header_image": "https://gruberb.github.io/ludoteca/images/gears_of_war.jpg",
       "metacritic": 90,
@@ -6646,16 +6078,12 @@
       },
       "platforms": {
         "windows": true,
-        "macos": false,
+        "macos": true,
         "linux": false,
         "steamdeck": "verified",
         "switch": true
       },
-      "stores": [
-        "PlayStation Store",
-        "Steam",
-        "Xbox Store"
-      ],
+      "stores": ["PlayStation Store", "Steam", "Xbox Store"],
       "steam_id": 883710,
       "user_score": 9,
       "total_reviews": 42808,
@@ -6680,12 +6108,7 @@
         "steamdeck": "verified",
         "switch": false
       },
-      "stores": [
-        "Epic Games",
-        "GOG",
-        "Steam",
-        "Xbox Store"
-      ],
+      "stores": ["Epic Games", "GOG", "Steam", "Xbox Store"],
       "steam_id": 220200,
       "user_score": 9,
       "total_reviews": 69622,
@@ -6743,10 +6166,7 @@
         "steamdeck": "verified",
         "switch": false
       },
-      "stores": [
-        "PlayStation Store",
-        "Steam"
-      ],
+      "stores": ["PlayStation Store", "Steam"],
       "steam_id": 323320,
       "user_score": 8,
       "total_reviews": 2757,
@@ -6771,11 +6191,7 @@
         "steamdeck": "verified",
         "switch": false
       },
-      "stores": [
-        "GOG",
-        "PlayStation Store",
-        "Steam"
-      ],
+      "stores": ["GOG", "PlayStation Store", "Steam"],
       "steam_id": 774201,
       "user_score": 8,
       "total_reviews": 1429,
@@ -6800,10 +6216,7 @@
         "steamdeck": "verified",
         "switch": false
       },
-      "stores": [
-        "GOG",
-        "Steam"
-      ],
+      "stores": ["GOG", "Steam"],
       "steam_id": 2236680,
       "user_score": 8,
       "total_reviews": 55,
@@ -6876,11 +6289,7 @@
         "steamdeck": "verified",
         "switch": false
       },
-      "stores": [
-        "Epic Games",
-        "PlayStation Store",
-        "Steam"
-      ],
+      "stores": ["Epic Games", "PlayStation Store", "Steam"],
       "steam_id": 1888930,
       "user_score": 6,
       "total_reviews": 17752,
@@ -6904,9 +6313,7 @@
         "steamdeck": "verified",
         "switch": true
       },
-      "stores": [
-        "Steam"
-      ],
+      "stores": ["Steam"],
       "steam_id": 1262350,
       "user_score": 9,
       "total_reviews": 14603,
@@ -6979,11 +6386,7 @@
         "steamdeck": "verified",
         "switch": false
       },
-      "stores": [
-        "Nintendo Store",
-        "Steam",
-        "Xbox 360 Store"
-      ],
+      "stores": ["Nintendo Store", "Steam", "Xbox 360 Store"],
       "steam_id": 47890,
       "user_score": 8,
       "total_reviews": 19069,
@@ -7008,11 +6411,7 @@
         "steamdeck": "verified",
         "switch": true
       },
-      "stores": [
-        "Epic Games",
-        "GOG",
-        "Steam"
-      ],
+      "stores": ["Epic Games", "GOG", "Steam"],
       "steam_id": 1574580,
       "user_score": 9,
       "total_reviews": 7395,
@@ -7037,11 +6436,7 @@
         "steamdeck": "verified",
         "switch": false
       },
-      "stores": [
-        "App Store",
-        "Steam",
-        "Xbox Store"
-      ],
+      "stores": ["App Store", "Steam", "Xbox Store"],
       "steam_id": 1551360,
       "user_score": 8,
       "total_reviews": 71347,
@@ -7065,9 +6460,7 @@
         "steamdeck": "",
         "switch": true
       },
-      "stores": [
-        "Nintendo Store"
-      ],
+      "stores": ["Nintendo Store"],
       "total_reviews": 0,
       "header_image": "https://gruberb.github.io/ludoteca/images/donkey_kong.jpg",
       "release_date": "1981-07-09",
@@ -7154,12 +6547,7 @@
         "steamdeck": "verified",
         "switch": false
       },
-      "stores": [
-        "PlayStation Store",
-        "Steam",
-        "Xbox 360 Store",
-        "Xbox Store"
-      ],
+      "stores": ["PlayStation Store", "Steam", "Xbox 360 Store", "Xbox Store"],
       "steam_id": 298110,
       "user_score": 8,
       "total_reviews": 20196,
@@ -7216,11 +6604,7 @@
         "steamdeck": "verified",
         "switch": false
       },
-      "stores": [
-        "PlayStation Store",
-        "Steam",
-        "Xbox 360 Store"
-      ],
+      "stores": ["PlayStation Store", "Steam", "Xbox 360 Store"],
       "steam_id": 12140,
       "user_score": 8,
       "total_reviews": 6587,
@@ -7245,12 +6629,7 @@
         "steamdeck": "verified",
         "switch": false
       },
-      "stores": [
-        "Epic Games",
-        "PlayStation Store",
-        "Steam",
-        "Xbox Store"
-      ],
+      "stores": ["Epic Games", "PlayStation Store", "Steam", "Xbox Store"],
       "steam_id": 1824220,
       "user_score": 8,
       "total_reviews": 16812,
@@ -7275,11 +6654,7 @@
         "steamdeck": "verified",
         "switch": false
       },
-      "stores": [
-        "GOG",
-        "Steam",
-        "Xbox Store"
-      ],
+      "stores": ["GOG", "Steam", "Xbox Store"],
       "steam_id": 607080,
       "user_score": 9,
       "total_reviews": 7037,
@@ -7304,11 +6679,7 @@
         "steamdeck": "verified",
         "switch": false
       },
-      "stores": [
-        "PlayStation Store",
-        "Steam",
-        "Xbox Store"
-      ],
+      "stores": ["PlayStation Store", "Steam", "Xbox Store"],
       "steam_id": 389730,
       "user_score": 8,
       "total_reviews": 29554,
@@ -7389,9 +6760,7 @@
         "steamdeck": "verified",
         "switch": false
       },
-      "stores": [
-        "Steam"
-      ],
+      "stores": ["Steam"],
       "steam_id": 548430,
       "user_score": 9,
       "total_reviews": 153547,
@@ -7416,10 +6785,7 @@
         "steamdeck": "",
         "switch": false
       },
-      "stores": [
-        "Xbox 360 Store",
-        "Xbox Store"
-      ],
+      "stores": ["Xbox 360 Store", "Xbox Store"],
       "total_reviews": 0,
       "header_image": "https://gruberb.github.io/ludoteca/images/fable_2.jpg",
       "metacritic": 89,
@@ -7457,20 +6823,18 @@
       "harmony_score": 23
     },
     {
-      "title": "Baldur S Gate 2",
+      "title": "Baldur's Gate 2",
       "rankings": {
         "PCGamer": 79
       },
       "platforms": {
-        "windows": false,
-        "macos": false,
+        "windows": true,
+        "macos": true,
         "linux": false,
-        "steamdeck": "",
+        "steamdeck": "verified",
         "switch": false
       },
-      "stores": [
-        "App Store"
-      ],
+      "stores": ["App Store"],
       "steam_id": 206970,
       "total_reviews": 0,
       "header_image": "https://gruberb.github.io/ludoteca/images/baldur_s_gate_2.jpg",
@@ -7492,10 +6856,7 @@
         "steamdeck": "verified",
         "switch": false
       },
-      "stores": [
-        "GOG",
-        "Steam"
-      ],
+      "stores": ["GOG", "Steam"],
       "steam_id": 333640,
       "user_score": 9,
       "total_reviews": 7050,
@@ -7519,10 +6880,7 @@
         "steamdeck": "verified",
         "switch": false
       },
-      "stores": [
-        "GOG",
-        "Steam"
-      ],
+      "stores": ["GOG", "Steam"],
       "steam_id": 1328350,
       "user_score": 9,
       "total_reviews": 3879,
@@ -7547,12 +6905,7 @@
         "steamdeck": "verified",
         "switch": true
       },
-      "stores": [
-        "App Store",
-        "GOG",
-        "Steam",
-        "itch.io"
-      ],
+      "stores": ["App Store", "GOG", "Steam", "itch.io"],
       "steam_id": 231200,
       "user_score": 8,
       "total_reviews": 2251,
@@ -7608,11 +6961,7 @@
         "steamdeck": "verified",
         "switch": false
       },
-      "stores": [
-        "GOG",
-        "PlayStation Store",
-        "Steam"
-      ],
+      "stores": ["GOG", "PlayStation Store", "Steam"],
       "steam_id": 224940,
       "user_score": 5,
       "total_reviews": 455,
@@ -7669,12 +7018,7 @@
         "steamdeck": "verified",
         "switch": true
       },
-      "stores": [
-        "Nintendo Store",
-        "PlayStation Store",
-        "Steam",
-        "Xbox Store"
-      ],
+      "stores": ["Nintendo Store", "PlayStation Store", "Steam", "Xbox Store"],
       "steam_id": 976310,
       "total_reviews": 0,
       "header_image": "https://gruberb.github.io/ludoteca/images/mortal_kombat_11.jpg",
@@ -7697,10 +7041,7 @@
         "steamdeck": "",
         "switch": false
       },
-      "stores": [
-        "App Store",
-        "Steam"
-      ],
+      "stores": ["App Store", "Steam"],
       "steam_id": 50100,
       "user_score": 0,
       "total_reviews": 0,
@@ -7724,12 +7065,7 @@
         "steamdeck": "verified",
         "switch": false
       },
-      "stores": [
-        "GOG",
-        "PlayStation Store",
-        "Steam",
-        "Xbox Store"
-      ],
+      "stores": ["GOG", "PlayStation Store", "Steam", "Xbox Store"],
       "steam_id": 610370,
       "user_score": 9,
       "total_reviews": 3733,
@@ -7754,10 +7090,7 @@
         "steamdeck": "verified",
         "switch": false
       },
-      "stores": [
-        "GOG",
-        "Steam"
-      ],
+      "stores": ["GOG", "Steam"],
       "steam_id": 238210,
       "user_score": 9,
       "total_reviews": 4626,
@@ -7782,12 +7115,7 @@
         "steamdeck": "",
         "switch": true
       },
-      "stores": [
-        "App Store",
-        "Epic Games",
-        "Nintendo Store",
-        "Steam"
-      ],
+      "stores": ["App Store", "Epic Games", "Nintendo Store", "Steam"],
       "total_reviews": 0,
       "header_image": "https://gruberb.github.io/ludoteca/images/rytmos.jpg",
       "release_date": "2023-02-28",
@@ -7807,9 +7135,7 @@
         "steamdeck": "verified",
         "switch": false
       },
-      "stores": [
-        "Steam"
-      ],
+      "stores": ["Steam"],
       "steam_id": 1817230,
       "user_score": 9,
       "total_reviews": 15144,
@@ -7834,9 +7160,7 @@
         "steamdeck": "verified",
         "switch": false
       },
-      "stores": [
-        "Steam"
-      ],
+      "stores": ["Steam"],
       "steam_id": 2395210,
       "user_score": 8,
       "total_reviews": 2365,
@@ -7861,9 +7185,7 @@
         "steamdeck": "verified",
         "switch": false
       },
-      "stores": [
-        "Steam"
-      ],
+      "stores": ["Steam"],
       "steam_id": 221380,
       "user_score": 9,
       "total_reviews": 35789,
@@ -7888,10 +7210,7 @@
         "steamdeck": "verified",
         "switch": false
       },
-      "stores": [
-        "GOG",
-        "Steam"
-      ],
+      "stores": ["GOG", "Steam"],
       "steam_id": 1229490,
       "user_score": 9,
       "total_reviews": 92748,
@@ -7915,10 +7234,7 @@
         "steamdeck": "verified",
         "switch": false
       },
-      "stores": [
-        "Steam",
-        "itch.io"
-      ],
+      "stores": ["Steam", "itch.io"],
       "steam_id": 698780,
       "user_score": 8,
       "total_reviews": 190,
@@ -7942,9 +7258,7 @@
         "steamdeck": "verified",
         "switch": true
       },
-      "stores": [
-        "Steam"
-      ],
+      "stores": ["Steam"],
       "steam_id": 1205520,
       "user_score": 8,
       "total_reviews": 4001,
@@ -7963,16 +7277,14 @@
         "Eurogamer": 89
       },
       "platforms": {
-        "windows": false,
-        "macos": false,
+        "windows": true,
+        "macos": true,
         "linux": false,
         "steamdeck": "",
         "switch": false
       },
-      "stores": [
-        "Steam"
-      ],
-      "steam_id": 34009,
+      "stores": ["Steam"],
+      "steam_id": 2252570,
       "total_reviews": 0,
       "header_image": "https://gruberb.github.io/ludoteca/images/football_manager_2024.jpg",
       "release_date": "2023-11-06",
@@ -7992,9 +7304,7 @@
         "steamdeck": "",
         "switch": false
       },
-      "stores": [
-        "GOG"
-      ],
+      "stores": ["GOG"],
       "total_reviews": 0,
       "header_image": "https://gruberb.github.io/ludoteca/images/simcity_2000.jpg",
       "release_date": "1993-01-01",
@@ -8014,11 +7324,7 @@
         "steamdeck": "verified",
         "switch": false
       },
-      "stores": [
-        "Epic Games",
-        "GOG",
-        "Steam"
-      ],
+      "stores": ["Epic Games", "GOG", "Steam"],
       "steam_id": 1336490,
       "user_score": 9,
       "total_reviews": 15097,
@@ -8043,10 +7349,7 @@
         "steamdeck": "verified",
         "switch": false
       },
-      "stores": [
-        "GOG",
-        "Steam"
-      ],
+      "stores": ["GOG", "Steam"],
       "steam_id": 211740,
       "user_score": 8,
       "total_reviews": 1269,
@@ -8071,12 +7374,7 @@
         "steamdeck": "verified",
         "switch": true
       },
-      "stores": [
-        "Nintendo Store",
-        "PlayStation Store",
-        "Steam",
-        "Xbox Store"
-      ],
+      "stores": ["Nintendo Store", "PlayStation Store", "Steam", "Xbox Store"],
       "steam_id": 851670,
       "user_score": 8,
       "total_reviews": 398,
@@ -8100,10 +7398,7 @@
         "steamdeck": "",
         "switch": false
       },
-      "stores": [
-        "PlayStation Store",
-        "Steam"
-      ],
+      "stores": ["PlayStation Store", "Steam"],
       "total_reviews": 0,
       "header_image": "https://gruberb.github.io/ludoteca/images/ghost_of_tsushima.jpg",
       "metacritic": 83,
@@ -8145,10 +7440,7 @@
         "steamdeck": "verified",
         "switch": false
       },
-      "stores": [
-        "Epic Games",
-        "Steam"
-      ],
+      "stores": ["Epic Games", "Steam"],
       "steam_id": 221910,
       "user_score": 8,
       "total_reviews": 27720,
@@ -8173,10 +7465,7 @@
         "steamdeck": "",
         "switch": false
       },
-      "stores": [
-        "PlayStation Store",
-        "Steam"
-      ],
+      "stores": ["PlayStation Store", "Steam"],
       "steam_id": 2572030,
       "total_reviews": 0,
       "header_image": "https://gruberb.github.io/ludoteca/images/diablo_iv.jpg",
@@ -8261,12 +7550,7 @@
         "steamdeck": "verified",
         "switch": false
       },
-      "stores": [
-        "PlayStation Store",
-        "Steam",
-        "Xbox 360 Store",
-        "Xbox Store"
-      ],
+      "stores": ["PlayStation Store", "Steam", "Xbox 360 Store", "Xbox Store"],
       "steam_id": 47810,
       "user_score": 8,
       "total_reviews": 18093,
@@ -8355,9 +7639,7 @@
         "steamdeck": "",
         "switch": false
       },
-      "stores": [
-        "Xbox 360 Store"
-      ],
+      "stores": ["Xbox 360 Store"],
       "total_reviews": 0,
       "header_image": "https://gruberb.github.io/ludoteca/images/burnout_3__takedown.jpg",
       "metacritic": 94,
@@ -8378,9 +7660,7 @@
         "steamdeck": "",
         "switch": false
       },
-      "stores": [
-        "Google Play"
-      ],
+      "stores": ["Google Play"],
       "total_reviews": 0,
       "header_image": "https://gruberb.github.io/ludoteca/images/qwop.jpg",
       "reddit_url": "",
@@ -8419,10 +7699,7 @@
         "steamdeck": "verified",
         "switch": false
       },
-      "stores": [
-        "GOG",
-        "Steam"
-      ],
+      "stores": ["GOG", "Steam"],
       "steam_id": 2600,
       "user_score": 8,
       "total_reviews": 9101,
@@ -8447,9 +7724,7 @@
         "steamdeck": "verified",
         "switch": true
       },
-      "stores": [
-        "Steam"
-      ],
+      "stores": ["Steam"],
       "steam_id": 1868140,
       "user_score": 9,
       "total_reviews": 39463,
@@ -8505,10 +7780,7 @@
         "steamdeck": "",
         "switch": false
       },
-      "stores": [
-        "GOG",
-        "Steam"
-      ],
+      "stores": ["GOG", "Steam"],
       "total_reviews": 0,
       "header_image": "https://gruberb.github.io/ludoteca/images/blood.jpg",
       "metacritic": 82,
@@ -8529,11 +7801,7 @@
         "steamdeck": "",
         "switch": false
       },
-      "stores": [
-        "PlayStation Store",
-        "Steam",
-        "Xbox 360 Store"
-      ],
+      "stores": ["PlayStation Store", "Steam", "Xbox 360 Store"],
       "total_reviews": 0,
       "header_image": "https://gruberb.github.io/ludoteca/images/city_of_heroes_homecoming.jpg",
       "metacritic": 64,
@@ -8554,10 +7822,7 @@
         "steamdeck": "verified",
         "switch": false
       },
-      "stores": [
-        "PlayStation Store",
-        "Steam"
-      ],
+      "stores": ["PlayStation Store", "Steam"],
       "steam_id": 1210550,
       "user_score": 7,
       "total_reviews": 49,
@@ -8613,9 +7878,7 @@
         "steamdeck": "verified",
         "switch": false
       },
-      "stores": [
-        "Steam"
-      ],
+      "stores": ["Steam"],
       "steam_id": 1284210,
       "user_score": 8,
       "total_reviews": 204,
@@ -8671,9 +7934,7 @@
         "steamdeck": "",
         "switch": false
       },
-      "stores": [
-        "App Store"
-      ],
+      "stores": ["App Store"],
       "total_reviews": 0,
       "header_image": "https://gruberb.github.io/ludoteca/images/honkai__star_rail.jpg",
       "release_date": "2023-04-22",
@@ -8693,9 +7954,7 @@
         "steamdeck": "verified",
         "switch": false
       },
-      "stores": [
-        "Steam"
-      ],
+      "stores": ["Steam"],
       "steam_id": 892970,
       "user_score": 9,
       "total_reviews": 236736,
