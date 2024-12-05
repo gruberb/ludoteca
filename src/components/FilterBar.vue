@@ -122,13 +122,12 @@
                         :value="store.selectedSource"
                     >
                         <option value="all">All Sources</option>
-                        <option value="IGN">IGN</option>
-                        <option value="PCGamer">PC Gamer</option>
-                        <option value="Eurogamer">Eurogamer</option>
-                        <option value="Polygon">Polygon</option>
-                        <option value="RPS">RPS</option>
-                        <option value="Polygon - PS5 Top 25">
-                            Polygon - PS5 Top 25
+                        <option
+                            v-for="source in store.metadata.sources"
+                            :key="source"
+                            :value="source"
+                        >
+                            {{ source }}
                         </option>
                     </select>
                 </div>

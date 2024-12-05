@@ -4,6 +4,7 @@ import config from "../config/api";
 export const useGamesStore = defineStore("games", {
   state: () => ({
     games: [],
+    metadata: { sources: [] },
     selectedPlatform: "all",
     selectedSource: "all",
     sortBy: "name",
@@ -111,6 +112,7 @@ export const useGamesStore = defineStore("games", {
         }
         const data = await response.json();
         this.games = data.games;
+        this.metadata = data.metadata;
       } catch (error) {
         this.error = error.message;
       } finally {
