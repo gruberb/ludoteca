@@ -1,15 +1,15 @@
 {
   "total_games": 315,
-  "last_updated": "2024-12-05T14:37:41.419909-05:00",
+  "last_updated": "2024-12-05T14:59:53.815370-05:00",
   "games": [
     {
       "title": "Disco Elysium",
       "rankings": {
-        "Eurogamer": 54,
         "PCGamer": 2,
         "Polygon - PS5 Top 25": 8,
+        "RPS": 16,
         "IGN": 10,
-        "RPS": 16
+        "Eurogamer": 54
       },
       "platforms": {
         "windows": true,
@@ -41,10 +41,10 @@
     {
       "title": "Baldur's Gate 3",
       "rankings": {
-        "PCGamer": 1,
-        "RPS": 2,
         "Polygon - PS5 Top 25": 5,
-        "Eurogamer": 6
+        "RPS": 2,
+        "Eurogamer": 6,
+        "PCGamer": 1
       },
       "platforms": {
         "windows": true,
@@ -74,9 +74,9 @@
       "title": "Elden Ring",
       "rankings": {
         "PCGamer": 3,
+        "Polygon - PS5 Top 25": 9,
         "Eurogamer": 8,
-        "RPS": 3,
-        "Polygon - PS5 Top 25": 9
+        "RPS": 3
       },
       "platforms": {
         "windows": true,
@@ -105,11 +105,11 @@
     {
       "title": "Resident Evil 4",
       "rankings": {
-        "IGN": 40,
         "Eurogamer": 50,
-        "RPS": 17,
+        "Polygon - PS5 Top 25": 21,
         "PCGamer": 63,
-        "Polygon - PS5 Top 25": 21
+        "RPS": 17,
+        "IGN": 40
       },
       "platforms": {
         "windows": true,
@@ -138,9 +138,9 @@
       "title": "Minecraft",
       "rankings": {
         "Eurogamer": 28,
+        "PCGamer": 4,
         "IGN": 33,
-        "RPS": 1,
-        "PCGamer": 4
+        "RPS": 1
       },
       "platforms": {
         "windows": false,
@@ -168,9 +168,9 @@
       "title": "Hades",
       "rankings": {
         "Eurogamer": 34,
+        "IGN": 13,
         "PCGamer": 20,
-        "Polygon - PS5 Top 25": 13,
-        "IGN": 13
+        "Polygon - PS5 Top 25": 13
       },
       "platforms": {
         "windows": true,
@@ -202,8 +202,8 @@
       "title": "Animal Well",
       "rankings": {
         "PCGamer": 43,
-        "Polygon": 6,
         "Polygon - PS5 Top 25": 2,
+        "Polygon": 6,
         "Eurogamer": 36
       },
       "platforms": {
@@ -231,9 +231,9 @@
     {
       "title": "Cyberpunk 2077",
       "rankings": {
-        "Eurogamer": 24,
         "Polygon - PS5 Top 25": 6,
         "PCGamer": 72,
+        "Eurogamer": 24,
         "RPS": 31
       },
       "platforms": {
@@ -264,10 +264,10 @@
     {
       "title": "Hollow Knight",
       "rankings": {
-        "PCGamer": 22,
-        "RPS": 32,
         "Eurogamer": 29,
-        "IGN": 54
+        "PCGamer": 22,
+        "IGN": 54,
+        "RPS": 32
       },
       "platforms": {
         "windows": true,
@@ -298,9 +298,9 @@
     {
       "title": "The Witcher 3: Wild Hunt",
       "rankings": {
-        "PCGamer": 6,
+        "IGN": 16,
         "RPS": 4,
-        "IGN": 16
+        "PCGamer": 6
       },
       "platforms": {
         "windows": true,
@@ -331,9 +331,9 @@
     {
       "title": "Helldivers 2",
       "rankings": {
-        "PCGamer": 14,
         "Polygon": 4,
-        "Eurogamer": 23
+        "Eurogamer": 23,
+        "PCGamer": 14
       },
       "platforms": {
         "windows": true,
@@ -359,10 +359,10 @@
     {
       "title": "Persona 5 Royal",
       "rankings": {
-        "IGN": 81,
-        "PCGamer": 5,
         "RPS": 27,
-        "Eurogamer": 79
+        "PCGamer": 5,
+        "Eurogamer": 79,
+        "IGN": 81
       },
       "platforms": {
         "windows": true,
@@ -391,8 +391,8 @@
     {
       "title": "Half-Life 2",
       "rankings": {
-        "IGN": 9,
         "PCGamer": 7,
+        "IGN": 9,
         "RPS": 49
       },
       "platforms": {
@@ -421,8 +421,8 @@
     {
       "title": "Final Fantasy XIV",
       "rankings": {
-        "IGN": 30,
         "PCGamer": 34,
+        "IGN": 30,
         "Polygon - PS5 Top 25": 10
       },
       "platforms": {
@@ -445,8 +445,8 @@
       "title": "Hitman World of Assassination",
       "rankings": {
         "Polygon - PS5 Top 25": 15,
-        "PCGamer": 50,
-        "RPS": 11
+        "RPS": 11,
+        "PCGamer": 50
       },
       "platforms": {
         "windows": true,
@@ -476,10 +476,10 @@
     {
       "title": "Doom",
       "rankings": {
+        "PCGamer": 10,
         "IGN": 29,
         "RPS": 85,
-        "Eurogamer": 88,
-        "PCGamer": 10
+        "Eurogamer": 88
       },
       "platforms": {
         "windows": true,
@@ -509,9 +509,9 @@
     {
       "title": "Fallout: New Vegas",
       "rankings": {
+        "PCGamer": 33,
         "RPS": 9,
-        "IGN": 45,
-        "PCGamer": 33
+        "IGN": 45
       },
       "platforms": {
         "windows": true,
@@ -541,9 +541,9 @@
     {
       "title": "Mass Effect: Legendary Edition",
       "rankings": {
+        "Eurogamer": 67,
         "PCGamer": 18,
-        "RPS": 7,
-        "Eurogamer": 67
+        "RPS": 7
       },
       "platforms": {
         "windows": true,
@@ -603,8 +603,8 @@
       "title": "Red Dead Redemption 2",
       "rankings": {
         "RPS": 79,
-        "IGN": 8,
-        "PCGamer": 15
+        "PCGamer": 15,
+        "IGN": 8
       },
       "platforms": {
         "windows": true,
@@ -634,8 +634,8 @@
     {
       "title": "Half-Life: Alyx",
       "rankings": {
-        "IGN": 26,
         "RPS": 67,
+        "IGN": 26,
         "Eurogamer": 20
       },
       "platforms": {
@@ -663,9 +663,9 @@
     {
       "title": "Outer Wilds",
       "rankings": {
-        "RPS": 20,
         "Eurogamer": 3,
-        "PCGamer": 90
+        "PCGamer": 90,
+        "RPS": 20
       },
       "platforms": {
         "windows": true,
@@ -697,8 +697,8 @@
       "title": "Spelunky 2",
       "rankings": {
         "RPS": 22,
-        "Eurogamer": 21,
-        "IGN": 75
+        "IGN": 75,
+        "Eurogamer": 21
       },
       "platforms": {
         "windows": true,
@@ -726,9 +726,9 @@
     {
       "title": "Alan Wake 2",
       "rankings": {
-        "PCGamer": 21,
+        "Eurogamer": 97,
         "Polygon - PS5 Top 25": 1,
-        "Eurogamer": 97
+        "PCGamer": 21
       },
       "platforms": {
         "windows": false,
@@ -751,8 +751,8 @@
     {
       "title": "Return of the Obra Dinn",
       "rankings": {
-        "IGN": 74,
         "Eurogamer": 10,
+        "IGN": 74,
         "PCGamer": 39
       },
       "platforms": {
@@ -785,10 +785,10 @@
     {
       "title": "Dishonored 2",
       "rankings": {
-        "Eurogamer": 76,
-        "IGN": 60,
         "RPS": 38,
-        "PCGamer": 76
+        "IGN": 60,
+        "PCGamer": 76,
+        "Eurogamer": 76
       },
       "platforms": {
         "windows": true,
@@ -819,8 +819,8 @@
       "title": "Grand Theft Auto V",
       "rankings": {
         "IGN": 12,
-        "RPS": 72,
-        "PCGamer": 45
+        "PCGamer": 45,
+        "RPS": 72
       },
       "platforms": {
         "windows": false,
@@ -848,9 +848,9 @@
     {
       "title": "Yakuza 0",
       "rankings": {
-        "PCGamer": 32,
+        "RPS": 8,
         "Eurogamer": 90,
-        "RPS": 8
+        "PCGamer": 32
       },
       "platforms": {
         "windows": true,
@@ -880,10 +880,10 @@
     {
       "title": "Titanfall 2",
       "rankings": {
-        "PCGamer": 68,
+        "IGN": 87,
         "Eurogamer": 65,
         "RPS": 36,
-        "IGN": 87
+        "PCGamer": 68
       },
       "platforms": {
         "windows": true,
@@ -912,9 +912,9 @@
     {
       "title": "Halo: the Master Chief Collection",
       "rankings": {
+        "Eurogamer": 85,
         "RPS": 15,
-        "PCGamer": 30,
-        "Eurogamer": 85
+        "PCGamer": 30
       },
       "platforms": {
         "windows": true,
@@ -942,8 +942,8 @@
     {
       "title": "The Legend of Zelda: Breath of the Wild",
       "rankings": {
-        "Eurogamer": 5,
-        "IGN": 1
+        "IGN": 1,
+        "Eurogamer": 5
       },
       "platforms": {
         "windows": false,
@@ -988,8 +988,8 @@
       "title": "Stardew Valley",
       "rankings": {
         "PCGamer": 9,
-        "Eurogamer": 35,
-        "RPS": 97
+        "RPS": 97,
+        "Eurogamer": 35
       },
       "platforms": {
         "windows": true,
@@ -1050,9 +1050,9 @@
     {
       "title": "Final Fantasy VII",
       "rankings": {
+        "Eurogamer": 43,
         "IGN": 98,
-        "Polygon": 9,
-        "Eurogamer": 43
+        "Polygon": 9
       },
       "platforms": {
         "windows": true,
@@ -1111,9 +1111,9 @@
     {
       "title": "Portal 2",
       "rankings": {
-        "IGN": 3,
         "RPS": 74,
-        "Eurogamer": 77
+        "Eurogamer": 77,
+        "IGN": 3
       },
       "platforms": {
         "windows": true,
@@ -1200,8 +1200,8 @@
     {
       "title": "Like A Dragon: Infinite Wealth",
       "rankings": {
-        "Polygon - PS5 Top 25": 16,
-        "Polygon": 19
+        "Polygon": 19,
+        "Polygon - PS5 Top 25": 16
       },
       "platforms": {
         "windows": true,
@@ -1229,8 +1229,8 @@
     {
       "title": "Pacific Drive",
       "rankings": {
-        "Polygon": 16,
-        "Polygon - PS5 Top 25": 19
+        "Polygon - PS5 Top 25": 19,
+        "Polygon": 16
       },
       "platforms": {
         "windows": true,
@@ -1284,8 +1284,8 @@
     {
       "title": "Neva",
       "rankings": {
-        "Polygon - PS5 Top 25": 18,
-        "Polygon": 20
+        "Polygon": 20,
+        "Polygon - PS5 Top 25": 18
       },
       "platforms": {
         "windows": true,
@@ -1312,8 +1312,8 @@
     {
       "title": "Bloodborne",
       "rankings": {
-        "IGN": 19,
-        "Eurogamer": 27
+        "Eurogamer": 27,
+        "IGN": 19
       },
       "platforms": {
         "windows": false,
@@ -1365,8 +1365,8 @@
     {
       "title": "Tactical Breach Wizards",
       "rankings": {
-        "RPS": 46,
-        "Polygon": 5
+        "Polygon": 5,
+        "RPS": 46
       },
       "platforms": {
         "windows": true,
@@ -1392,9 +1392,9 @@
     {
       "title": "The Elder Scrolls V: Skyrim",
       "rankings": {
-        "IGN": 41,
         "RPS": 100,
-        "PCGamer": 37
+        "PCGamer": 37,
+        "IGN": 41
       },
       "platforms": {
         "windows": true,
@@ -1424,8 +1424,8 @@
     {
       "title": "A Short Hike",
       "rankings": {
-        "RPS": 29,
-        "Eurogamer": 25
+        "Eurogamer": 25,
+        "RPS": 29
       },
       "platforms": {
         "windows": true,
@@ -1513,8 +1513,8 @@
     {
       "title": "Fortnite",
       "rankings": {
-        "IGN": 79,
         "PCGamer": 58,
+        "IGN": 79,
         "Eurogamer": 45
       },
       "platforms": {
@@ -1541,8 +1541,8 @@
     {
       "title": "God of War",
       "rankings": {
-        "RPS": 33,
-        "IGN": 25
+        "IGN": 25,
+        "RPS": 33
       },
       "platforms": {
         "windows": false,
@@ -1565,8 +1565,8 @@
     {
       "title": "RimWorld",
       "rankings": {
-        "RPS": 42,
-        "PCGamer": 17
+        "PCGamer": 17,
+        "RPS": 42
       },
       "platforms": {
         "windows": true,
@@ -1594,8 +1594,8 @@
     {
       "title": "Hades 2",
       "rankings": {
-        "RPS": 48,
-        "Polygon": 13
+        "Polygon": 13,
+        "RPS": 48
       },
       "platforms": {
         "windows": true,
@@ -1621,8 +1621,8 @@
     {
       "title": "Chrono Trigger",
       "rankings": {
-        "IGN": 24,
-        "RPS": 37
+        "RPS": 37,
+        "IGN": 24
       },
       "platforms": {
         "windows": true,
@@ -1686,8 +1686,8 @@
     {
       "title": "Citizen Sleeper",
       "rankings": {
-        "PCGamer": 49,
-        "Eurogamer": 14
+        "Eurogamer": 14,
+        "PCGamer": 49
       },
       "platforms": {
         "windows": true,
@@ -1748,8 +1748,8 @@
     {
       "title": "Hunt: Showdown",
       "rankings": {
-        "RPS": 40,
-        "PCGamer": 27
+        "PCGamer": 27,
+        "RPS": 40
       },
       "platforms": {
         "windows": true,
@@ -1778,8 +1778,8 @@
     {
       "title": "Apex Legends",
       "rankings": {
-        "RPS": 13,
-        "IGN": 55
+        "IGN": 55,
+        "RPS": 13
       },
       "platforms": {
         "windows": true,
@@ -1835,8 +1835,8 @@
     {
       "title": "Super Mario World",
       "rankings": {
-        "IGN": 2,
-        "Eurogamer": 72
+        "Eurogamer": 72,
+        "IGN": 2
       },
       "platforms": {
         "windows": false,
@@ -1859,8 +1859,8 @@
     {
       "title": "Mario Kart 8 Deluxe",
       "rankings": {
-        "IGN": 72,
-        "Eurogamer": 2
+        "Eurogamer": 2,
+        "IGN": 72
       },
       "platforms": {
         "windows": false,
@@ -1883,8 +1883,8 @@
     {
       "title": "XCOM 2",
       "rankings": {
-        "IGN": 65,
-        "PCGamer": 13
+        "PCGamer": 13,
+        "IGN": 65
       },
       "platforms": {
         "windows": true,
@@ -1940,8 +1940,8 @@
     {
       "title": "Inscryption",
       "rankings": {
-        "Eurogamer": 62,
-        "RPS": 18
+        "RPS": 18,
+        "Eurogamer": 62
       },
       "platforms": {
         "windows": true,
@@ -1970,8 +1970,8 @@
     {
       "title": "Armored Core 6 Fires of Rubicon",
       "rankings": {
-        "Polygon - PS5 Top 25": 3,
-        "PCGamer": 78
+        "PCGamer": 78,
+        "Polygon - PS5 Top 25": 3
       },
       "platforms": {
         "windows": true,
@@ -1999,8 +1999,8 @@
     {
       "title": "Tetris Effect",
       "rankings": {
-        "Eurogamer": 1,
-        "RPS": 81
+        "RPS": 81,
+        "Eurogamer": 1
       },
       "platforms": {
         "windows": false,
@@ -2024,8 +2024,8 @@
     {
       "title": "Shadow of the Colossus",
       "rankings": {
-        "IGN": 39,
-        "Eurogamer": 44
+        "Eurogamer": 44,
+        "IGN": 39
       },
       "platforms": {
         "windows": false,
@@ -2048,8 +2048,8 @@
     {
       "title": "Satisfactory",
       "rankings": {
-        "RPS": 57,
-        "Polygon": 26
+        "Polygon": 26,
+        "RPS": 57
       },
       "platforms": {
         "windows": true,
@@ -2192,8 +2192,8 @@
     {
       "title": "Stellaris",
       "rankings": {
-        "RPS": 53,
-        "PCGamer": 36
+        "PCGamer": 36,
+        "RPS": 53
       },
       "platforms": {
         "windows": true,
@@ -2249,8 +2249,8 @@
     {
       "title": "Gran Turismo 7",
       "rankings": {
-        "Polygon - PS5 Top 25": 12,
-        "Eurogamer": 78
+        "Eurogamer": 78,
+        "Polygon - PS5 Top 25": 12
       },
       "platforms": {
         "windows": false,
@@ -2273,8 +2273,8 @@
     {
       "title": "OlliOlli World",
       "rankings": {
-        "Eurogamer": 41,
-        "RPS": 52
+        "RPS": 52,
+        "Eurogamer": 41
       },
       "platforms": {
         "windows": true,
@@ -2362,8 +2362,8 @@
     {
       "title": "Death Stranding",
       "rankings": {
-        "PCGamer": 89,
-        "Polygon - PS5 Top 25": 7
+        "Polygon - PS5 Top 25": 7,
+        "PCGamer": 89
       },
       "platforms": {
         "windows": true,
@@ -2473,8 +2473,8 @@
     {
       "title": "Deus Ex",
       "rankings": {
-        "RPS": 61,
-        "PCGamer": 44
+        "PCGamer": 44,
+        "RPS": 61
       },
       "platforms": {
         "windows": false,
@@ -2524,8 +2524,8 @@
     {
       "title": "Metroid Prime",
       "rankings": {
-        "Eurogamer": 63,
-        "IGN": 42
+        "IGN": 42,
+        "Eurogamer": 63
       },
       "platforms": {
         "windows": false,
@@ -2572,9 +2572,9 @@
     {
       "title": "Left 4 Dead 2",
       "rankings": {
-        "RPS": 80,
         "PCGamer": 93,
-        "IGN": 51
+        "IGN": 51,
+        "RPS": 80
       },
       "platforms": {
         "windows": true,
@@ -2602,8 +2602,8 @@
     {
       "title": "Diablo II",
       "rankings": {
-        "PCGamer": 64,
-        "IGN": 49
+        "IGN": 49,
+        "PCGamer": 64
       },
       "platforms": {
         "windows": false,
@@ -2624,8 +2624,8 @@
     {
       "title": "Control",
       "rankings": {
-        "PCGamer": 53,
-        "IGN": 64
+        "IGN": 64,
+        "PCGamer": 53
       },
       "platforms": {
         "windows": true,
@@ -3268,8 +3268,8 @@
     {
       "title": "The Last of Us Part 2",
       "rankings": {
-        "Eurogamer": 95,
-        "IGN": 38
+        "IGN": 38,
+        "Eurogamer": 95
       },
       "platforms": {
         "windows": false,
@@ -3842,8 +3842,8 @@
     {
       "title": "Divinity: Original Sin 2",
       "rankings": {
-        "PCGamer": 41,
-        "IGN": 99
+        "IGN": 99,
+        "PCGamer": 41
       },
       "platforms": {
         "windows": true,
@@ -3871,8 +3871,8 @@
     {
       "title": "Destiny 2",
       "rankings": {
-        "RPS": 56,
-        "PCGamer": 85
+        "PCGamer": 85,
+        "RPS": 56
       },
       "platforms": {
         "windows": true,
@@ -5873,8 +5873,8 @@
     {
       "title": "League of Legends",
       "rankings": {
-        "Eurogamer": 73,
-        "IGN": 93
+        "IGN": 93,
+        "Eurogamer": 73
       },
       "platforms": {
         "windows": false,
@@ -6471,8 +6471,8 @@
     {
       "title": "Fallout 2",
       "rankings": {
-        "IGN": 94,
-        "RPS": 77
+        "RPS": 77,
+        "IGN": 94
       },
       "platforms": {
         "windows": true,
@@ -6558,8 +6558,8 @@
     {
       "title": "Inside",
       "rankings": {
-        "IGN": 88,
-        "PCGamer": 84
+        "PCGamer": 84,
+        "IGN": 88
       },
       "platforms": {
         "windows": true,
@@ -6641,8 +6641,8 @@
     {
       "title": "Resident Evil 2 (Remake)",
       "rankings": {
-        "RPS": 89,
-        "IGN": 84
+        "IGN": 84,
+        "RPS": 89
       },
       "platforms": {
         "windows": true,
@@ -7324,8 +7324,8 @@
     {
       "title": "Dead Cells",
       "rankings": {
-        "PCGamer": 91,
-        "RPS": 91
+        "RPS": 91,
+        "PCGamer": 91
       },
       "platforms": {
         "windows": true,
@@ -8711,11 +8711,11 @@
   "metadata": {
     "sources": [
       "Eurogamer",
-      "IGN",
-      "RPS",
       "Polygon",
+      "RPS",
       "Polygon - PS5 Top 25",
-      "PCGamer"
+      "PCGamer",
+      "IGN"
     ],
     "enrichment_used": {
       "steam": true,
