@@ -227,7 +227,7 @@
         "windows": true,
         "macos": true,
         "linux": false,
-        "steamdeck": "",
+        "steamdeck": "verified",
         "switch": false
       },
       "stores": [
@@ -237,7 +237,8 @@
         "Steam",
         "Xbox Store"
       ],
-      "steam_id": 343170,
+      "steam_id": 1091500,
+      "protondb_url": "https://www.protondb.com/app/1091500",
       "user_score": 0,
       "total_reviews": 7,
       "price": "CDN$ 5.99",
@@ -4607,13 +4608,15 @@
         "Polygon": 42
       },
       "platforms": {
-        "windows": false,
+        "windows": true,
         "macos": false,
         "linux": false,
         "steamdeck": "",
         "switch": false
       },
       "stores": ["Steam"],
+      "steam_id": 1336490,
+      "protondb_url": "https://www.protondb.com/app/1336490",
       "total_reviews": 0,
       "header_image": "https://gruberb.github.io/ludoteca/images/against_the_storm__keepers_of_the_stone_dlc.jpg",
       "release_date": "2016-01-29",
